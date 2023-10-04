@@ -32,20 +32,14 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",DMAX-TV HD
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",TARIM TV FHD
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Agro TV FHD
 https://yayin30.haber100.com/live/agrotv/chunklist_w597872828.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",YOL-TV
 https://stream.yol.tv:9443/medialive/yolanayayin.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",Edirne-TV HD
 https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",YESILCAM TV-1 HD
-https://nimplus3.bozztv.com/yumrcaktv/yumrcaktv/chunklist_w738287777.m3u8
 #EXTINF:-1 group-title="TV LISTEM",AFYON TÜRK TV HD
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
@@ -54,8 +48,6 @@ http://dmi3y-tv.ru/hls/CH_DIZI.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Dizi-TV2
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14006/index.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",TEBER9-TV 2
-https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",YANSİNEMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",YANSİNEMA TV HD
@@ -91,8 +83,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 #EXTINF:-1 group-title="TV LISTEM",Number 1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",Turan-TV AZE
-https://donvolga.com/Turan-TV/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",BAKU-TV FHD AZE
 https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KEPEZ-TV AZE
@@ -108,9 +98,7 @@ https://qebele.tv/live/stream/index.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",NAXCIVAN-TV
 https://str1.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Ümid-TV AZE1
-http://aanax.com:8080/stadnik/6a627b52a9/163778
-#EXTINF:-1 group-title="TV LISTEM",Ümid-TV AZE2
+#EXTINF:-1 group-title="TV LISTEM",Ümid-TV AZE
 https://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/chunklist_w771332885_b1696000.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Könül-TV AZE
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
@@ -367,6 +355,12 @@ http://dmi3y-tv.ru/hls/CH_MUSICBOX_RUSSIAHD.m3u8
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",4ever music FHD
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/970/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",4ever music FHD
+rtmp://93.189.60.202//970
+#EXTINF:-1 group-title="TV LISTEM",EU Music FHD
+rtmp://93.189.60.202//925
+#EXTINF:-1 group-title="TV LISTEM",Music FHD
+http://95.67.12.89:9087
 
 #EXTINF:-1 group-title="TV LISTEM",ZEROUNO-TV (Italyan Music)
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w1156278859.m3u8
@@ -416,12 +410,12 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",DBM-TV (Afrika music)
 https://edge21.vedge.infomaniak.com/livecast/smil:dbmtv.smil/chunklist_w1043965091_b4000000.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",NOW 70s SD
-https://lightning-now70s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 group-title="TV LISTEM",NOW 80s SD
-https://lightning-now80s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 group-title="TV LISTEM",NOW 90s SD
-https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 group-title="TV LISTEM",NOW 70s HD
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="TV LISTEM",NOW 80s HD
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="TV LISTEM",NOW 90s HD
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",RU-TV HD
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
@@ -475,8 +469,6 @@ http://dmi3y-tv.ru/hls/CH_PRO100.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Zafer günü-FHDTV (День победы)
 http://dmi3y-tv.ru/hls/CH_DENPOBEDYHD.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",KINO.UJAS-FHDTV (YAKINDA)
-http://dmi3y-tv.ru/hls/CH_KINOUZHAS.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KINO.PREMIERA-FHDTV
 http://dmi3y-tv.ru/hls/blrus/CH_KINOPREMIERAHD.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KINO LIVING FHDTV
@@ -574,6 +566,18 @@ http://23.146.40.56:8000/sltvmaxdareg/LXF1ZjDXOn6l2hr/785
 #EXTINF:-1 group-title="TV LISTEM",MX
 http://23.146.40.56:8000/sltvmaxdareg/LXF1ZjDXOn6l2hr/788
 
+#EXTINF:-1 group-title="TV LISTEM",Sinema 1
+https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Sinema 2
+https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Sinema 3
+https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Yesilcam 1
+https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Yesilcam 2
+https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 group-title="TV ÖZEL",PRO +
 rtmp://bintu-play.nanocosmos.de:1935/play/fP9rp-dkTGJ
@@ -591,21 +595,17 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",T.K.F-FHD
 http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F+2
+#EXTINF:-1 group-title="TV ÖZEL",T.K.F+1
 http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F+3
-http://w2q09nkb.tvclub.xyz/iptv/6S7B8P26Q4YFG4/9251/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F+4
-http://w2q09nkb.tvclub.xyz/iptv/6S7B8P26Q4YFG4/5050/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F+5
+#EXTINF:-1 group-title="TV ÖZEL",T.K.F+2
 http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach Planeta
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",FT-FHD+1
+#EXTINF:-1 group-title="TV ÖZEL",FT-FHD
 http://dmi3y-tv.ru/hls/CH_FUTBOLNIYHD.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",FT+2
+#EXTINF:-1 group-title="TV ÖZEL",FT+1
 http://dmi3y-tv.ru/hls/CH_FUTBOLNIY.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",SP-FHD+1
@@ -618,8 +618,6 @@ http://dmi3y-tv.ru/hls/CH_HOKKEYNYHD.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",SPORT (AstraXan)
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Gol TV (USA)
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Sport2U
@@ -673,11 +671,6 @@ http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/220/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach Premier TV FHD2
 http://w2q09nkb.tvclub.xyz/iptv/6S7B8P26Q4YFG4/2414/index.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD 50fps
-http://a6vfdncw.megatv.fun/iptv/LSMVBSRQY4ZR76/10020/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps1
-http://a6vfdncw.megatv.fun/iptv/LSMVBSRQY4ZR76/10015/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps2
 http://w2q09nkb.tvclub.xyz/iptv/6S7B8P26Q4YFG4/5072/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps3
@@ -687,15 +680,11 @@ http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5072/index.m3u
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps5
 http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2407/index.m3u
 
-#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-2 FHD 50fps1
-http://a6vfdncw.megatv.fun/iptv/LSMVBSRQY4ZR76/10027/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-2 FHD 50fps2
 http://w2q09nkb.tvclub.xyz/iptv/6S7B8P26Q4YFG4/2420/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-2 FHD 50fps3
 http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2420/index.m3u
 
-#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 FHD 50fps1
-http://a6vfdncw.megatv.fun/iptv/LSMVBSRQY4ZR76/10016/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 FHD 50fps2
 http://w2q09nkb.tvclub.xyz/iptv/6S7B8P26Q4YFG4/5071/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 FHD 50fps3
@@ -740,9 +729,6 @@ http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2529/index.m3u
 #EXTINF:-1 group-title="TV ÖZEL",SPORT TV + PT
 http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2530/index.m3u
 
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F-SD
-http://ru.iptv.monster/play/171/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F-FHD
 http://ru.iptv.monster/play/3920/C94BDA70C92CDB2/video.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Setanta Sports Ukraine
 http://ru.iptv.monster/play/1434/C94BDA70C92CDB2/video.m3u8
@@ -795,6 +781,11 @@ https://seni.trgoals494.xyz/yayinss2.m3u8
 http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20085
 #EXTINF:-1 group-title="TV ÖZEL",S+2
 http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20086
+
+#EXTINF:-1 group-title="TV ÖZEL",T.K.F-SD
+http://ru.iptv.monster/play/171/C94BDA70C92CDB2/video.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",T.K.F-FHD
+http://ru.iptv.monster/play/3920/C94BDA70C92CDB2/video.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",T.K.FUTBOOL (1)
 http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/9251/index.m3u8
@@ -1401,24 +1392,6 @@ https://s230.rapidrame.com/hls2/01/00004/9slpwern4ztp_,l,n,.urlset/index-f2-v1-a
 
 
 
-#EXTINF:-1 group-title="VOD DIZI",Bambaşka Biri 1.Bölüm
-https://foxtv-vod.ercdn.net/Bambaska-Biri/bolumler/1/PDTBAMBASKABIRI1HDYENIRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovbnGvek_oacnsL7.m3u8?e=1695577148&st=SKQwidLSaMrpw_liv_mJ9g
-
-#EXTINF:-1 group-title="VOD DIZI",Bambaşka Biri 2.Bölüm
-https://foxtv-vod.ercdn.net/Bambaska-Biri/bolumler/2/PDTBAMBASKABIRI2HDYENI1RTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovbnGvek_oacnsT7.m3u8?e=1695576849&st=U9Oq4W35Mv4j_eFvuV1V5g
-
-#EXTINF:-1 group-title="VOD DIZI",Bambaşka Biri 3.BÖLÜM FRAGMANI 1
-https://foxtv-vod.ercdn.net/Bambaska-Biri/fragmanlar/3/PRY1BAMBAS_EP03_25EYLPZT_V104.smil/hlssubplaylist-ovbnGvek_oacnWT7.m3u8?e=1695577516&st=MTKvrMsS61VSKqJU2gQq6Q
-
-#EXTINF:-1 group-title="VOD DIZI",Bambaşka Biri 3.BÖLÜM FRAGMANI 2
-https://foxtv-vod.ercdn.net/Bambaska-Biri/fragmanlar/3/PRY1BAMBAS_EP03_25EYLPZT_V2.smil/hlssubplaylist-ovbnGvek_oacnKJ7.m3u8?e=1695576749&st=lxTz1UQaytOvw1FezEagCw
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="VOD DIZI",Seksenler 1.Bölüm
 https://cdn-v.pr.trt.com.tr/trttv/website/04c2b7bb-fc9c-4fd3-b316-4e90936f463b/master1080p.m3u8
 #EXTINF:-1 group-title="VOD DIZI",Seksenler 2.Bölüm
@@ -1695,7 +1668,36 @@ https://cdn-v.pr.trt.com.tr/trttv/website/2a8c3ebf-f36d-44c0-aa2c-19e26a0b3bd6/m
 https://cdn-v.pr.trt.com.tr/trttv/website/5641ec41-1dbd-4025-837f-713a8e5e4213/master1080p.m3u8
 #EXTINF:-1 group-title="VOD DIZI",7-Numara 77.Bölüm
 https://cdn-v.pr.trt.com.tr/trttv/website/b33657ea-aa98-406c-8017-c0dfdb5e1eba/master1080p.m3u8
-
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 78.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/29a62a26-5fb7-4678-a9e8-701ca0388af9/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 79.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/92f8771a-4ed7-4ccf-beba-6d60f38d53e2/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 80.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/9d445e3d-9a7f-4a47-a3c3-5c02aad3e8a4/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 81.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/f0650537-3d5b-4b92-8121-1f524e822f4b/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 82.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/5f2ae09e-45e6-4b1a-9c7b-98be4d2bb74f/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 83.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/e94173af-9636-4985-bb83-08437232cf50/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 84.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/b49bf1fd-2cae-477a-bbc1-d0b5db65bf4b/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 85.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/5e166e45-19f2-4dd3-9e0c-82c114b753a5/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 86.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/7e24f5d7-39bf-4517-b4fb-45e6b16625e2/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 87.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/86ada2cf-8fc8-47d9-9af9-746cca0d3ae5/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 88.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/1f13e9dd-db79-43e4-880f-03fcbd11b255/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 89.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/c82d4579-b278-4572-8020-00cf94264f30/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 90.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/76693164-5fcb-4343-9a5a-d2471363d764/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 91.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/47439f5e-e19d-4ebf-adf8-afe0b44e23a5/master1080p.m3u8
+#EXTINF:-1 group-title="VOD DIZI",7-Numara 92.Bölüm
+https://cdn-v.pr.trt.com.tr/trttv/website/565afbca-9e69-498e-abdb-03d44fb8d29a/master1080p.m3u8
 
 
 #EXTINF:0 tvg-rec="0",Fox HD
