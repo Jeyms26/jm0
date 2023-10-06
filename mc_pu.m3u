@@ -580,11 +580,11 @@ https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="TV ÖZEL",PRO +
-rtmp://bintu-play.nanocosmos.de:1935/play/fP9rp-dkTGJ
+rtmp://bintu-play.nanocosmos.de:1935/play/pyxRe-R4yU0
 #EXTINF:-1 group-title="TV ÖZEL",PRO + PLUS
 rtmp://bintu-play.nanocosmos.de:1935/play/zERo7-SFejt
 #EXTINF:-1 group-title="TV ÖZEL",PRO + Kartal
-rtmp://bintu-play.nanocosmos.de:1935/play/nFXlb-KxpW1
+rtmp://bintu-play.nanocosmos.de:1935/play/fP9rp-dkTGJ
 
 #EXTINF:-1 group-title="TV ÖZEL",NTVSPOR
 http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
