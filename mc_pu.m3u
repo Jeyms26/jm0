@@ -580,8 +580,8 @@ https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",P.U+1
 rtmp://amsterdam.restream.io/live/re_7154673_cc51c88fdc4163d6da53
-#EXTINF:-1 group-title="TV ÖZEL",P.U+2++
-rtmp://london.restream.io/live/re_7154673_cc51c88fdc4163d6da53
+#EXTINF:-1 group-title="TV ÖZEL",P.U+3++
+rtmp://frankfurt.restream.io/live/re_7154673_cc51c88fdc4163d6da53
 #EXTINF:-1 group-title="TV ÖZEL",PRO +
 rtmp://bintu-play.nanocosmos.de:1935/play/pyxRe-R4yU0
 #EXTINF:-1 group-title="TV ÖZEL",PRO + PLUS
