@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV ÖZEL",P.U+TEST
-rtmps://amsterdam.restream.io:1937/live/re_7154673_fc9c9ccaa55ad7ac04bf
-#EXTINF:-1 group-title="TV ÖZEL",TEST CAN-3
-rtmp://live.restream.io/live/re_7154673_1420709970c60a971a37
+#EXTINF:-1 group-title="TV ÖZEL",SON BIR TEST
+rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
+
 
 #EXTINF:-1 group-title="TV LISTEM",TRT-1 FHD
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
