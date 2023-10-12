@@ -3984,15 +3984,17 @@ rtmp://192.168.100.98:1935/live/medic35
 rtmp://192.168.100.98:1935/live/medic35
 
 
-#EXTINF:-1 group-title="TEST",TEST 55
-rtmp://rtmp-auto.millicast.com:1935/v2/pub/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814&sourceId=3&simulcastId&videoOnly
-
-#EXTINF:-1 group-title="TEST",TEST 56
+#EXTINF:-1 group-title="TEST",TEST duz
 rtmp://rtmp-auto.millicast.com:1935/v2/pub/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814
 
-#EXTINF:-1 group-title="TEST",TEST 66
-https://viewer.millicast.comstreamId=WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814
+#EXTINF:-1 group-title="TEST",TEST u
+rtmp://rtmp-auto.millicast.com:1935/v2/pub/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.m3u
 
-#EXTINF:-1 group-title="TEST",TEST 67
-https://director.millicast.com/api/whep/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814
+#EXTINF:-1 group-title="TEST",TEST 8
+rtmp://rtmp-auto.millicast.com:1935/v2/pub/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.m3u8
 
+#EXTINF:-1 group-title="TEST",TEST 4
+rtmp://rtmp-auto.millicast.com:1935/v2/pub/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.mp4
+
+#EXTINF:-1 group-title="TEST",TEST flv
+rtmp://rtmp-auto.millicast.com:1935/v2/pub/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.flv
