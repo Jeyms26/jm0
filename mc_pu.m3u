@@ -3972,3 +3972,13 @@ http://my105-stream17.radiohost.de/my105-djradio_mp3-192?
 https://stream-159.zeno.fm/vbps31umzk0uv?zs=mZHTqmO4Sq2tUDw-3HICpA
 #EXTINF:-1 group-title="RADYO",SALSA RADIO
 http://radio.domiplay.net:2002/stream/1/
+
+
+#EXTINF:-1 group-title="TEST",TEST 1
+rtmp://192.168.100.98:1935/live/medic35
+
+#EXTINF:-1 group-title="TEST",TEST 2
+rtmp://192.168.100.98:1935/live/medic35
+
+#EXTINF:-1 group-title="TEST",TEST 3
+rtmp://192.168.100.98:1935/live/medic35
