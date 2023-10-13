@@ -3998,3 +3998,9 @@ https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512
 
 #EXTINF:-1 group-title="TEST",TEST flv
 https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.flv
+
+#EXTINF:-1 group-title="TEST",TEST YENI-1
+rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e
+
+#EXTINF:-1 group-title="TEST",TEST YENI-P8
+rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e/playlist.m3u8
