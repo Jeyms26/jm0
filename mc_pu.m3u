@@ -3975,34 +3975,8 @@ http://radio.domiplay.net:2002/stream/1/
 
 
 
-#EXTINF:-1 group-title="TEST",TEST duz
-https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814
-
-#EXTINF:-1 group-title="TEST",TEST u
-https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.m3u
-
-#EXTINF:-1 group-title="TEST",TEST 8
-https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.m3u8
-
-#EXTINF:-1 group-title="TEST",TEST 4
-https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.mp4
-
-#EXTINF:-1 group-title="TEST",TEST flv
-https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.flv
-
-
-
-#EXTINF:-1 group-title="TEST",TEST YENI
-rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e
-
 #EXTINF:-1 group-title="TEST",TEST YENI-F
 rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.flv
 
-#EXTINF:-1 group-title="TEST",TEST YENI-4
-rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.mp4
-
-#EXTINF:-1 group-title="TEST",TEST YENI-U8
-rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.m3u8
-
-#EXTINF:-1 group-title="TEST",TEST YENI-U
-rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.m3u
+#EXTINF:-1 group-title="TEST",TEST YENI-A
+rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.avi
