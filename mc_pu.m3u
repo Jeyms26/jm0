@@ -3974,15 +3974,6 @@ https://stream-159.zeno.fm/vbps31umzk0uv?zs=mZHTqmO4Sq2tUDw-3HICpA
 http://radio.domiplay.net:2002/stream/1/
 
 
-#EXTINF:-1 group-title="TEST",TEST 1
-rtmp://192.168.100.98:1935/live/medic35
-
-#EXTINF:-1 group-title="TEST",TEST 2
-rtmp://192.168.100.98:1935/live/medic35
-
-#EXTINF:-1 group-title="TEST",TEST 3
-rtmp://192.168.100.98:1935/live/medic35
-
 
 #EXTINF:-1 group-title="TEST",TEST duz
 https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814
@@ -3999,14 +3990,19 @@ https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512
 #EXTINF:-1 group-title="TEST",TEST flv
 https://director.millicast.com/WVaLfz/edic?token=0c0c9d8a62cc1ca780d45d911d4a512d12a04f6cc74739daca71844c3e9bc814.flv
 
-#EXTINF:-1 group-title="TEST",TEST YENI-1
+
+
+#EXTINF:-1 group-title="TEST",TEST YENI
 rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e
 
-#EXTINF:-1 group-title="TEST",TEST YENI-P8
-rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",TEST YENI-FL
+#EXTINF:-1 group-title="TEST",TEST YENI-F
 rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.flv
 
-#EXTINF:-1 group-title="TEST",TEST YENI-PS
-https://53504a75e6f0.entrypoint.cloud.wowza.com/app-1586cw71/ngrp:572a2df5_all/playlist.m3u8
+#EXTINF:-1 group-title="TEST",TEST YENI-4
+rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.mp4
+
+#EXTINF:-1 group-title="TEST",TEST YENI-U8
+rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.m3u8
+
+#EXTINF:-1 group-title="TEST",TEST YENI-U
+rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.m3u
