@@ -4004,3 +4004,9 @@ rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e
 
 #EXTINF:-1 group-title="TEST",TEST YENI-P8
 rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e/playlist.m3u8
+
+#EXTINF:-1 group-title="TEST",TEST YENI-FL
+rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.flv
+
+#EXTINF:-1 group-title="TEST",TEST YENI-PS
+https://53504a75e6f0.entrypoint.cloud.wowza.com/app-1586cw71/ngrp:572a2df5_all/playlist.m3u8
