@@ -577,7 +577,49 @@ https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Yesilcam 2
 https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="TV LISTEM",V+N FHDTV
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 
+#EXTINF:-1 group-title="TV LISTEM",Prokop-TV UHD/4K
+http://193.123.63.171:8080/channel/51ecbccf/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 group-title="TV LISTEM",FTV UHD/4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="TV ÖZEL",M.GO-FHDTV
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",M.GO-1 FHDTV
+http://ca.ukrainske.tv/317/DAF7E574BE5237A/video.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",M.GO-2 FHDTV
+http://ca.ukrainske.tv/318/DAF7E574BE5237A/video.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",S.Kazakistan FHDTV
+https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",S.Sports 1 FHDTV
+https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",S.Sports 2 FHDTV
+https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",S.Sports 1 FHDTV
+https://tv.movielab.pro/942/video.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",S.Sports FHDTV
+rtmp://93.189.60.202//272
+#EXTINF:-1 group-title="TV ÖZEL",S.Sports+ FHDTV
+http://95.67.12.89:9013
+
+#EXTINF:-1 group-title="TV ÖZEL",Super Sport IT
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",V.Sport FHDTV
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",Motor Rac
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",T.K.F-FHD
 http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
@@ -3964,14 +4006,14 @@ https://stream-159.zeno.fm/vbps31umzk0uv?zs=mZHTqmO4Sq2tUDw-3HICpA
 http://radio.domiplay.net:2002/stream/1/
 
 
-#EXTINF:-1 group-title="MAC ZAMANI",PRO +
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO +
 rtmp://bintu-play.nanocosmos.de:1935/play/eykKm-1kX1e
-#EXTINF:-1 group-title="MAC ZAMANI",PRO + PLUS
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS
 rtmp://bintu-play.nanocosmos.de:1935/play/xiLUt-7IPmL
-#EXTINF:-1 group-title="MAC ZAMANI",PRO + Kartal
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Kartal
 rtmp://bintu-play.nanocosmos.de:1935/play/fP9rp-dkTGJ
-#EXTINF:-1 group-title="MAC ZAMANI",PRO + OZEL
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + OZEL
 rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
-#EXTINF:-1 group-title="MAC ZAMANI",PRO + 20
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + 20
 rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
 
