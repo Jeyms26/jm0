@@ -773,6 +773,9 @@ http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20085
 #EXTINF:-1 group-title="TV ÖZEL",S+2
 http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20086
 
+#EXTINF:-1 group-title="TV ÖZEL",NTV-S
+http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",T.K.F-SD
 http://ru.iptv.monster/play/171/C94BDA70C92CDB2/video.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",T.K.F-FHD
@@ -3967,10 +3970,8 @@ rtmp://bintu-play.nanocosmos.de:1935/play/eykKm-1kX1e
 rtmp://bintu-play.nanocosmos.de:1935/play/xiLUt-7IPmL
 #EXTINF:-1 group-title="MAC ZAMANI",PRO + Kartal
 rtmp://bintu-play.nanocosmos.de:1935/play/fP9rp-dkTGJ
-#EXTINF:-1 group-title="MAC ZAMANI",PRO + OZEL-1
+#EXTINF:-1 group-title="MAC ZAMANI",PRO + OZEL
 rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
-#EXTINF:-1 group-title="MAC ZAMANI",PRO + OZEL-2
+#EXTINF:-1 group-title="MAC ZAMANI",PRO + 20
 rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
 
-#EXTINF:-1 group-title="MAC ZAMANI",NTV-S
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
