@@ -579,31 +579,17 @@ https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="TV ÖZEL",T.K.F-FHD
+http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",T.K.F+SD1
+http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",T.K.F+SD2
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
 
-#EXTINF:-1 group-title="TV ÖZEL",PRO +
-rtmp://bintu-play.nanocosmos.de:1935/play/eykKm-1kX1e
-#EXTINF:-1 group-title="TV ÖZEL",PRO + PLUS
-rtmp://bintu-play.nanocosmos.de:1935/play/xiLUt-7IPmL
-#EXTINF:-1 group-title="TV ÖZEL",PRO + Kartal
-rtmp://bintu-play.nanocosmos.de:1935/play/fP9rp-dkTGJ
-#EXTINF:-1 group-title="TV ÖZEL",PRO + OZEL-1
-rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
-#EXTINF:-1 group-title="TV ÖZEL",PRO + OZEL-2
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
-
-#EXTINF:-1 group-title="TV ÖZEL",NTVSPOR
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",BEYAZRUSYA-5 FHDTV
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",BEYAZRUSYA-5 FHDTV (INT)
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F-FHD
-http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F+1
-http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F+2
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach Planeta
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
@@ -3974,3 +3960,17 @@ https://stream-159.zeno.fm/vbps31umzk0uv?zs=mZHTqmO4Sq2tUDw-3HICpA
 #EXTINF:-1 group-title="RADYO",SALSA RADIO
 http://radio.domiplay.net:2002/stream/1/
 
+
+#EXTINF:-1 group-title="MAC ZAMANI",PRO +
+rtmp://bintu-play.nanocosmos.de:1935/play/eykKm-1kX1e
+#EXTINF:-1 group-title="MAC ZAMANI",PRO + PLUS
+rtmp://bintu-play.nanocosmos.de:1935/play/xiLUt-7IPmL
+#EXTINF:-1 group-title="MAC ZAMANI",PRO + Kartal
+rtmp://bintu-play.nanocosmos.de:1935/play/fP9rp-dkTGJ
+#EXTINF:-1 group-title="MAC ZAMANI",PRO + OZEL-1
+rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
+#EXTINF:-1 group-title="MAC ZAMANI",PRO + OZEL-2
+rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
+
+#EXTINF:-1 group-title="MAC ZAMANI",NTV-S
+http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
