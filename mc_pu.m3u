@@ -590,6 +590,12 @@ rtmp://bintu-play.nanocosmos.de:1935/play/fP9rp-dkTGJ
 #EXTINF:-1 group-title="TV ÖZEL",PRO + OZEL
 rtmp://origin.cdn.wowza.com/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.flv
 
+#EXTINF:-1 group-title="TV ÖZEL",PRO + OZEL22
+rtmp://origin.cdn.wowza.com:1935/live/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.flv
+
+#EXTINF:-1 group-title="TV ÖZEL",PRO + OZEL22
+rtmp://origin.cdn.wowza.com:1935/0I5p2Pcs9Nwm5rUysV0ODLgUSgCf590e.flv
+
 #EXTINF:-1 group-title="TV ÖZEL",PRO + OZEL-2
 rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
 
