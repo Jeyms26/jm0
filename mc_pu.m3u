@@ -570,11 +570,6 @@ https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 
 
 
-#EXTINF:-1 group-title="TV ÖZEL",M.G-1 FHDTV
-http://ca.ukrainske.tv/317/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",M.G-2 FHDTV
-http://ca.ukrainske.tv/318/DAF7E574BE5237A/video.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL",S.Kazakistan FHDTV
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",S.Sports 1 FHDTV
@@ -597,10 +592,11 @@ https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Motor Rac
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F-FHD
-http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F+SD1
-http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",M.G-1 FHDTV
+http://ca.ukrainske.tv/317/DAF7E574BE5237A/video.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",M.G-2 FHDTV
+http://ca.ukrainske.tv/318/DAF7E574BE5237A/video.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",T.K.F+SD2
 http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
 
@@ -3977,3 +3973,7 @@ rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + 20
 rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
 
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)
+http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)
+http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
