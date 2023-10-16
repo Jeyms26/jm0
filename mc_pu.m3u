@@ -566,402 +566,72 @@ https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 
 
 
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Üçlü Pürüz (2023)
+#EXTINF:-1 group-title="ISTEK SINEMA",Hızlı ve Öfkeli 10 (2023)
+https://s230.rapidrame.com/hls2/01/00018/q5xrgun9chrn_,l,n,.urlset/index-f2-v1-a2.m3u8?t=LwbUp03qJTQumRtmWfUF4dQQl7I7u82DVep67j-8k_I&s=1697426362&e=1199998800&f=91000&srv=s288&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Ölümcül Hesaplaşma 1-Bölüm (2023)
+https://s231.rapidrame.com/hls2/01/00018/oznaxuyh84ll_,l,n,.urlset/index-f2-v1-a1.m3u8?t=FSDPYtNjBeSTfElmX1WqaeANGtR1gWR2FzP_J8uf57Q&s=1697426592&e=1199998800&f=90907&srv=s131&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Adalet 3 (2023)
+https://s230.rapidrame.com/hls2/01/00018/cyc9s75vtm2l_,l,n,.urlset/index-f2-v1-a1.m3u8?t=FKkqw25Dw9uvNdg_1DxoZqp3jqR2x1gfuYvZnlCZ7X0&s=1697426663&e=1199998800&f=90965&srv=s301&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 group-title="ISTEK SINEMA",65 (2023)
+https://s230.rapidrame.com/hls2/01/00017/79jnn3gbbxyy_,l,n,.urlset/index-f2-v1-a1.m3u8?t=uK_qSgsaR0MBaub8zE7nawFGPDTaMOEsSbjIQOAXZ0M&s=1692202682&e=1199998800&f=87341&srv=s234&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Meg 2 Çukur (2023)
+https://s230.rapidrame.com/hls2/01/00017/cpnjma6zps1s_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bEUwjuD4eqfdQfx6yNXwTmy5lkMUcX9nRTgW_ZmYuGY&s=1695526731&e=1199998800&f=89111&srv=s179&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Küçük Deniz Kızı (2023)
+https://s231.rapidrame.com/hls2/01/00017/hijioihlhfw9_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Y12dEm6X5BMREptnGw4huicFx0GtUeQBLA1iuz_MjZU&s=1694301793&e=1199998800&f=88858&srv=s137&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Zindanlar ve Ejderhalar Hırsızlar Arasındaki Onur (2023)
+https://s231.rapidrame.com/hls2/01/00017/i8e3f5k0xoa9_,l,n,.urlset/index-f2-v1-a1.m3u8?t=YDLHsL-9qLyijdG82iTeGxQ3zWDZsGqcEGa0gA1DnNY&s=1694301853&e=1199998800&f=88659&srv=s180&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Temiz Oyun (2023)
+https://s231.rapidrame.com/hls2/01/00018/8lfdjbeblaog_,l,n,.urlset/index-f2-v1-a1.m3u8?t=gG11YGcg6scz3foaKmvRng3ceMeIsIWVMVErgcstoRY&s=1697426269&e=1199998800&f=91054&srv=s180&i=0.0&sp=0&p1=s231&p2=s231
+
+
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Üçlü Pürüz (2023)
 https://s230.rapidrame.com/hls2/01/00018/pqw4llpe2rk6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=VGv42L79reFTZnjgWmNvMV532UXag1WfIA7EADDv9sU&s=1695605456&e=1199998800&f=90436&srv=s180&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Sen inandır (2023 yerli)
-https://s231.rapidrame.com/hls2/01/00016/plodr983eai7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=RyxQmENMqzeqFNCGHs_AXgGfKWH7vzd-fRbCz0oaJG0&s=1694640564&e=1199998800&f=84110&srv=s137&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Aaahh Belinda (2023)
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Sen inandır (2023 yerli)
 https://s231.rapidrame.com/hls2/01/00016/plodr983eai7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=RyxQmENMqzeqFNCGHs_AXgGfKWH7vzd-fRbCz0oaJG0&s=1694640564&e=1199998800&f=84110&srv=s137&i=0.0&sp=0&p1=s231&p2=s231
 
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Chokehold - Boğa Boğa (2023)
-https://s230.rapidrame.com/hls2/01/00016/ycgu9hdlicjl_,l,n,.urlset/index-f2-v1-a1.m3u8?t=99NMsJfkn-osPs52qgm1FuMIitxdk9GPifbK1_CSfRA&s=1693162007&e=1199998800&f=84348&srv=s179&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Ağır Romantik (2020)
-https://s230.rapidrame.com/hls2/01/00012/pi3nv2lvxtbr_,l,n,.urlset/index-f2-v1-a1.m3u8?t=4Deg1SDTwPmGjH2poZoBLaDwpKlYv3AcifdH0beOoZ8&s=1693163190&e=1199998800&f=62436&srv=s169&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Meteler (2019)
-https://s230.rapidrame.com/hls2/01/00017/hmyd9d833ra6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=4r2eRhGw0qvISiPrbil2ZEWW7gcRYrXEFtkLFNWnw9U&s=1693161539&e=1199998800&f=86928&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Osmanlı Subayı (2017)
-https://s230.rapidrame.com/hls2/01/00003/ikcdomnq496h_,l,n,.urlset/index-f2-v1-a1.m3u8?t=mQGKtpxyvpE18nAG3gQhunu9zn8xklmbmfkc3tJEGdo&s=1693163543&e=1199998800&f=17003&srv=s64&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Azizler (2021)
-https://s230.rapidrame.com/hls2/01/00005/0zcnx4wzjhh4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=mgSddJy6vlE_uZBTScEyjyPC36s4TFGCxVwr-z2kl5c&s=1693163843&e=1199998800&f=29858&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",9 Kere Leyla (2020)
-https://s231.rapidrame.com/hls2/01/00005/c4q9w8muu3v6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=3NnoBwiovMxmSccL7kQM04V3rjkfg9xozXInSMaQBT8&s=1695593176&e=1199998800&f=26562&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
+#EXTINF:-1 group-title="ISTEK SINEMA",Aaahh Belinda (2023)
+https://s231.rapidrame.com/hls2/01/00016/plodr983eai7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=RyxQmENMqzeqFNCGHs_AXgGfKWH7vzd-fRbCz0oaJG0&s=1694640564&e=1199998800&f=84110&srv=s137&i=0.0&sp=0&p1=s231&p2=s231
 
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Mucize 2: Aşk (2019)
-https://s230.rapidrame.com/hls2/01/00005/x9h501cat2gq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=JOHFBuPRUDoiViJKCpIxwtuGXXgYH1SfoZEaAGCtHEg&s=1693163485&e=1199998800&f=25861&srv=s71&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Hazine (2022)
+#EXTINF:-1 group-title="ISTEK SINEMA",Chokehold - Boğa Boğa (2023)
+https://s231.rapidrame.com/hls2/01/00016/ycgu9hdlicjl_,l,n,.urlset/index-f2-v1-a1.m3u8?t=m-Ne6Bs046-HRRp1ELj4aUikDkRyRbiaAq_hKEGemIY&s=1697425114&e=1199998800&f=84348&srv=s305&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Hazine (2022)
 https://s230.rapidrame.com/hls2/01/00017/0h72m05fbi5q_,l,n,.urlset/index-f2-v1-a1.m3u8?t=p2xuWcHBpGUEBCFQ3pMldLgk5vce56QH3LGvZ_ssUWo&s=1693161665&e=1199998800&f=86557&srv=s180&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Müstakbel Damat (2022)
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Müstakbel Damat (2022)
 https://s230.rapidrame.com/hls2/01/00017/mblyfaz6slu6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=8VLRAyvd6pVW9m1-kSKBcS2LnikXxTzAFQdairSpiqg&s=1693161262&e=1199998800&f=87547&srv=s131&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Müjdemi İsterim (2022)
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Müjdemi İsterim (2022)
 https://s230.rapidrame.com/hls2/01/00016/2rp9dijpsncw_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ETYdt_8hkLxUphS9rILN8mf1-mJOO5wN_c7tVhvKlus&s=1693162109&e=1199998800&f=84574&srv=s131&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Kutsal Damacana 4 (2023)
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Kutsal Damacana 4 (2023)
 https://s230.rapidrame.com/hls2/01/00017/m1nn8tjo9ixj_,l,n,.urlset/index-f2-v1-a1.m3u8?t=tSfItMAg3zoO4kDhmTCw30wtJYPOSBv7owFsL9G0cMg&s=1693161737&e=1199998800&f=86047&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
 
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Cem Yılmaz: Diamond Elite Platinum Plus (2021)
-https://s230.rapidrame.com/hls2/01/00012/2c7b01t6e3s8_,l,n,.urlset/index-f2-v1-a1.m3u8?t=gd-jRN7ZXbrLo-VHuGcPPGBFmjCIRABrvEDsOxzngAI&s=1693163007&e=1199998800&f=62604&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Tamirhane (2022)
-https://s230.rapidrame.com/hls2/01/00016/s4bg6e6yp7mp_,l,n,.urlset/index-f2-v1-a1.m3u8?t=_U0VN4YRY_tC0JXExMPzm6RJBhxBMYZBxbdDoRpJPac&s=1693162170&e=1199998800&f=84335&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",İllegal Hayatlar (2023)
+#EXTINF:-1 group-title="ISTEK SINEMA",İllegal Hayatlar (2023)
 https://s230.rapidrame.com/hls2/01/00017/xhjrde47nhpe_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Y0QTYgvFJDQqSQzGJ_xERR-SdqUMBq4zyiqEW0hZi34&s=1693161791&e=1199998800&f=85946&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Kötü Adamın 10 Günü (2023)
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Kötü Adamın 10 Günü (2023)
 https://s230.rapidrame.com/hls2/01/00017/8o42nm08nmxp_,l,n,.urlset/index-f2-v1-a1.m3u8?t=96CX_R-sNUIWM8gH-PPG4fDka2p9px_WucjxTxCLOz8&s=1693161490&e=1199998800&f=88064&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Aşk Taktikleri (2022)
-https://s230.rapidrame.com/hls2/01/00017/hbzwb61tyuch_,l,n,.urlset/index-f2-v1-a1.m3u8?t=mrAlJDdGp2UqGnGAfEWUF6CFYU5oYNglmfDHeKB6jJE&s=1693161600&e=1199998800&f=86765&srv=s131&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Aşk Taktikleri 2 (2023)
-https://s230.rapidrame.com/hls2/01/00017/8x73gku7tl3i_,l,n,.urlset/index-f2-v1-a1.m3u8?t=rTQLXiM0cabLjo7sYZ_2sOaF9j48GS0mCcsRMbs4N4k&s=1693161634&e=1199998800&f=86766&srv=s180&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Çakallarla Dans 6 (2022)
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Çakallarla Dans 6 (2022)
 https://s231.rapidrame.com/hls2/01/00017/gowbpxq6ak2g_,l,n,.urlset/index-f2-v1-a1.m3u8?t=0J1HYNqdjDqyerG2fJvkPHNtkHCrr2eCUfTXA9v737k&s=1693574892&e=1199998800&f=88495&srv=s137&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Çakallarla Dans 5 (2018)
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Çakallarla Dans 5 (2018)
 https://s230.rapidrame.com/hls2/01/00017/mpwo9bkjshhe_,l,n,.urlset/index-f2-v1-a1.m3u8?t=9Bi-rhi8gq41VknaPasi09iJI2oihXt9VBhyYFdUVew&s=1694302614&e=1199998800&f=88663&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD YERLI SINEMA",Gizemli Ada Mençuna (2023)
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Gizemli Ada Mençuna (2023)
 https://s231.rapidrame.com/hls2/01/00017/mk8h678pebbj_,l,n,.urlset/index-f2-v1-a1.m3u8?t=zJejRDxAnM-bk4ztBNLkAxzWnrZckEZA_pcdDLMLhlU&s=1694301723&e=1199998800&f=89025&srv=s179&i=0.0&sp=0&p1=s231&p2=s231
 
 
-#EXTINF:-1 group-title="VOD SINEMA",Baskın 2 (2014)
-https://s69.rapidrame.com/hls2/01/00000/h5hlc6fna7mx_,l,n,.urlset/index-f2-v1-a1.m3u8?t=gfVm9WTugFjyzTnmW0f0IQissykBTS2n45-eCbCQRug&s=1696702449&e=1199998800&f=2333&i=0.0&sp=0
-#EXTINF:-1 group-title="VOD SINEMA",Jules (2023)
-https://s231.rapidrame.com/hls2/01/00018/d8frnzf5zgxp_,l,n,.urlset/index-f2-v1-a1.m3u8?t=SRx0be_BW0JldN0sKNV1vuFQZAt2VDYmE1KJZL0S6UU&s=1695605996&e=1199998800&f=90110&srv=s180&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD SINEMA",İçeride - Inside (2023)
-https://s230.rapidrame.com/hls2/01/00018/ps8qjl0m0m2i_,l,n,.urlset/index-f2-v1-a1.m3u8?t=W3xS2sUD9OpZsck4gJZCsSQ3uA3qHFOjT7CbxOjvAZY&s=1695605812&e=1199998800&f=90099&srv=s179&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Geçmişe dönüş - Memory (2022)
-https://s230.rapidrame.com/hls2/01/00015/gk9keudrrr0i_,l,n,.urlset/index-f2-v1-a1.m3u8?t=rwwNI2aWT40-k5O4nG4L-d9q1WQVl1PAvCNB8gKhb4M&s=1695608012&e=1199998800&f=75639&srv=s234&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Düşman Hattında (2001)
-https://s230.rapidrame.com/hls2/01/00017/pda1rymtanu8_,l,n,.urlset/index-f2-v1-a2.m3u8?t=Uc0xAhdRZBuMR_Fs4D8U36eYAjORT3d9pEu566n_0wg&s=1695522973&e=1199998800&f=88693&srv=s166&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Diriliş (2015)
-https://s230.rapidrame.com/hls2/01/00011/zwrjyde2ph86_,l,n,.urlset/index-f2-v1-a1.m3u8?t=9yiOllMtZE4LVr23_KVYBKSqQdRhoGDwqyA7Z1kaIZc&s=1695524025&e=1199998800&f=59771&srv=s263&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Yırtıcı-1 AV (1987)
-https://s231.rapidrame.com/hls2/01/00017/xkh6tp4tjjww_,l,n,.urlset/index-f2-v1-a1.m3u8?t=xtptMY0JjcDT1WwDLK50zSvTvwmbghwHHirKMULMui4&s=1695525232&e=1199998800&f=87284&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Yırtıcı-2 AV (1990)
-https://s230.rapidrame.com/hls2/01/00004/5dvsefylsygx_,l,n,.urlset/index-f2-v1-a1.m3u8?t=aRyj9oFplTmyT0tskLL1MBHhhQtXR4n9gVMSM1PIJjQ&s=1692197094&e=1199998800&f=22634&srv=s63&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Yırtıcı-4 AV (2018)
-https://s230.rapidrame.com/hls2/01/00005/iqvmr1zwya13_,l,n,.urlset/index-f2-v1-a1.m3u8?t=pzn6FxIJJUwd-noyssVb6N3DWT0carLei4JUn2695F8&s=1695525323&e=1199998800&f=29297&srv=s264&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Yırtıcı-5 AV (2022)
-https://s230.rapidrame.com/hls2/01/00014/5a16ks143sw3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Zgn-XBtOVnWPm6Pe1kxIBb-kS88PAS9OcNXFXjgmEDk&s=1695525438&e=1199998800&f=71796&srv=s169&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Upgrade - Yükseltme (2018)
-https://s231.rapidrame.com/hls2/01/00005/7928xat3skts_,l,n,.urlset/index-f2-v1-a1.m3u8?t=HVye5vrzXBvWL_l2FTr5Vwl8lhfMm3x4B460ShUwpKE&s=1695523282&e=1199998800&f=28743&srv=s264&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD SINEMA",Canavar Avcısı - Monster Hunter (2020)
-https://s230.rapidrame.com/hls2/01/00014/eyi2yj7lo4io_,l,n,.urlset/index-f2-v1-a1.m3u8?t=jowag_l4S1r-jpBimLvzAgMKK6nB1jeHGj9MRIOw-WY&s=1688627254&e=1199998800&f=72060&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",OBLİVİON (2013)
-https://s230.rapidrame.com/hls2/01/00005/clsz17uql4yi_,l,n,.urlset/index-f2-v1-a1.m3u8?t=34Pk2iMpyNp3RSlSBBZa7mvjnCEYnxy4EEuwEcamWD0&s=1694642664&e=1199998800&f=28545&srv=s181&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",J.Bond: Ölmek İçin Zaman Yok (2021)
-https://s230.rapidrame.com/hls2/01/00012/x7u6ol4qos2v_,l,n,.urlset/index-f2-v1-a1.m3u8?t=00aLgWlkCw0k8fR0jc9c8p7XIznlafqYUHQrOk3hbhk&s=1688627350&e=1199998800&f=61835&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Uzay Yolcuları (2016)
-https://s230.rapidrame.com/hls2/01/00006/heg32xf2lroo_,l,n,.urlset/index-f2-v1-a1.m3u8?t=h-02RLoiM7XthR76LlXCcKsSjFB0Pv_tTWs9-axquus&s=1688627433&e=1199998800&f=30590&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Red Notice - Kırmızı Bülten (2021)
-https://s230.rapidrame.com/hls2/01/00011/mu8he7cqkgn2_,l,n,.urlset/index-f2-v1-a1.m3u8?t=AN0tBGOn4WQdIUHp3tLoRQIgXZvJd-u6CVtHasYwFdY&s=1688627518&e=1199998800&f=59456&srv=s65&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Zamana Karşı (2011)
-https://s230.rapidrame.com/hls2/01/00005/uopu2kxc47xm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=y7BUKE_FH2k1OZpRIiUSNzMQAQQPMjDA2reNcInMw5Q&s=1695523608&e=1199998800&f=28358&srv=s263&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Wanted (2008)
-https://s230.rapidrame.com/hls2/01/00005/uapngqujxnpd_,l,n,.urlset/index-f2-v1-a1.m3u8?t=jXou9IspnM09eIttIBcWt22Nxa25L8NVaPZ9Gcwyijc&s=1688855629&e=1199998800&f=28297&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Çin Seddi (2016)
-https://s230.rapidrame.com/hls2/01/00006/bwe7yxdlss4x_,l,n,.urlset/index-f2-v1-a1.m3u8?t=mJTHXKdO8uP2HZesuOYFBzTaOdWej9YaQVp5Fw61bUo&s=1688854864&e=1199998800&f=30498&srv=s181&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",İkizler Projesi (2019)
-https://s230.rapidrame.com/hls2/01/00005/g4pigc1h9trc_,l,n,.urlset/index-f2-v1-a1.m3u8?t=VaO3Gt6GhmOARNhnEdgl2tYrwJFzu8gxvC_p11qxu7o&s=1695524121&e=1199998800&f=28601&srv=s264&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Focus (2015)
-https://s230.rapidrame.com/hls2/01/00006/elmf4ret72uc_,l,n,.urlset/index-f2-v1-a1.m3u8?t=RHeUk_58X7XP9jYjUGgPkq20JGDe-eQwFj-MHAlu7RU&s=1695524152&e=1199998800&f=31675&srv=s263&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Doktor Strange - Çoklu Evren Çılgınlığında (2022)
-https://s230.rapidrame.com/hls2/01/00013/ixplf4d3h4qy_,l,n,.urlset/index-f2-v1-a1.m3u8?t=DfZe_K8y9ovOUp6buBI3UaP8my0ZQeTRrsu9tmzRI00&s=1694643061&e=1199998800&f=68804&srv=s169&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",The Adam Project - Adam Projesi (2022)
-https://s230.rapidrame.com/hls2/01/00013/t2dxejb6swjw_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6A7DjQAIPCAee1CG2YRJaEs0GNpAHwfSwX9AjZGuh7I&s=1694643125&e=1199998800&f=65010&srv=s169&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",John Wick 1 (2014)
-https://s230.rapidrame.com/hls2/01/00017/qpi0mwio5szb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=1yMu6_kIpua0zjOz2Myaun4b6-fEo1B-uU85fCZkAfQ&s=1694643197&e=1199998800&f=89296&srv=s259&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",John Wick 2 (2017) EN
-https://s231.rapidrame.com/hls2/01/00017/3jrr2ab9zz85_,l,n,.urlset/index-f2-v1-a2.m3u8?t=KrjMUmXtdXqSz93SUePGtc-xRjt70ULVCNC4WVvdOIc&s=1695656163&e=1199998800&f=89298&srv=s265&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",John Wick 3: Parabellum (2019) EN
-https://s231.rapidrame.com/hls2/01/00017/d6p9owysjf3p_,l,n,.urlset/index-f2-v1-a2.m3u8?t=CKeIaodzBQS6i0ZFkOH1LyGE-gN1EIkNTBx4IIzP0vs&s=1695656223&e=1199998800&f=89300&srv=s265&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Ölüm Yarışı (2008)
-https://s230.rapidrame.com/hls2/01/00005/05y2barv5y37_,l,n,.urlset/index-f2-v1-a1.m3u8?t=WfVwCQVHCSAMwfwBRBeCqnFEQKOjl_pP8oZztHuQFzo&s=1688858808&e=1199998800&f=28809&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Ölüm Yarışı 3 (2013)
-https://s230.rapidrame.com/hls2/01/00005/orude31lc4qr_,l,n,.urlset/index-f2-v1-a1.m3u8?t=xeNEp9ZblGHYVGK1yNrkc3ZsLyN1Y3tCFhRitiaMyns&s=1688859022&e=1199998800&f=28806&srv=s181&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Mad Max Fury Road - Öfke Yolu (2015)
-https://s230.rapidrame.com/hls2/01/00006/h0r64zlfp27u_,l,n,.urlset/index-f2-v1-a1.m3u8?t=2hWnJM5PxiAswVmLTIwRHiYXcFEck4DLCsJBOTx-7Vk&s=1688859181&e=1199998800&f=31728&srv=s69&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Jumanji (1995)
-https://s230.rapidrame.com/hls2/01/00005/pp78rmbx4ljg_,l,n,.urlset/index-f2-v1-a1.m3u8?t=BWYwMipXxESWf4c5MCrslvZgVzaRGGtcQuvJREeyk_M&s=1695523852&e=1199998800&f=29904&srv=s263&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Jumanji 2 Vahşi Orman (2017)
-https://s230.rapidrame.com/hls2/01/00005/dy3b8jmm9z0z_,l,n,.urlset/index-f2-v1-a1.m3u8?t=UF7MMthC3TP0SdxyP89cGRZnWzN9ANLda4IyMCBfVOI&s=1688857317&e=1199998800&f=29905&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Demir Adam (2008)
-https://s230.rapidrame.com/hls2/01/00005/5drd8wzveo3r_,l,n,.urlset/index-f2-v1-a1.m3u8?t=edVw1oIlyxWuvdEUKZO6mXaF_xsTX48SP4fbWoKdTg8&s=1691799044&e=1199998800&f=29563&srv=s181&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Demir Adam (2010)
-https://s230.rapidrame.com/hls2/01/00006/vnbcio4pm9j4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=YI2S248lvNYqq5MenKnoivQ4K4S5QWsKUyyLuUjZJbQ&s=1691799105&e=1199998800&f=31785&srv=s64&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Demir Adam (2013)
-https://s230.rapidrame.com/hls2/01/00006/qe48zgu6saj4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=TlnJGeA3V2hh-ek0O0_r7bZWUBqeBkb7Udgssn1Rviw&s=1695523965&e=1199998800&f=31783&srv=s64&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",İntihar Timi: Gerçek Kötüler (2016)
-https://s230.rapidrame.com/hls2/01/00006/3gvntq6aejfb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=fopDkbBagduqiYa-gfeUs2yTWAopCsrGkpb8vC7iF30&s=1691803465&e=1199998800&f=30890&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",İntihar Timi (2021)
-https://s230.rapidrame.com/hls2/01/00012/nessz52ddt53_,l,n,.urlset/index-f2-v1-a1.m3u8?t=78ufzu-7dkWVYxIQ5qQnwkYJUYM1bbCAFzxe1vhZFhE&s=1691803534&e=1199998800&f=62774&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",James Bond: Casino Royale (2006)
-https://s231.rapidrame.com/hls2/01/00017/xzyi8w7nz9mz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=rX-ItJ2vryC3nC0BwoahSmZhFwaVOHV4WT_9FGiZ27U&s=1695524318&e=1199998800&f=89433&srv=s234&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",James Bond: Quantum of Solace (2008)
-https://s230.rapidrame.com/hls2/01/00015/ef2x6iviv8zs_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ZADzBKNdukHt8Vt7790f-ULwna6z6Pt-0XOB7b1I-vo&s=1691801839&e=1199998800&f=76573&srv=s181&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",James Bond: Spectre 007 (2015)
-https://s230.rapidrame.com/hls2/01/00006/oqh7v2ktgzid_,l,n,.urlset/index-f2-v1-a1.m3u8?t=_BDBszXRP0nETZzsiJ0tcN75dpqeNt_fupk50k8TePo&s=1691799580&e=1199998800&f=31536&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",James Bond: Ölmek İçin Zaman Yok izle (2021)
-https://s230.rapidrame.com/hls2/01/00012/x7u6ol4qos2v_,l,n,.urlset/index-f2-v1-a1.m3u8?t=b3zMLLCDUlK9-e1_6edBvyRNiq0kxMbmP19v3SOoRGE&s=1691799681&e=1199998800&f=61835&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Sıradan Gökyüzü (2001)
-https://s231.rapidrame.com/hls2/01/00005/chvvgxr2zye2_,l,n,.urlset/index-f2-v1-a1.m3u8?t=UgxlRSb6qsRsGaR0KMnCetatsuZIwCwJa7dgLNNNwOQ&s=1695524407&e=1199998800&f=29206&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Görevimiz Tehlike 4 (2011)
-https://s230.rapidrame.com/hls2/01/00006/8se8ab9anxxj_,l,n,.urlset/index-f2-v1-a1.m3u8?t=aduchyU-vEght_J9I95J6pNL6mLL_Kdjan4eri7Vyvk&s=1691800020&e=1199998800&f=31772&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Görevimiz Tehlike 5 (2015)
-https://s230.rapidrame.com/hls2/01/00006/iitth5werogz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=wo7qahFt08uHYrVew7GKITNt3HHOuoBGVLhY7o7_Uug&s=1691800074&e=1199998800&f=31770&srv=s71&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Görevimiz Tehlike 6 Yansımalar (2018)
-https://s231.rapidrame.com/hls2/01/00005/lf1ixo4i37o6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=DoSr_pJGU1_yz_oz7DU1Q4MTrNgBZhSM_l3V5socEds&s=1695524447&e=1199998800&f=29414&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Görevimiz Tehlike 7 Ölümcül Hesaplaşma 1 Bölüm (2022)
-https://s231.rapidrame.com/hls2/01/00017/qpywfpck3bxy_,l,n,.urlset/index-f2-v1-a1.m3u8?t=hP9Y0sjOpWs_DSDGdoc4-1uE0dK41Idjl_6NTgK0WK0&s=1695524501&e=1199998800&f=86926&srv=s180&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Venom: Zehirli Öfke (2018)
-https://s230.rapidrame.com/hls2/01/00005/s84yu8un28dh_,l,n,.urlset/index-f2-v1-a1.m3u8?t=UV2bv6fFZKtimgJpiZ0pDtDMh1plpGR0PghGctvZTgk&s=1695524562&e=1199998800&f=29298&srv=s181&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Venom: Zehirli Öfke 2 (2021)
-https://s231.rapidrame.com/hls2/01/00012/qae5x1qxme8w_,l,n,.urlset/index-f2-v1-a1.m3u8?t=DhtFf4Z5P2i2I7Nsv63YeReDxlaJETCnQk8NGibSCE0&s=1695524590&e=1199998800&f=62301&srv=s66&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Buz Devri (2002)
-https://s231.rapidrame.com/hls2/01/00017/ju6i1g3iq7tg_,l,n,.urlset/index-f2-v1-a1.m3u8?t=pkH8ysYQCqK5cDk1psYGar3ZymG1HzUX6ZJ2yTTjmBo&s=1695524690&e=1199998800&f=87803&srv=s234&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Buz Devri 2: Erime Başlıyor (2006)
-https://s230.rapidrame.com/hls2/01/00014/md928egiry8e_,l,n,.urlset/index-f2-v1-a1.m3u8?t=-qKERL0x83E4Q2YN64L7VbMNPJDvcqtrClH_WP6ERWk&s=1691800425&e=1199998800&f=72443&srv=s65&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Madagaskar (2005)
-https://s231.rapidrame.com/hls2/01/00016/cs2mjom2vf0t_,l,n,.urlset/index-f2-v1-a1.m3u8?t=BSK_z70TcEdZed3kz8p26RpmOvYDXIM-vVDJxIN3OVo&s=1695524726&e=1199998800&f=80495&srv=s169&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Madagaskar 2: Afrika'dan Kaçış (2008)
-https://s230.rapidrame.com/hls2/01/00015/7fsj0p0nol2t_,l,n,.urlset/index-f2-v1-a1.m3u8?t=a4shVGAUIQBAolW_GXBItMkEe8iF4zr05pWbdpt8zu8&s=1691800648&e=1199998800&f=76915&srv=s64&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Madagaskar 3: Avrupa'nın En Çok Arananları (2012)
-https://s230.rapidrame.com/hls2/01/00015/rs01e4ljjsjw_,l,n,.urlset/index-f2-v1-a1.m3u8?t=9B6Zsn2DaqSwkd4ON301iRvKZkka5qXneEsOiVBVsRU&s=1695524826&e=1199998800&f=79295&srv=s265&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Sosis Partisi (2016)
-https://s230.rapidrame.com/hls2/01/00004/h587nle7is44_,l,n,.urlset/index-f2-v1-a1.m3u8?t=4-L8VSbLMzG24GzWQk6p5vJK4nROKtAd4AdGLgga-DI&s=1692209271&e=1199998800&f=21251&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Çizmeli Kedi (2011)
-https://s230.rapidrame.com/hls2/01/00015/0m8kgb0ddkec_,l,n,.urlset/index-f2-v1-a1.m3u8?t=CJH2Qs_2if_slpQzHL8wG_CeeLIHBIu2wl9HRGgrQs8&s=1693180723&e=1199998800&f=76358&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Kara Dul (2021)
-https://s230.rapidrame.com/hls2/01/00012/y1rnvf5fzgwv_,l,n,.urlset/index-f2-v1-a1.m3u8?t=WFMLI2rx--XZOL2aqarpLQ22ZDZzTRyi55tyu3WLiCg&s=1691799257&e=1199998800&f=61786&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Kabuktaki Hayalet (2017)
-https://s230.rapidrame.com/hls2/01/00006/nrqxf7vphmd6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Ep6kXOAuoIqDkEJbDlhWVaZEcE-KqIabo7_MfxEGiKY&s=1691804480&e=1199998800&f=30390&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Lucy (2014)
-https://s230.rapidrame.com/hls2/01/00006/xkhp2aodf803_,l,n,.urlset/index-f2-v1-a1.m3u8?t=jkDLDww85eGfWb5wzK42hWN7LNBMA9VK2BdDpzFo7JA&s=1691804333&e=1199998800&f=31500&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Prestij (2006)
-https://s230.rapidrame.com/hls2/01/00016/jrnnj31l9s29_,l,n,.urlset/index-f2-v1-a2.m3u8?t=sJBBYIyo5ejvxXdDxiTL27QbpN4RqshN7XUsm0hT-1w&s=1691804660&e=1199998800&f=81041&srv=s69&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Match Point - Maç Sayısı (2005)
-https://s231.rapidrame.com/hls2/01/00014/nwkrkl4pzj6k_,l,n,.urlset/index-f2-v1-a1.m3u8?t=8uyCQAp8l6lvPwgosexIhG5ZErmqksL3hvMFsW5AQy4&s=1695524880&e=1199998800&f=73187&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Batman v Superman Adaletin Şafağı (2016)
-https://s230.rapidrame.com/hls2/01/00006/1lt7dfyqm1th_,l,n,.urlset/index-f2-v1-a1.m3u8?t=1btV_ytnVvG-uMf4pFWq0-X-KB44AwuP-Zhl4c6VpWE&s=1691801197&e=1199998800&f=30100&srv=s71&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",The Batman (2022)
-https://s230.rapidrame.com/hls2/01/00014/vohoqmotvgz4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=73vV3T0kzDXYhK6quda8Vd-K7wNGmOY_cPxsNUxstNE&s=1695524996&e=1199998800&f=71816&srv=s169&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",13. Cuma 11: Freddy Jason'a Karşı (2003)
-https://s230.rapidrame.com/hls2/01/00011/9mcmq0uqyfdk_,l,n,.urlset/index-f2-v1-a1.m3u8?t=t8Rc3CKKZ22wrDWUzwFZ0oAWG_egJvI_zmo4rZfX66M&s=1691797923&e=1199998800&f=58068&srv=s71&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",13. Cuma 12 (2009)
-https://s230.rapidrame.com/hls2/01/00015/nedtnxi1koy2_,l,n,.urlset/index-f2-v1-a1.m3u8?t=IAGXBYktns0xJZJpxHVYnmzNVZQC2S-wr4Pvwj6Bu4A&s=1692200030&e=1199998800&f=75950&srv=s181&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Buz Canavarı (2010)
-https://s230.rapidrame.com/hls2/01/00003/pwgncxjhqk4j_,l,n,.urlset/index-f2-v1-a1.m3u8?t=iZrLkHGeHFL6zEt60eaes8Ny8DrzW9iZsumpfbm2GkU&s=1692197939&e=1199998800&f=18477&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Cehennem Melekleri (2010)
-https://s230.rapidrame.com/hls2/01/00015/ywutfhib1wgz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=hmEiu_s4tCAujSGwtOI32EfhhK6C5GtAiEteaB5so5o&s=1692202132&e=1199998800&f=76262&srv=s65&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Cehennem Melekleri-3 (2014)
-https://s231.rapidrame.com/hls2/01/00015/js7ao10fqaiq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=wjr4VWDn6qN_lIODhqi3MnZQwTEFYInKnDy5ZGPMqhM&s=1695563628&e=1199998800&f=78499&srv=s265&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Ölümcül Deney 5 İntikam (2012)
-https://s230.rapidrame.com/hls2/01/00015/baznzjly7qmz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=niT_2lkmPHJ3iQ4TxXl1CR7AE4IxRPI2HrSghJyrjfY&s=1692203281&e=1199998800&f=79469&srv=s166&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Ölümcül Deney 6 (2016)
-https://s230.rapidrame.com/hls2/01/00006/vn0vk2vvadzp_,l,n,.urlset/index-f2-v1-a1.m3u8?t=D73VfImsah4jzFjLybx5QXsdHBorEWolPBAiomRIJHM&s=1692203371&e=1199998800&f=30532&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Resident Evil: Raccoon Şehri (2021)
-https://s230.rapidrame.com/hls2/01/00012/et62rbw2fr5c_,l,n,.urlset/index-f2-v1-a1.m3u8?t=2n4OM5ncNPBCMC9B-8kioT9U2fAzYQYeeMiSOE10xxc&s=1695525928&e=1199998800&f=63810&srv=s264&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Ben Robot (2004)
-https://s230.rapidrame.com/hls2/01/00017/nymbasia0wqa_,l,n,.urlset/index-f2-v1-a1.m3u8?t=OhIfI4k4DarnUFFbvw8JsakIdtnGfSHXUjVYpHVOkyo&s=1692206333&e=1199998800&f=87556&srv=s234&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Sarsıntı (2015)
-https://s230.rapidrame.com/hls2/01/00006/gykdnndcu2w3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=EPQTTN-S9VKDG_2G2rZfvAkMO_-kqv7wsDv9SwkKX1c&s=1692206396&e=1199998800&f=31166&srv=s64&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Açlık Oyunları 2 Ateşi Yakalamak (2013)
-https://s230.rapidrame.com/hls2/01/00006/38qzsqsn9g52_,l,n,.urlset/index-f2-v1-a1.m3u8?t=SYF9l-1EHiVfc4trPT2pWc84J6MNLC-PjVlOqUfEl7w&s=1693160823&e=1199998800&f=31457&srv=s71&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Maymunlar Gezegeni (2001)
-https://s230.rapidrame.com/hls2/01/00016/asc0gy06pf0k_,l,n,.urlset/index-f2-v1-a1.m3u8?t=b9JO6kOqH0xj_bXsCq5pbeQ6lAQ1J-TBhVNoIT5N1c0&s=1693164003&e=1199998800&f=80589&srv=s169&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Maymunlar Cehennemi: Başlangıç (2011)
-https://s230.rapidrame.com/hls2/01/00006/cqu55h8zxes4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=UppYYJcCgigJWIZO4jPcwOB6mNqKCyXIADU1SuKCqOE&s=1693164095&e=1199998800&f=30190&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Maymunlar Cehennemi: Şafak Vakti (2014)
-https://s231.rapidrame.com/hls2/01/00006/nwd9wca8zqx3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Pxv-Yz-UPCOK3mcznWFX_x6Ahinq6UNj8TzXzzKSzDs&s=1695525980&e=1199998800&f=30189&srv=s264&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Maymunlar Cehennemi Savaş (2017)
-https://s230.rapidrame.com/hls2/01/00006/0g8d65i33kco_,l,n,.urlset/index-f2-v1-a1.m3u8?t=9iHZdeY2kiEqwG23DeEj4xnOe0jMhh5RsvqySi4zCiA&s=1695526009&e=1199998800&f=30124&srv=s265&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Limit Yok (2011)
-https://s230.rapidrame.com/hls2/01/00015/vykwjghpo2sh_,l,n,.urlset/index-f2-v1-a1.m3u8?t=TVjOZtz9F0pklrdd6Z_lZxM6Ty4-K10dSHkY-g2f_ZE&s=1695563529&e=1199998800&f=76897&srv=s65&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",3:10 Yuma Treni (2007)
-https://s231.rapidrame.com/hls2/01/00015/8eg5djut6hwd_,l,n,.urlset/index-f2-v1-a1.m3u8?t=PbUOjtQSSiQuWbJybgwwDkPAVe4Eti3GSopV-w4hvsg&s=1695563558&e=1199998800&f=75959&srv=s181&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Bir Başka Adam (2008)
-https://s231.rapidrame.com/hls2/01/00015/hhf7n51vhwen_,l,n,.urlset/index-f2-v1-a1.m3u8?t=MJkBlIuWIRBM3OPTuhbzTaNf5U7FB5I5PGD-zd8g5Lg&s=1695563586&e=1199998800&f=76232&srv=s264&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Akıl Oyunları (2001)
-https://s230.rapidrame.com/hls2/01/00017/vl7ociddjihw_,l,n,.urlset/index-f2-v1-a1.m3u8?t=iWjzBIEmDKa5DBze5Ugv3h-bo_IZ3ic71V6tP3AvfJc&s=1693179399&e=1199998800&f=86920&srv=s234&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Dünyanın Uzak Ucu (2003)
-https://s231.rapidrame.com/hls2/01/00017/muwpopqc5t5l_,l,n,.urlset/index-f2-v1-a2.m3u8?t=lOJfKpKhgRAENFqKXf3fAmdc2v3gPXQVYcrHgU4XGtg&s=1695526260&e=1199998800&f=88701&srv=s265&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Superman Man Of Steel (2013)
-https://s231.rapidrame.com/hls2/01/00005/hjg8w41lqesz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Hl9OG22NyIu-YHhjru6eVmm4RgbEVGL8F2-gPLcMU64&s=1695563723&e=1199998800&f=29657&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Çaylak (2003)
-https://s231.rapidrame.com/hls2/01/00017/mc2gk50whhw1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=aEeNQS6xR2xMcAmvQsGUX0z7NWI4PF0P2OqDHirVbS0&s=1695563753&e=1199998800&f=88212&srv=s265&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Gerçeğe Çagrı (2012)
-https://s230.rapidrame.com/hls2/01/00005/zhmxc7jvk7wz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=zeGTKU3Ln4cIsfzKUsZdRm6zW7b4Dob-zMxzgNyoxAU&s=1695563835&e=1199998800&f=29205&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Belalı Tanık (2013)
-https://s231.rapidrame.com/hls2/01/00015/vttvinhsz6v3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=kH5S3baQ0iY1h3dMIgltXuS3Uhx50TDkH9KGwTPnh_8&s=1695563973&e=1199998800&f=78300&srv=s265&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Hitman's Wife's Bodyguard (Belalı Tanık2) (2021)
-https://s231.rapidrame.com/hls2/01/00013/iym2kw94ug81_,l,n,.urlset/index-f2-v1-a1.m3u8?t=8JgsPwSQiQvdyM-ammWXkfOMMiFDf6cXQsbezIxDkqo&s=1695564069&e=1199998800&f=65817&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Red 2 (2013)
-https://s230.rapidrame.com/hls2/01/00015/xjida6rqqb1j_,l,n,.urlset/index-f2-v1-a1.m3u8?t=iHQSPSuzIYaY0-U-l4foglxJEaD_OE4M2E-wrLxM9h4&s=1693181919&e=1199998800&f=78854&srv=s166&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Bir Zamanlar Meksikada (2003)
-https://s230.rapidrame.com/hls2/01/00005/jaypp01smd7f_,l,n,.urlset/index-f2-v1-a1.m3u8?t=C75WiI_kLwctiacvAUruVVeyQRXyhfgED6ghEcLgAd4&s=1693181098&e=1199998800&f=29279&srv=s71&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Desperado (1995)
-https://s230.rapidrame.com/hls2/01/00005/7w97re0jys4l_,l,n,.urlset/index-f2-v1-a1.m3u8?t=u2gSefnIc4NlD3ctbZ07cipN2drJNg_iX2PIfNXSBzM&s=1693181166&e=1199998800&f=29278&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Kara Altın (2011)
-https://s230.rapidrame.com/hls2/01/00015/m6v10z7qgive_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Kj-DWkWs09RdzYwZg60RT6morXCdXcLkVPpAJ4enoTw&s=1693181238&e=1199998800&f=76718&srv=s64&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Acts of Vengeance (2017)
-https://s230.rapidrame.com/hls2/01/00005/qeiquue8ii27_,l,n,.urlset/index-f2-v1-a1.m3u8?t=23Tt4K4k2d1uZGOKhbZAYWYgeLLeXZKYUjw1hhULrpc&s=1695564486&e=1199998800&f=29076&srv=s264&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Anaconda (1997)
-https://s230.rapidrame.com/hls2/01/00017/blusxrosogwj_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Le-czhxbNR7wdtQC_6Lq8YYDhP4F7y9ZWV8KhFtyS1g&s=1693181642&e=1199998800&f=87040&srv=s234&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",U Turn (1997)
-https://s231.rapidrame.com/hls2/01/00003/1qjs0eb3zd95_,l,n,.urlset/index-f2-v1-a1.m3u8?t=2SN0XzO7SrASmHrikET-vHUrfRD05SixL-Sdh-EtfLo&s=1695564519&e=1199998800&f=19895&srv=s65&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Wild Card (2015)
-https://s230.rapidrame.com/hls2/01/00003/bqr9rua5ovb3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=qMZfnveg0IrTccD-aI2tkrvrLLN8vIzlioGGCIZOVfM&s=1693182284&e=1199998800&f=16567&srv=s64&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Mekanik (2011)
-https://s231.rapidrame.com/hls2/01/00005/8odtozjyvtj6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=rYHEwUbkMCXfYEel0S8GsRvo5zf4gyzHUMFGuNEkxgw&s=1695526220&e=1199998800&f=29757&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Ölümcül Takip (2011)
-https://s230.rapidrame.com/hls2/01/00015/ruil6heudblm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6Mm33U_Yj5HfZoGc0PUH8beDNIdr25vIl1Rcr7GgFM0&s=1693182451&e=1199998800&f=76943&srv=s64&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Prometheus (2012)
-https://s230.rapidrame.com/hls2/01/00006/18pdzkbnruqt_,l,n,.urlset/index-f2-v1-a1.m3u8?t=qnuwahLaxWlLkPx4YKGnrMfrVm21_1FND8pumNOarT4&s=1693149666&e=1199998800&f=30290&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Yaratık: Covenant (2017)
-https://s230.rapidrame.com/hls2/01/00006/31cu57v303sa_,l,n,.urlset/index-f2-v1-a1.m3u8?t=BuHCeDUCY-Zqi2_0rYTuq4TBhMQRWxZ8ku3KEcqI6HQ&s=1693149758&e=1199998800&f=30292&srv=s68&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Hayat - LIFE (2017)
-https://s231.rapidrame.com/hls2/01/00006/w27wjak9qxt3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=1eCoSiiovUBIy1LXzejwLrntouSuFLsQkimVy247a78&s=1695526417&e=1199998800&f=30370&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Yer Çekimi (2013)
-https://s231.rapidrame.com/hls2/01/00006/uosgu6xpxlgn_,l,n,.urlset/index-f2-v1-a1.m3u8?t=3vyEvuJb9RNKNvc1UlWvbfY-mZoWwG9nqQlGEF3lYDM&s=1695526450&e=1199998800&f=30932&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Aslan Yürek (1990)
-https://s231.rapidrame.com/hls2/01/00017/nzpd0jvze858_,l,n,.urlset/index-f2-v1-a1.m3u8?t=XCGSWXbXjSrx6Hz068EHZfvu3TdkZo5_sJL2zKKIWcs&s=1693527481&e=1199998800&f=87154&srv=s234&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD SINEMA",Suikast Oyunları (2011)
-https://s231.rapidrame.com/hls2/01/00006/y4w8mizdsosu_,l,n,.urlset/index-f2-v1-a1.m3u8?t=f8AxcOSqVUR-MN00UDlGFrB-QkxRP5F1Vgjn9qDNyRs&s=1693527956&e=1199998800&f=30740&srv=s68&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD SINEMA",Emekli Ajan (2021)
-https://s230.rapidrame.com/hls2/01/00011/b35krjv0xk6q_,l,n,.urlset/index-f2-v1-a1.m3u8?t=-FNTwlsdaeA44t2Zaf5cAEkKxlndrejyQDNAgfE4VPM&s=1695526483&e=1199998800&f=56225&srv=s263&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Kurşunlar Arasında (2012)
-https://s231.rapidrame.com/hls2/01/00015/oockxcmc0blb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=s2gAnAfUD3uvUs1GX0PvbLWOr_G-jWR3Kq7gqZ6AuiU&s=1693528183&e=1199998800&f=79232&srv=s166&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Kickboxer (2016)
-https://s231.rapidrame.com/hls2/01/00006/a3tx8h1ybahn_,l,n,.urlset/index-f2-v1-a1.m3u8?t=rPdLyMcYq1dh94FvccVs6myBFhl5y3RVzD5ODIzN688&s=1693528489&e=1199998800&f=31025&srv=s69&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD SINEMA",Kickboxer 2 Misilleme (2018)
-https://s231.rapidrame.com/hls2/01/00005/w3qygzhwcvuc_,l,n,.urlset/index-f2-v1-a1.m3u8?t=21ifbzL9Gf6z1vt6JGkBypOOX3epIv6SQaObSzpAIrY&s=1693528252&e=1199998800&f=29792&srv=s68&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Robin Hood (2010)
-https://s231.rapidrame.com/hls2/01/00015/l29nxwcbelcz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=gFgg5zRcoTAyEuFdBjzguEBwiJrFjGyq8rqTFnPm9vg&s=1694304792&e=1199998800&f=77208&srv=s64&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Gerçek Kahraman (2021)
-https://s230.rapidrame.com/hls2/01/00012/74lzs3acpomm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=7F0rD0n6k5EfduyFnds0mas2FRYYi7JvcxMaTxKVsic&s=1693150159&e=1199998800&f=62826&srv=s66&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Thor: Love and Thunder (2022)
-https://s230.rapidrame.com/hls2/01/00014/ik3tllzaqu1f_,l,n,.urlset/index-f2-v1-a1.m3u8?t=HYLgdsQ7Zs01dJr-jwa_gbeL0Ntel5Tn_zVQgust0EQ&s=1693149300&e=1199998800&f=73215&srv=s234&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Black Panther: Wakanda Forever (2022)
-https://s230.rapidrame.com/hls2/01/00016/9ghs177n8yb4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Tay7CYKm2BuuOJFtJr6hDPN1muLWUV-EvjbuIEjNx5s&s=1693149226&e=1199998800&f=82501&srv=s234&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",65 (2023)
-https://s230.rapidrame.com/hls2/01/00017/79jnn3gbbxyy_,l,n,.urlset/index-f2-v1-a1.m3u8?t=uK_qSgsaR0MBaub8zE7nawFGPDTaMOEsSbjIQOAXZ0M&s=1692202682&e=1199998800&f=87341&srv=s234&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Ant-Man ve Wasp Quantumania (2023)
-https://s230.rapidrame.com/hls2/01/00016/iezf7eznp68s_,l,n,.urlset/index-f2-v1-a1.m3u8?t=wJAO4t0neJ7DPZMuWednSB4focddQNgGb7y1AhUN0Ig&s=1693149356&e=1199998800&f=84855&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Büyü de Gel (2023)
-https://s230.rapidrame.com/hls2/01/00017/5193gpd895to_,l,n,.urlset/index-f2-v1-a1.m3u8?t=vtzSpUgcj4sMam0A5vFjB7LP3tSJhCksX3LKxC195hE&s=1695526532&e=1199998800&f=87859&srv=s179&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Aşk Yeni Baştan (2023)
-https://s230.rapidrame.com/hls2/01/00016/2h4dvn2a04en_,l,n,.urlset/index-f2-v1-a1.m3u8?t=-v3vrni5KUQjIyGLDVxFNkJ3X_MznKFWzO7ZMR5K67M&s=1695526697&e=1199998800&f=82885&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Gran Turismo (2023)
-https://s230.rapidrame.com/hls2/01/00017/g62l43hjuz65_,l,n,.urlset/index-f2-v1-a1.m3u8?t=jxV-D8687xa_unJJ5nmXO3AXzjiWvi5sTsd9302rkto&s=1693148618&e=1199998800&f=88305&srv=s180&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Meg 2 Çukur (2023)
-https://s230.rapidrame.com/hls2/01/00017/cpnjma6zps1s_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bEUwjuD4eqfdQfx6yNXwTmy5lkMUcX9nRTgW_ZmYuGY&s=1695526731&e=1199998800&f=89111&srv=s179&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Çığlık 6 (2023)
-https://s230.rapidrame.com/hls2/01/00017/tzw9dj0mcegr_,l,n,.urlset/index-f2-v1-a1.m3u8?t=GwkaUCsft_RthtLTRHBJVU8_xnO3C-CMDiy636U420E&s=1693148848&e=1199998800&f=87664&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",The Flash (2023)
-https://s230.rapidrame.com/hls2/01/00017/u3h6w0jc4ot0_,l,n,.urlset/index-f2-v1-a1.m3u8?t=cxApTIyc8FRmYcNi21SP5gVpu7PpI2-f2Zf1rjk8B7E&s=1695526835&e=1199998800&f=86931&srv=s180&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Indiana Jones ve Kader Kadranı (2023)
-https://s230.rapidrame.com/hls2/01/00017/p7yzx95dh2k1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=1gMWPp3rbwQ4S41Wn0tuIe99aqFSFlX7crPc5vBeqTA&s=1693149116&e=1199998800&f=86487&srv=s180&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Dehşetin Yüzü (2018)
-https://s230.rapidrame.com/hls2/01/00005/qs4gmuphla1e_,l,n,.urlset/index-f2-v1-a1.m3u8?t=3GO2-pjAasimiA6wmISBV3Clg82BEbeJrRGi47gbHoI&s=1694301487&e=1199998800&f=29359&srv=s181&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Dehşetin Yüzü-2 (2023)
-https://s230.rapidrame.com/hls2/01/00017/ez19eoc4er5o_,l,n,.urlset/index-f2-v1-a1.m3u8?t=n9TgQPDM6kOkuCGz8_J7ZTDBCsKZxFvRXsD_hTv1isE&s=1694301315&e=1199998800&f=89074&srv=s137&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1 group-title="VOD SINEMA",Küçük Deniz Kızı (2023)
-https://s231.rapidrame.com/hls2/01/00017/hijioihlhfw9_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Y12dEm6X5BMREptnGw4huicFx0GtUeQBLA1iuz_MjZU&s=1694301793&e=1199998800&f=88858&srv=s137&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD SINEMA",Zindanlar ve Ejderhalar Hırsızlar Arasındaki Onur (2023)
-https://s231.rapidrame.com/hls2/01/00017/i8e3f5k0xoa9_,l,n,.urlset/index-f2-v1-a1.m3u8?t=YDLHsL-9qLyijdG82iTeGxQ3zWDZsGqcEGa0gA1DnNY&s=1694301853&e=1199998800&f=88659&srv=s180&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD SINEMA",Adalet 3 (2023)
-https://s231.rapidrame.com/hls2/01/00017/j56irrfs1uy2_,l,n,.urlset/index-f2-v1-a1.m3u8?t=jQUaUQplz30negn51orH1JQcjCSVpw--BvsveLTeI3E&s=1694301965&e=1199998800&f=88618&srv=s137&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD SINEMA",The Last Voyage of the Demeter (2023)
-https://s231.rapidrame.com/hls2/01/00017/z9b71ak4y6sb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=2mu_jAZ3rUUx2cDHDwiCZ_WrcXZ-VthS4cWE6HQ7P7M&s=1694302261&e=1199998800&f=88464&srv=s179&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Orman Gezisi (2021)
-https://s231.rapidrame.com/hls2/01/00012/56l38x060dx5_,l,n,.urlset/index-f2-v1-a1.m3u8?t=LRsHDkhzAl_rE5Qy7WKCHZcK7_y65p_6XOJsS0tebK0&s=1694480220&e=1199998800&f=62640&srv=s66&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Bodyguard (Yakın Koruma) (1994)
-https://s231.rapidrame.com/hls2/01/00017/616xi77dtngs_,l,n,.urlset/index-f2-v1-a1.m3u8?t=w4TKiUM2jyAjhduUTfIS5uTZyB3bussCr8ifnv15X7k&s=1694478932&e=1199998800&f=87393&srv=s234&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Yakın Koruma (2011)
-https://s231.rapidrame.com/hls2/01/00006/sz1nejit5ot8_,l,n,.urlset/index-f2-v1-a1.m3u8?t=lWMZYofW-L1N5ZNYzzlFNLeApXIRD27AroEcAzh_NV0&s=1695526878&e=1199998800&f=30667&srv=s263&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Koruma (2016)
-https://s230.rapidrame.com/hls2/01/00014/k91itlveh9qg_,l,n,.urlset/index-f2-v1-a1.m3u8?t=nD-dGsri6iqRPjYbFqrDmKXuWmnIH1hf-vZAyrGX7bg&s=1694480567&e=1199998800&f=72617&srv=s166&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Çıkış Yok (1987)
-https://s230.rapidrame.com/hls2/01/00017/85pjayl6pqpo_,l,n,.urlset/index-f2-v1-a1.m3u8?t=2I57IVPg7bfTPEZV44lcylHDjnpBYGo6bU466A0CIfk&s=1695526952&e=1199998800&f=88210&srv=s265&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:-1 group-title="VOD SINEMA",Kanlı Elmas (2006)
-https://s231.rapidrame.com/hls2/01/00003/dau2d2fzhwka_,l,n,.urlset/index-f2-v1-a1.m3u8?t=_5T4SzuTDnsLQzh5R3U__ZTzy5H4VlPXD30FPVwk3uo&s=1694469367&e=1199998800&f=17941&srv=s66&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:-1 group-title="VOD SINEMA",Kung Fu Panda (2008)
-https://s231.rapidrame.com/hls2/01/00015/oe50ob34w7lv_,l,n,.urlset/index-f2-v1-a1.m3u8?t=VkncMKluCr0xtrSCtgwVbluID1koHZBnh5r87_vkt0I&s=1694476940&e=1199998800&f=76888&srv=s64&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1 group-title="VOD SINEMA",Kung Fu Panda Parşömenin Sırrı (2012)
-https://s230.rapidrame.com/hls2/01/00004/9slpwern4ztp_,l,n,.urlset/index-f2-v1-a1.m3u8?t=LS1mUK5W9HZM6mkXCcHLgWwAJo2eA1BIDS79V9dfc9s&s=1694477423&e=1199998800&f=22985&srv=s69&i=0.0&sp=0&p1=s230&p2=s230
 
 
 
@@ -3952,8 +3622,6 @@ http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
 http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
 http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",Net.S
-https://www.ororp2.site/jRAyW6cIQUOtS_9ffWShVA,1697401160/hlslive/3030.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",S.S
 https://sei.4a6caa92dfb4.sbs/p/redirect.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/3450/e.sign92846notice.space/chunklist_hd.m3u8
