@@ -9,6 +9,10 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TV-8 FHD
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 group-title="TV LISTEM",ATV HD
+http://gineu9.bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",FOX HD
+http://gineu9.bozztv.com/gin-36bay2/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TV-NET
@@ -540,16 +544,18 @@ http://23.146.40.56:8000/sltvmaxdareg/LXF1ZjDXOn6l2hr/785
 #EXTINF:-1 group-title="TV LISTEM",MX
 http://23.146.40.56:8000/sltvmaxdareg/LXF1ZjDXOn6l2hr/788
 
-#EXTINF:-1 group-title="TV LISTEM",Sinema 1
+#EXTINF:-1 group-title="TV LISTEM",Sin 1
 https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Sinema 2
+#EXTINF:-1 group-title="TV LISTEM",Sin 2
 https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Sinema 3
+#EXTINF:-1 group-title="TV LISTEM",Sin 3
 https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Yesilcam 1
+#EXTINF:-1 group-title="TV LISTEM",Ycam 1
 https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Yesilcam 2
+#EXTINF:-1 group-title="TV LISTEM",Ycam 2
 https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Ycam 3
+http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",V+N HDTV
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
@@ -3651,6 +3657,13 @@ https://sei.4a6caa92dfb4.sbs/p/redirect.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/34
 #EXTINF:-1 group-title="TV ÖZEL-2",S.S-2
 https://due.4a6caa92dfb4.sbs/p/red.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/3451/d.sign92846notice.space/chunklist_hd.m3u8
 
+
+#EXTINF:-1 group-title="TV ÖZEL-2",IDMAN
+http://gineu9.bozztv.com/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-2",CBC Sp
+http://gineu8.bozztv.com/gin-dvrfl05/gin-cbcsport/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO +
 rtmp://bintu-play.nanocosmos.de:1935/play/eykKm-1kX1e
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS
@@ -3663,29 +3676,24 @@ rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
 rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
 
 
-#EXTINF:-1 group-title="BILGI",16 EKIM 1 FRAG
-https://streaming.disk.yandex.net/hls/U2FsdGVkX184-MqG9F6jQOucwvOUZR65EPZKOchiDjU4EFLaIY66poHVahnxQ6uBibo17ZHLbBnmYVT8oELPou3OX1vBgTV5MoqBSswfsZQb0BPwKgDm6He5hLT4fXWShCemBJI1kVnWr4HmRNRLjwtHPCXEvrmS2ukjUEwmNH7dK0PKydfyayoPEybKOv4vUvwAsk62432go7iW3E8Ee-WSFlI1GO38YtSQK9PUPbV2UGCOzmsiedDKxV3kPbdUkSRr7E_WpFsSqedakSp2H0SE4yqimM6tMFXMKD8j9GVTHqyM8q1RS1DIi3OGfUvE/607e03321c9a8/a8dba8252077e1c055dd2160cee5680f0318a46b757744ad5b6248b1f930b5c7/1080p/playlist.m3u8?from=disk&vsid=c027396c310b1064311ffe28e1d92d5f23c9a75cda24xWEBx1060x1697423066&source_index=0&t=1697423067089&abd=1
-
-#EXTINF:-1 group-title="BILGI",16 EKIM 2 FRAG
-https://streaming.disk.yandex.net/hls/U2FsdGVkX181HgD5wpJaq2pnNQAKZAHOOYnUaQ3ncAvjIcgCsJslSB6vhFeTnLKEt06srd2mhCzTA0rA5ffueHym1sN3oNu9zsmdG_dbceGbcy-eeX4ftqx5lzbyuCjIzA2tS4xR0BlbeBB37DWrhgegUfgRYbTSkQEXy5osxeKzrUdrPUdyBtr2vw8yuRlIPdVg3y187dNoNjA86riTHYiwY9kBdIdkV6FqJfh0bTJAQnmtmEbztg4kLv_Z5LWwVkRqTnbjYb0ksutYxQs1FI-iMQi07TpFVBU5_fkhU9Xg-kUe8L6alzhf2AHfnKTK/607e03321dd30/dedbf8fe62c7a76e9d3c1961431d9acbd9692960e3c33504809fc922559a5398/1080p/playlist.m3u8?tid=3&from=disk&vsid=d86d8145ac0d5fafaafa3ef3319104b848f35cbda10exWEBx1060x1697422973&source_index=0&session_data=1&preview=1&t=1697422973446
 
 
 #EXTINF:-1 group-title="BILGI",Cesur YENI DUNYA
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_gGP28vyTvEk9-cByQdGXE5FT0iRoBJ78LLrfu9hgJBh8B6EJ5L6QnYIs-qj7wz0SxNeMP6901CQZpE0Ss__iiSTN-HkcPBzmFzspCwIpwVdit0SxFY1Zr28H6o-EGdS21u1F_l2ww9IYZK_WKgh-z5KluhD2FWpmijUKpZdFsOoLDrOrxqYYiYnFskC6dvwdBTfnwkvCmp0mhy3iD8scrkffTXTRbaUPSLExFzebNp2J1bxtP76LSOh6XZKydCJ_ebEB8CeGjRDH4fvIT1B7J5png_aiaSDhkCKYrAOwUw7tfLm6-raMD/607e2043c06b0/cd6a86f291be0f82bf4d9ef98dbbd95603a0aef25ec98b522a9d2cf130c9d19f/1080p/playlist.m3u8?from=disk&vsid=d79f2d915f37fad9cb714c372a76c9430a3747fca19exWEBx1060x1697430775&source_index=0&t=1697430775853&abd=1
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_je4a_uSNrgxvnkn8uXJU8OVon2CAeXQ_Xppr5ox3_4ObkFHQCJOfw8V-P0wOEyhpvaJbq5PaVfx3hbFN0mkHZrMI9mktPJQeYSFsvcvJKjvXzxZADVe1Xv0wsCHBtCJZ6hDvpskpk-NPmH07_L2tXPIMkHx_eabg_qwlDqrACzgmubQSZ0u287PGBmPTjlxgrDhaClNjrlDZ1L2YvPy3pGHUBxiOY1TS5YA4SS8oO9Hu0ym4ApcYPWNJChJptoZtDEIrMZeaiMjI7sYH3hEMtf4hv629ntVWXMZ9eDjY9DLIWf7trnPgu/60800af17a300/a66ba12d747b067d597aae4d61ea71ffd6c57445173c73fc3354c1035ee78d07/1080p/playlist.m3u8?from=disk&vsid=aa1c798649a5e582760971e68851de801906c6815bf9xWEBx1078x1697562490&source_index=0&session_data=1&preview=1&t=1697562490853
 
 #EXTINF:-1 group-title="BILGI",Ozon deliği 2023
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-Ouf5rkaTcxakpNq74U2d0HgEMI1wFTZ7okIMvfOBHNonilbV81zZkZNZuZUixcJ8eGB9qQAi9K3OoIqGAeF7fkdgEzrPRKpccUtytEpHk2d0NB7R4Z4QTMbDqa3yXUMjLZIO3AvXtkDP8dWNdyj8IM_76hMZljX4qELzekdWiKW2bhMYHAiI7xbHS6TCH2RMAcPptjz3PxLL5Jo6EPEGGwLIDH-5Znh22HCdxIALn5yJZj-cLQe1waNaefa-gGpAiW80apRjx8UZdPLjqoCTE7G74Lo3S0Ks32Qg4ZpyyEDs87Y8aXWMc/607e23f25eb88/cdf08908b21cc824b67ec5e3b3a9b678a51285cc65ea28972facc6a3be461d5c/1080p/playlist.m3u8?from=disk&vsid=c048457c04a84f4bfe003a7678e8e320e65c0f409371xWEBx1060x1697431764&source_index=0&t=1697431764250&abd=1
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1-RYd3jWBw1uL3IhaOX8LLb_h8OTl9g8AZ1P7f3lIpgisY49p55F5jVME30YgkJFUjjLB_9SW7mwhqZQs9An0n2UZMr81asS1KlJDw8jj3v1AVkuVtDhSgUbcQ1PNkpRaB4eTQjmTNlQ_FACdoCppeJ2GVkR2iTgKPHW0DoprvXM8sgw3PVv3vTDrXpdVnFKdV9x2b2Wt27KEgwTsV_CIPIz1xX8AB97HwXX4Ex6f4SJ2Ut18qd46jVESafjkG6FVeJPNfwL1FMG3RdHea93iHRZ5yZD7rYAKxgmPLb2Sjkj-e1DudRBAu0/60800af178b90/6c70017ad025984df3ee4fc35c4fbb55e7f1f956070be85fa3e32b30ee1f1fe7/1080p/playlist.m3u8?from=disk&vsid=d520f5b02df5c42b48efa05266a221298459b481c8b1xWEBx1078x1697562517&source_index=0&t=1697562517783&abd=1
 
 #EXTINF:-1 group-title="BILGI",Yer altında yaşam
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-KcozhMcSI6_O1OsVWaYlyiC8dHASNtlOFMmRhp_LR489WTZ6wxLN16Dx00yel4WFqVif7qHctyRLxl0CcShBuusJbCNsqX-6lRFxT7rwuKLBE8GO5YBWPO3C81zObKFTTfkocu7i-6JDblr25MC0jQg0fh_UBi8E87HahPJyt2aHtOmKXUB597Youb9sUiJpAnmIE0R4EUPxxAfjNpu4GTSMAmHINNQiFPKzQm9QmErSZeuO26Ami5ItWr0NlnvcmywX_cZ-crzHzgXuWa8OiGDaE5RFGrExKV0MyGrXogIJwVQSPjpsK/607e24d446050/5dfa6abc64b23cd2bba371ad92c683f40feb59dafef0fb40cd9fca06409b2528/1080p/playlist.m3u8?from=disk&vsid=f0893f5c4d09f0242ad84acff3c8f3564e69d0a9130exWEBx1060x1697432001&source_index=0&t=1697432001075&abd=1
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18LycGUEtBxE4vh6-9FrP6I8GhTiYR2aubJelcBnguA3Dl1GSplNqJuouK2_gCVM2580Ib2Hz9fBKegxIKupuctbrcQTs0mIrPx7vMAFMtpHaeKNnB7VuEKIL-ONzLk_tC8RfcuqogsVNHXvlj6NPKmmg4AjUJf1XkxHMAvm-xznMzsOn8oWLfpNAlVupB5yHnEVwg6WlywN8ht-QKpuWPIg5Ppb9PtIeTREampY-xvAZc2-YEqySL1wSGqftdeOLDDbCvvGFHR9iu12z8EBK-HER27M7gH9XrZMEcgayLti9hLHFESpt7L/60800b0b856c8/0a531ed2d25f78d13b30e3fb2a612ac06ced7cee5e20be000d3700e81b5e85cd/1080p/playlist.m3u8?from=disk&vsid=06aa22968437fc3758a50bc575ce54356134d13f3a32xWEBx1078x1697562538&source_index=0&t=1697562538305&abd=1
 
-#EXTINF:-1 group-title="BILGI",En Gizemli (IZLEYIN)
-https://streaming.disk.yandex.net/hls/U2FsdGVkX19akR9KY2pGH25fojQn0AiarwtXgcs4H3lg3XUYld_XZPXCimo5jPMISfoYRI0yg4lVpIGZaWhVxgwD5yT6MXQxDnKWC9j0tBO3vPQFgsSxpd_vhtVbleWhWI35HxSwvm466nQGgXGdmRl2q7AAS534kdVhzq4NAd5fqZIxSKoB49XxZVYfskHFLd0YPWA851NfIWjho-wJsaTQhIxyqW-LcRPZHAgHn0X_ebJcS1RWzdyQRWMxLoxFewmX3bYpwegRltOjXhPX-1X2c3v5A-FZBdt6jxQwFlV-C-c0_vgCr6tQgFJOrmty/607e255509e30/ba9a22ab324661b9a73f1de75794d0889e15e400b15c7b2645c7df1f4b44c296/1080p/playlist.m3u8?from=disk&vsid=9ae2f4ebd5d7f8fb2566bd0482220e242e6dc209503dxWEBx1060x1697432136&source_index=0&t=1697432136128&abd=1
+#EXTINF:-1 group-title="BILGI",En Gizemli
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1-sQ3r2GVVojSBIZbJMXiPpfh8HzxWvp3DDCZkXyUba75IGeJzhgoStOrpXY8s6bFFmHQGj5Pbrrme34IJo6vBQDCEUUW8b2mi6cPRjoNPv4JKoZ9RTmuCcsSoEGe-YS1Occ6KwTNBaPC0yg5wx84iKDyETd_v_Z568rRJrDyG9IMLYSG5jOi7WUzM1-NrVAkwJgyHisDQuHSmfGuMYt6Dygso0SYJtnZhukLHHsRC6ID61GjeaYRw-qWQ9VaJaW3NVBLR1YUXds4rlG7DMtYfiFMJVka2iej9gBO_TXLn2GVjt2tjzRwvj/60800af183b58/f4229514a3f308e3e81de274bd0a0561b716d4db466afc2f60de192f30e5bdd5/1080p/playlist.m3u8?from=disk&vsid=c23dfb28c53b948a14aea99be17bc0a35be3fc5f9cc4xWEBx1078x1697562566&source_index=0&t=1697562567045&abd=1
 
 #EXTINF:-1 group-title="BILGI",E.M KORKUNÇ AÇIKLAMALARI
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-5u3UYtvQZum1SnzGCI-q8uLHXwN9qx2-wQcCZWyq2ciKztWOejfgb498pdOI71lKacLPowcsA9BiZNQoshqVajuZt2zOyNdMm-IKGeCqHP582enodGS41UTXzAZXOFujU11S98y3h_Nz2kwZun_eNp-isLfPAPQlqaLGmY6nD2QvdzXX2OImm25zZ7BP3kTPqtK1LT_s4DqeiAARHB_5nBP6VumkxoRYGugPqs7W2Q3sP7fB_gDv4vNJLf980JN8RuIASpvgQivnGhhXy-QluyRsHD4wi-lrFFS66_Pitv0wAeGjQzhSd/607e2bee4a210/1c492f087ed21ee555046a36f2a58268428c92c7f1673cf1aba3d506d4ac6756/1080p/playlist.m3u8?from=disk&vsid=5b94f3453ba272841ff11cf0eb6f202ab1065c1547e4xWEBx1060x1697433907&source_index=0&t=1697433907369&abd=1
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18dka3QR0BhlnTwblVYFbR7mENxvunhtopmz6BKcqHzO5l35PbZEMKG2chIDt-TJB_dpigumVKw_MOFn4YNFlJtI_nvmlh404F2DYURpv1EhMCbdOcCpVERaX_Ut5azoZ1o_tsuwoLR8oPPIKfw_4pg7kZSe2nEwn7vxui6TntZOeBATRduOIEql2PhtAt8rpNDfR8Y63CcGU3_EaORXEa_3yOwKetklwLEofUL-Sy_lIWn-eAc_45Pc_PIphPh_gv5pn_9S8lNpwwk4Udhe4EVzkQfONCiL1y9oRGyctOaf0w_r250SUWy/60800a9efb890/d16234acdce7c178dd9c17aae662b92695b7fe147444204e50ed61c11b9bc057/1080p/playlist.m3u8?from=disk&vsid=dec2eaeea66c200bbacbcdc93158e18ae7b504f1ded2xWEBx1078x1697562593&source_index=0&t=1697562593139&abd=1
 
 #EXTINF:-1 group-title="BILGI",Gizli Bolge
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-snRx3Rz8Q_Z8SajsjivsOfdEUYC6bYi3hwIykQ_xqm5ZGjZ1Elwk4HQPe8feGplxM0JrL7-iATDpHzoIEkArGLcm4peuaCYgcmQWG4Bwj8AyR5rEgEFUc-VQ3_xPruBkgghwhWDzx5xx_EUqzH5cbAVPt02qx-SOChX-7KfHwXufs_kUGx-78KewJX65C00-8h7L-aJabsP7devZrTQDRVn0iKB9Q4Rl1wE0VA5_gJgQoXabmqrXuBLyxP8Ty2gIVZkenHuGHIso-I1ibN7LlE18mWwO-GYerjftn1wBDliX-5gfP7rob/607e2c8339150/4525ae4f590bf534b7ca05956731e73f1f0758c7d9bf1505d48df68cd01250e8/720p/playlist.m3u8?from=disk&vsid=e703fa9e6213f07e61b9f89222c79692384fabe3e881xWEBx1060x1697434063&source_index=0&t=1697434063528&abd=1
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_4gxZKK-jFrM4Y_NSe5BlcfVuH8KkjZDz4WRTZiPc86oWgVyab62e8UfjtkzJpeFNNJoI3EEPvlLRlQnfZ8GF_14PNIvOAo1TOGFK92JlByiBVi3jtqF6zg9Xtfa84w6jE0uU5PlknQ3ldQUOnGUlG3Wv_GBgJVhAA6ESA0wF5wsavRfcwA7FSdRFPRglpAYuMqLLxf4W8iFot3GPZquBh6jxaQWtJPfPFhizZfqXNWZwz45LUANdrmNBO9QlfdnAsVmsjUNp80dQwM7eFJsQhDbXwdxbGCQ7UhrlnU7A_0TPLNHLp6P8L/60800a9ecbaf0/9c02e55bf115dbac6d848af64b0f3f0b158fc88c037e9a84063a6cc01d0c467e/720p/playlist.m3u8?from=disk&vsid=abd3cebe59e67ffd7b84493a338f9f7f93fe8b67150axWEBx1078x1697562612&source_index=0&session_data=1&preview=1&t=1697562612387
 
 
