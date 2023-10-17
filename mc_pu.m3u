@@ -3210,6 +3210,26 @@ http://radio.domiplay.net:2002/stream/1/
 
 
 
+
+#EXTINF:-1 group-title="TV ÖZEL",HYPERMOTION
+http://344118631581571903.of23103.xyz:80/play/Marcos183/68537437/571903.ts
+
+#EXTINF:-1 group-title="TV ÖZEL",R. MD (Kral)
+http://344118631581339784.of23103.xyz:80/play/Marcos183/68537437/339784.ts
+#EXTINF:-1 group-title="TV ÖZEL",R. MD (Kral2)
+http://344118631581538767.of23103.xyz:80/play/Marcos183/68537437/538767.ts
+
+#EXTINF:-1 group-title="TV ÖZEL",DZ 1
+http://344118631581228390.of23103.xyz:80/play/Marcos183/68537437/228390.ts
+#EXTINF:-1 group-title="TV ÖZEL",DZ 2
+http://344118631581228389.of23103.xyz:80/play/Marcos183/68537437/228389.ts
+#EXTINF:-1 group-title="TV ÖZEL",DZ 3
+http://344118631581228392.of23103.xyz:80/play/Marcos183/68537437/228392.ts
+#EXTINF:-1 group-title="TV ÖZEL",DZ 4
+http://344118631581228396.of23103.xyz:80/play/Marcos183/68537437/228396.ts
+#EXTINF:-1 group-title="TV ÖZEL",TELEDEPORTE
+http://344118631581538769.of23103.xyz:80/play/Marcos183/68537437/538769.ts
+
 #EXTINF:-1 group-title="TV ÖZEL",S.Kazakistan FHDTV
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",S.Sports 1 FHDTV
@@ -3387,8 +3407,18 @@ http://ru.iptv.monster/play/5719/C94BDA70C92CDB2/video.m3u8
 http://ru.iptv.monster/play/6252/C94BDA70C92CDB2/video.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",ESPN-2
 http://ru.iptv.monster/play/6253/C94BDA70C92CDB2/video.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",Movistar Formula-1
 http://ru.iptv.monster/play/1121/C94BDA70C92CDB2/video.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",DZ F 1
+http://344118631581165257.of23103.xyz:80/play/Marcos183/68537437/165257.ts
+#EXTINF:-1 group-title="TV ÖZEL",DZ F 1+
+http://344118631581165418.of23103.xyz:80/play/Marcos183/68537437/165418.ts
+#EXTINF:-1 group-title="TV ÖZEL",DZ F 1++
+http://344118631581165419.of23103.xyz:80/play/Marcos183/68537437/165419.ts
+#EXTINF:-1 group-title="TV ÖZEL",DZ F 1 HEVC+
+http://344118631581318564.of23103.xyz:80/play/Marcos183/68537437/318564.ts
 
 #EXTINF:-1 group-title="TV ÖZEL",S+1
 http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20085
