@@ -451,18 +451,10 @@ http://dmi3y-tv.ru/hls/CH_PRO100.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Zafer günü-FHDTV (День победы)
 http://dmi3y-tv.ru/hls/CH_DENPOBEDYHD.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",KINO.PREMIERA-FHDTV
-http://dmi3y-tv.ru/hls/blrus/CH_KINOPREMIERAHD.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",KINO LIVING FHDTV
 http://dmi3y-tv.ru/hls/CH_KINOLIVINGHD.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KINO FHDTV
 http://dmi3y-tv.ru/hls/CH_KIHOTVHD.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",Cinema FHDTV
-http://dmi3y-tv.ru/hls/blrus/CH_CINEMATVHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",CINEMA SDTV
-http://dmi3y-tv.ru/hls/blrus/CH_CINEMA.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",Çizik-TV (Чижик)
 http://dmi3y-tv.ru/hls/CH_CHIZHIKHD.m3u8
@@ -3659,10 +3651,11 @@ https://due.4a6caa92dfb4.sbs/p/red.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/3451/d.
 
 
 #EXTINF:-1 group-title="TV ÖZEL-2",IDMAN
-http://gineu9.bozztv.com/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+http://gineu10.bozztv.com/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8?nimblesessionid=6689926&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMyA1OjE4OjA2IFBNJmhhc2hfdmFsdWU9MHZuckJEanJxK3ZSSkoxZDY0RXJWUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIz
 
 #EXTINF:-1 group-title="TV ÖZEL-2",CBC Sp
-http://gineu8.bozztv.com/gin-dvrfl05/gin-cbcsport/tracks-v1a1/mono.m3u8
+http://gineu8.bozztv.com/gin-dvrfl05/gin-cbcsport/tracks-v1a1/mono.m3u8?nimblesessionid=9328114&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMyA1OjE5OjEyIFBNJmhhc2hfdmFsdWU9Tkh3cDFJbGI5WWNqQXFSd01aSi9qQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI0
+
 
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO +
 rtmp://bintu-play.nanocosmos.de:1935/play/eykKm-1kX1e
