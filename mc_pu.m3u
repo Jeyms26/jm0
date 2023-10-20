@@ -562,7 +562,7 @@ https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 
 
 #EXTINF:-1 group-title="ISTEK SINEMA",Hızlı ve Öfkeli 10 (2023)
-https://s230.rapidrame.com/hls2/01/00018/q5xrgun9chrn_,l,n,.urlset/index-f2-v1-a2.m3u8?t=LwbUp03qJTQumRtmWfUF4dQQl7I7u82DVep67j-8k_I&s=1697426362&e=1199998800&f=91000&srv=s288&i=0.0&sp=0&p1=s230&p2=s230
+https://cdn153.albergomgir.pw/3535/1080p.m3u8
 
 #EXTINF:-1 group-title="ISTEK SINEMA",Ölümcül Hesaplaşma 1-Bölüm (2023)
 https://s231.rapidrame.com/hls2/01/00018/oznaxuyh84ll_,l,n,.urlset/index-f2-v1-a1.m3u8?t=FSDPYtNjBeSTfElmX1WqaeANGtR1gWR2FzP_J8uf57Q&s=1697426592&e=1199998800&f=90907&srv=s131&i=0.0&sp=0&p1=s231&p2=s231
@@ -3695,3 +3695,14 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_4gxZKK-jFrM4Y_NSe5BlcfVuH8KkjZD
 #EXTINF:-1 group-title="BILGI",Klip 1 FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-uAxDLO8HJOJNtP74YogAZYGFfK_6hO4VuHfz5uDeQExWWhOXMZu3WjyKCY__3A0THeznu9tmzvaoHfHA0VKmxlKYA1y-OvaL15Nw_Ay-OhNc1h_MzePlJomeK-KoOhN8Nz43VsQ6MErNnpYhQENVmE8m2EHyhlK2k_dje4MVJ0DpOXP0QyHh4WrY_8LgLi2quJqEWKFskVzfrgrDu6NoVnX_UIGpqqTH6IpPCTale0khbxfUq9v29HghpdJ9irz-GO7ONKqPOhsNj8XBApiYrcp8MTahFuxx-Kd0nRTHQ0gnLsTDTl22W/608021ec2fd20/11aaa0d53cec1b8cd7e3e05055b3530f428c272899870cd5416e719fe8fb42ad/1080p/playlist.m3u8?from=disk&vsid=b9914e5e9dd5c7853e2677ba8df8194b1df4dda45c42xWEBx1078x1697568659&source_index=0&t=1697568659105&abd=1
 
+#EXTINF:-1 group-title="TEST",Hızlı ve Öfkeli 10 (2023)
+https://cdn153.albergomgir.pw/3535/1080p.m3u8
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Hızlı ve Öfkeli 10 (2023)
+https://s24.seeshare.pics/mt/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1b1080
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Hızlı ve Öfkeli 10 (2023)
+https://hls33-eu.zcdn.stream/f8d9990ae3e8c8989d6fa05fa49f18fa/2023-10-05/1080.m3u8
+
+#EXTINF:-1 group-title="ISTEK SINEMA",Hızlı ve Öfkeli 10 (2023)
+https://hls33-eu.zcdn.stream/f8d9990ae3e8c8989d6fa05fa49f18fa/2023-10-05/1080.m3u8?token=4ada2a5a69e465212162eadc61476143&client=7db7cf8e980d99b227ce25f438ded0e3&expires=1697789102&type=edge&node=BtYbTcO5e718yyZmFzCjKKkgCl1IRFid9wJ9Jx8bzIk-1Utz2PNRz8fcu1l-OyHeSiAeejNQWe5hRyZKfFcB8r5nzukXoKBpYuCMHUyDpV0CcZ814LEx9rFslq6dP4Eo67Neg4ZnqIBOeWo1oOirUR8VGxMzqKvGaBtO8IDzmrg
