@@ -3635,28 +3635,6 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
 
 
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)
-http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)
-http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75)
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-2",S.S
-https://sei.4a6caa92dfb4.sbs/p/redirect.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/3450/e.sign92846notice.space/chunklist_hd.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",S.S-2
-https://due.4a6caa92dfb4.sbs/p/red.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/3451/d.sign92846notice.space/chunklist_hd.m3u8
-
-
-#EXTINF:-1 group-title="TV ÖZEL-2",IDMAN
-http://gineu10.bozztv.com/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8?nimblesessionid=6689926&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMyA1OjE4OjA2IFBNJmhhc2hfdmFsdWU9MHZuckJEanJxK3ZSSkoxZDY0RXJWUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIz
-
-#EXTINF:-1 group-title="TV ÖZEL-2",CBC Sp
-http://gineu8.bozztv.com/gin-dvrfl05/gin-cbcsport/tracks-v1a1/mono.m3u8?nimblesessionid=9328114&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMyA1OjE5OjEyIFBNJmhhc2hfdmFsdWU9Tkh3cDFJbGI5WWNqQXFSd01aSi9qQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI0
-
-
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO +
 rtmp://bintu-play.nanocosmos.de:1935/play/eykKm-1kX1e
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS
@@ -3668,11 +3646,45 @@ rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + 20
 rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
 
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) BAKIMDA
+http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) BAKIMDA
+http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75)
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
+
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)1
+http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19244/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)2
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19244/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)3
+http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/19244/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)1
+http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/5050/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)2
+http://ottlinks.club/high/f8dsyr75xk/59.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)3
+http://7647e6f4.ucomist.net/iptv/Q3DNDZAWXQVWNH/5050/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)4
+http://7647e6f4.ucomist.net/iptv/Q3DNDZAWXQVWNH/9251/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)5
+http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/5050/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
+http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-2",S.S
+https://sei.4a6caa92dfb4.sbs/p/redirect.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/3450/e.sign92846notice.space/chunklist_hd.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",S.S-2
+https://due.4a6caa92dfb4.sbs/p/red.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/3451/d.sign92846notice.space/chunklist_hd.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="BILGI",23 ekim frag 1
 https://streaming.disk.yandex.net/hls/U2FsdGVkX182iq4nE8Jebg4hnI1ylkVmP1hwxJufNJ9_kS1v2VUlw2r9Uf3NU7-JNxkKxjJnbaMfdE1cqKNPpy38EltcmsBuEuPIELOy9urgFuCXZU1dViL9yYK1s760IU-prZKyZ7_JPvDThzQo7RFvGk-GZtnABK_conWkI78ZaK_3cs7qJFMk44oWc0wCgEhPOq5OKUX0dSgKzZz8IeioYFSrKN0W5UvlT05NaCuclo9-cUDAML7AOvaqwQetIaEHKm6ug_7OmMrdgh1vgkVHyxfhLGz2Uk-5sZYRXvKxk_JBBEt3NnqUX9VMgjZr/6080a4f0f12b8/66a83f774c716fd25715ddc33bf937d5d2bb8e9c3a15ef63d56c6851046a280c/1080p/playlist.m3u8?from=disk&vsid=99d8d3a742c2ee9b893c59caf986ca82241a725fe7daxWEBx1078x1697603828&source_index=0&t=1697603828495&abd=1
-
 
 #EXTINF:-1 group-title="BILGI",Cesur YENI DUNYA
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_je4a_uSNrgxvnkn8uXJU8OVon2CAeXQ_Xppr5ox3_4ObkFHQCJOfw8V-P0wOEyhpvaJbq5PaVfx3hbFN0mkHZrMI9mktPJQeYSFsvcvJKjvXzxZADVe1Xv0wsCHBtCJZ6hDvpskpk-NPmH07_L2tXPIMkHx_eabg_qwlDqrACzgmubQSZ0u287PGBmPTjlxgrDhaClNjrlDZ1L2YvPy3pGHUBxiOY1TS5YA4SS8oO9Hu0ym4ApcYPWNJChJptoZtDEIrMZeaiMjI7sYH3hEMtf4hv629ntVWXMZ9eDjY9DLIWf7trnPgu/60800af17a300/a66ba12d747b067d597aae4d61ea71ffd6c57445173c73fc3354c1035ee78d07/1080p/playlist.m3u8?from=disk&vsid=aa1c798649a5e582760971e68851de801906c6815bf9xWEBx1078x1697562490&source_index=0&session_data=1&preview=1&t=1697562490853
@@ -3694,15 +3706,3 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_4gxZKK-jFrM4Y_NSe5BlcfVuH8KkjZD
 
 #EXTINF:-1 group-title="BILGI",Klip 1 FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-uAxDLO8HJOJNtP74YogAZYGFfK_6hO4VuHfz5uDeQExWWhOXMZu3WjyKCY__3A0THeznu9tmzvaoHfHA0VKmxlKYA1y-OvaL15Nw_Ay-OhNc1h_MzePlJomeK-KoOhN8Nz43VsQ6MErNnpYhQENVmE8m2EHyhlK2k_dje4MVJ0DpOXP0QyHh4WrY_8LgLi2quJqEWKFskVzfrgrDu6NoVnX_UIGpqqTH6IpPCTale0khbxfUq9v29HghpdJ9irz-GO7ONKqPOhsNj8XBApiYrcp8MTahFuxx-Kd0nRTHQ0gnLsTDTl22W/608021ec2fd20/11aaa0d53cec1b8cd7e3e05055b3530f428c272899870cd5416e719fe8fb42ad/1080p/playlist.m3u8?from=disk&vsid=b9914e5e9dd5c7853e2677ba8df8194b1df4dda45c42xWEBx1078x1697568659&source_index=0&t=1697568659105&abd=1
-
-#EXTINF:-1 group-title="TEST",Hızlı ve Öfkeli 10 (2023)
-https://cdn153.albergomgir.pw/3535/1080p.m3u8
-
-#EXTINF:-1 group-title="ISTEK SINEMA",Hızlı ve Öfkeli 10 (2023)
-https://s24.seeshare.pics/mt/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1b1080
-
-#EXTINF:-1 group-title="ISTEK SINEMA",Hızlı ve Öfkeli 10 (2023)
-https://hls33-eu.zcdn.stream/f8d9990ae3e8c8989d6fa05fa49f18fa/2023-10-05/1080.m3u8
-
-#EXTINF:-1 group-title="ISTEK SINEMA",Hızlı ve Öfkeli 10 (2023)
-https://hls33-eu.zcdn.stream/f8d9990ae3e8c8989d6fa05fa49f18fa/2023-10-05/1080.m3u8?token=4ada2a5a69e465212162eadc61476143&client=7db7cf8e980d99b227ce25f438ded0e3&expires=1697789102&type=edge&node=BtYbTcO5e718yyZmFzCjKKkgCl1IRFid9wJ9Jx8bzIk-1Utz2PNRz8fcu1l-OyHeSiAeejNQWe5hRyZKfFcB8r5nzukXoKBpYuCMHUyDpV0CcZ814LEx9rFslq6dP4Eo67Neg4ZnqIBOeWo1oOirUR8VGxMzqKvGaBtO8IDzmrg
