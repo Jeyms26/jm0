@@ -47,10 +47,14 @@ https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 group-title="TV LISTEM",AFYON TÜRK TV HD
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",DiziTV
-http://dmi3y-tv.ru/hls/CH_DIZI.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Dizi-TV2
-http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14006/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Epic Dr FHDTV TR-RU
+http://91.210.251.166:4897/udp/239.0.3.8:4000
+#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV TR-RU
+http://178.163.19.208:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV2 TR-RU
+http://178.163.105.211:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="TV LISTEM",Dizi-FHDTV3 RU
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xMGVjYTMxOS0wNzA2LTQzN2UtODAwOS04MzAxODEyYjkzM2Ivc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",YANSİNEMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
@@ -3573,6 +3577,20 @@ rtmp://bintu-play.nanocosmos.de:1935/play/LBTsU-vypRe
 rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + 20
 rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
+
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)1
+http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTc5MTQ2ODAsImlhdCI6MTY5NzgyODI4MCwiY2lkIjo2LCJ1aWQiOjY5NTEzNzE5MSwicmVnIjpmYWxzZSwiaXAiOjE4NDE5MjgzNzMsInByb2ZpbGUiOiJhZHVsdCJ9.Bq2dUUNEghptrLm9FXQ5L8qVtdA4cV0mijviyt_oqG0&offset=10
+
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)1
+http://api.peers.tv/timeshift/futbol/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTc5MTQ2ODAsImlhdCI6MTY5NzgyODI4MCwiY2lkIjo2LCJ1aWQiOjY5NTEzNzE5MSwicmVnIjpmYWxzZSwiaXAiOjE4NDE5MjgzNzMsInByb2ZpbGUiOiJhZHVsdCJ9.Bq2dUUNEghptrLm9FXQ5L8qVtdA4cV0mijviyt_oqG0&offset=10
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)1
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMyA2OjU4OjA2IFBNJmhhc2hfdmFsdWU9b3kwdFlXQzlabko1UVEvRXFMMnRpdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75)1
+http://178.163.19.208:4022/udp/234.0.0.197:2000
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75)2
+http://178.163.105.211:4022/udp/234.0.0.197:2000
+
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)1
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19244/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)2
@@ -3609,6 +3627,14 @@ https://sei.4a6caa92dfb4.sbs/p/redirect.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/34
 https://due.4a6caa92dfb4.sbs/p/red.mgh36930asdat.buzz/5gUpRdmhkr9iJmyowV/3451/d.sign92846notice.space/chunklist_hd.m3u8
 
 
+#EXTINF:-1 group-title="TV ÖZEL-2",Idman
+http://edge02.odtv.az/o7/idman/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-2",Space TV
+http://edge02.odtv.az/o1/space/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-2",ULTRA 4K EXTREME
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMmRjZGIxMzktMmNiMC00OWQzLWIzMTMtYzVkZjQyOGY1M2YxIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTEwLTIxVDE4OjU3OjM2WiIsInN0cmVhbV9uYW1lIjoiMTA0MiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFC7FbRqaA-GJisdlgyu1oHQBdDlHAhRS-YXXpW-Y2yZ7GZgnaisgW_Jmng%3D%3D/ip_v5/1042.m3u8
 
 
 
