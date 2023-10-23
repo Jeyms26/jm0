@@ -53,7 +53,9 @@ http://91.210.251.166:4897/udp/239.0.3.8:4000
 http://178.163.19.208:4022/udp/234.0.0.184:2000
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV2 TR-RU
 http://178.163.105.211:4022/udp/234.0.0.184:2000
-#EXTINF:-1 group-title="TV LISTEM",Dizi-FHDTV3 RU
+#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV3 TR-RU
+http://188.113.190.15:80/94/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Dizi-FHDTV4 RU
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xMGVjYTMxOS0wNzA2LTQzN2UtODAwOS04MzAxODEyYjkzM2Ivc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",YANSİNEMA TV
@@ -3150,14 +3152,43 @@ http://radio.domiplay.net:2002/stream/1/
 
 
 
+#EXTINF:-1 group-title="TV ÖZEL",QAZ.SPORT FHD
+https://ucdn.beetv.kz:443/btv/live/hls/000003038.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Setanta KZ FHD
+https://ucdn.beetv.kz:443/btv/live/hls/000002649.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",Setanta KZ 1 FHD
+https://ucdn.beetv.kz:443/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Setanta KZ 1 FHD
+https://ucdn.beetv.kz:443/btv/live/hls/000006998.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",Setanta KZ 2 FHD
+https://ucdn.beetv.kz:443/btv/live/hls/000004499.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Setanta KZ 2 FHD
+https://ucdn.beetv.kz:443/btv/live/hls/000006899.m3u8
+
+
+#EXTINF:-1 group-title="TV ÖZEL",MACH FHD
+http://91.197.104.34:8080/MatchHD/tracks-a1v1/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",MACH SD
+http://95.217.196.109:8081/russia/matchtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",MACH FT-1
+http://95.217.196.109:8081/russia/match_futbol_1/playlist.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",MACH FT-2
+http://95.217.196.109:8081/russia/match_futbol_2/playlist.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",MACH FT-3
+http://95.217.196.109:8081/russia/match_futbol_3/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",IN SPORT FHD
+https://ucdn.beetv.kz/btv/live/hls/000006983.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",LEAGUE FHD
+https://ucdn.beetv.kz/btv/live/hls/000006969.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",HYPERMOTION
 http://344118631581571903.of23103.xyz:80/play/Marcos183/68537437/571903.ts
-
-#EXTINF:-1 group-title="TV ÖZEL",R. MD (Kral)
-http://344118631581339784.of23103.xyz:80/play/Marcos183/68537437/339784.ts
-#EXTINF:-1 group-title="TV ÖZEL",R. MD (Kral2)
+#EXTINF:-1 group-title="TV ÖZEL",R. MD
 http://344118631581538767.of23103.xyz:80/play/Marcos183/68537437/538767.ts
-
 #EXTINF:-1 group-title="TV ÖZEL",DZ 1
 http://344118631581228390.of23103.xyz:80/play/Marcos183/68537437/228390.ts
 #EXTINF:-1 group-title="TV ÖZEL",DZ 2
@@ -3182,10 +3213,10 @@ https://tv.movielab.pro/942/video.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",S.Sports FHDTV
 rtmp://93.189.60.202//272
 
-#EXTINF:-1 group-title="TV ÖZEL",Super Sport IT
+#EXTINF:-1 group-title="TV ÖZEL",S.Sport IT
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",V.Sport FHDTV
+#EXTINF:-1 group-title="TV ÖZEL",V.Sport
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",M.G-1 FHDTV
@@ -3313,40 +3344,6 @@ http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2529/index.m3u
 #EXTINF:-1 group-title="TV ÖZEL",SPORT TV + PT
 http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2530/index.m3u
 
-http://ru.iptv.monster/play/3920/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports Ukraine
-http://ru.iptv.monster/play/1434/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports+ Ukraine
-http://ru.iptv.monster/play/9957/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports 1 HD
-http://ru.iptv.monster/play/942/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports 2 HD
-http://ru.iptv.monster/play/943/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Qazaqstan
-http://ru.iptv.monster/play/5094/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports Eurazia
-http://ru.iptv.monster/play/469/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Окко Спорт HD
-http://ru.iptv.monster/play/7337/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",BS-1
-http://ru.iptv.monster/play/1101/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",BS-2
-http://ru.iptv.monster/play/1102/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",BS-3
-http://ru.iptv.monster/play/1103/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",BS-4
-http://ru.iptv.monster/play/1104/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",BS-5
-http://ru.iptv.monster/play/1105/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",BS-6
-http://ru.iptv.monster/play/1106/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",BS-7
-http://ru.iptv.monster/play/5719/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",ESPN
-http://ru.iptv.monster/play/6252/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",ESPN-2
-http://ru.iptv.monster/play/6253/C94BDA70C92CDB2/video.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL",Movistar Formula-1
 http://ru.iptv.monster/play/1121/C94BDA70C92CDB2/video.m3u8
 
@@ -3364,10 +3361,7 @@ http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20085
 #EXTINF:-1 group-title="TV ÖZEL",S+2
 http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20086
 
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F-SD
-http://ru.iptv.monster/play/171/C94BDA70C92CDB2/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",T.K.F-FHD
-http://ru.iptv.monster/play/3920/C94BDA70C92CDB2/video.m3u8
+
 
 #EXTINF:-1 group-title="TV ÖZEL",T.K.FUTBOOL (1)
 http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/9251/index.m3u8
@@ -3574,51 +3568,47 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20169/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Box Sport Cast 5 Live
 http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Kartal
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO +
 rtmp://bintu-play.nanocosmos.de:1935/play/LBTsU-vypRe
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + OZEL
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS2
 rtmps://amsterdam.restream.io:1937/live/re_7154673_13ad8c40c2fbcbb4001d
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + 20
 rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)1
-http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTc5MTQ2ODAsImlhdCI6MTY5NzgyODI4MCwiY2lkIjo2LCJ1aWQiOjY5NTEzNzE5MSwicmVnIjpmYWxzZSwiaXAiOjE4NDE5MjgzNzMsInByb2ZpbGUiOiJhZHVsdCJ9.Bq2dUUNEghptrLm9FXQ5L8qVtdA4cV0mijviyt_oqG0&offset=10
+http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/19244/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)2
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19244/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)3
+http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19244/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)1
-http://api.peers.tv/timeshift/futbol/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTc5MTQ2ODAsImlhdCI6MTY5NzgyODI4MCwiY2lkIjo2LCJ1aWQiOjY5NTEzNzE5MSwicmVnIjpmYWxzZSwiaXAiOjE4NDE5MjgzNzMsInByb2ZpbGUiOiJhZHVsdCJ9.Bq2dUUNEghptrLm9FXQ5L8qVtdA4cV0mijviyt_oqG0&offset=10
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)1
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMyA2OjU4OjA2IFBNJmhhc2hfdmFsdWU9b3kwdFlXQzlabko1UVEvRXFMMnRpdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://188.113.190.15:80/105/mono.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)2
+http://188.113.190.15:80/105/mono.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75)1
 http://178.163.19.208:4022/udp/234.0.0.197:2000
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75)2
 http://178.163.105.211:4022/udp/234.0.0.197:2000
 
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)1
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19244/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)2
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19244/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)3
-http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/19244/index.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)1
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/5050/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)2
-http://ottlinks.club/high/f8dsyr75xk/59.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)3
 http://7647e6f4.ucomist.net/iptv/Q3DNDZAWXQVWNH/5050/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)4
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)3
 http://7647e6f4.ucomist.net/iptv/Q3DNDZAWXQVWNH/9251/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)5
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)4
 http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/5050/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)5
+http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/9251/index.m3u8
 
-
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75)
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) BAKIMDA
 http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) BAKIMDA
 http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75)
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
 
 #EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
 http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
@@ -3628,5 +3618,3 @@ http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_sUlfui0Kv61tZd8M5TscOikI3Qud3NC2hJC9TdwwlJWpOpHDMRuSzBQwpQJbqO_A_hQJ6wGoaO3afHnnykxoFI5rAauYhffYsOyrV3dTyI7FQiPDIi68LjoXzDIfuVu8RH5lJGvci3Bn-ZbSF28XNuFQMU1TbjWZyCUmXf85TAldJsKL4wUBBfybdKLreunt5VErv79XTb--E4Nb2eM_tJv9LBmHq3Wz7D1_SxlkPT0jgmTAazz8L3zZVJxhIzrK4ye0ePgRXQt2WdV-PP9-dNUlE3xIUNxNm1a5M75LsppldjQHjV7eB/6086b55424bf8/903bda5cccc5eac15201552ca529549da4e54202064be0282df6c8408200a115/1080p/playlist.m3u8
 #EXTINF:-1 group-title="Fragman",7.2
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19Wzv0XO8Yr_E3QdEJB1IoXt0mdQ-n5RgpcVhM1g5-LHF6FJVJW2Ah2jE2SCVMWDw4HJqZQF6CYdIoF3a0pMDPGwepHbJneO_zBlz5HFfQMEkGqtAMySooyhhRMhglZFAiVfcnG589rx0-_Hn06_DuchRMAgMCZiO5_k0X-BRZTs6_HmORzlpmjfSvRoSveFOSdKRwW51E_X1Lb8bs4wxK3Y9OVo1wAqu2OTA7K-M-jtVbk6DPS7Q5mzz1zSMiO2_4NjskybamOiOHKmAToRce9pXCyV8sGPIeEclaKXsQhAeMcDugfhmdB/6086b554889a0/57388cb72b03c44ccf8feb76bd0093ad0582439d3df4f51c8f7133e01ede8413/1080p/playlist.m3u8
-
-
