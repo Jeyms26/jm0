@@ -143,14 +143,6 @@ http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
 #EXTINF:-1 group-title="TV LISTEM",BELARUS-24 FHD
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",ROSSIYA RTR (SSR)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_SNG.m3u8
-#EXTINF:-1 group-title="TV LISTEM",ROSSIYA RTR (ASIA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_ASIA.m3u8
-#EXTINF:-1 group-title="TV LISTEM",ROSSIYA RTR (AVRUPA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
-#EXTINF:-1 group-title="TV LISTEM",ROSSIYA RTR (ABD)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ORT-1 (Avrasya)
 http://dmi3y-tv.ru/hls/T2/CH_1TVHD720_KZ.m3u8
 #EXTINF:-1 group-title="TV LISTEM",SiBiRYA.24-FHDTV (Сибирь)
@@ -446,31 +438,9 @@ http://dmi3y-tv.ru/hls/okko/CH_AMEDIAIHD.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAIIHD.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Amedia Hit FHD
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHITHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",AMEDIA PREMIUM FHD
-http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",START AIR FHD
-http://dmi3y-tv.ru/hls/okko/CH_STARTAIRHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",START WORLD FHD
-http://dmi3y-tv.ru/hls/okko/CH_STARTWORLDHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",PRO100
-http://dmi3y-tv.ru/hls/CH_PRO100.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Zafer günü-FHDTV (День победы)
-http://dmi3y-tv.ru/hls/CH_DENPOBEDYHD.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",KINO LIVING FHDTV
-http://dmi3y-tv.ru/hls/CH_KINOLIVINGHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",KINO FHDTV
-http://dmi3y-tv.ru/hls/CH_KIHOTVHD.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",Çizik-TV (Чижик)
-http://dmi3y-tv.ru/hls/CH_CHIZHIKHD.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KAPITAN FANTASTIKA-TV FHD
 http://dmi3y-tv.ru/hls/CH_KAPITANFANTASTIKAHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Eşsiz-TV (Уникум)
-http://dmi3y-tv.ru/hls/CH_UNIKUM.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",UHD/4K EXTREME
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMmRjZGIxMzktMmNiMC00OWQzLWIzMTMtYzVkZjQyOGY1M2YxIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTEwLTIxVDE4OjU3OjM2WiIsInN0cmVhbV9uYW1lIjoiMTA0MiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFC7FbRqaA-GJisdlgyu1oHQBdDlHAhRS-YXXpW-Y2yZ7GZgnaisgW_Jmng%3D%3D/ip_v5/1042.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",MyZen TV UHD/4K
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/5002/index.m3u8
