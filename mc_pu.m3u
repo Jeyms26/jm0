@@ -3591,7 +3591,8 @@ http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",C.S FHD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 
-
+#EXTINF:-1 group-title="TV ÖZEL-2",2777
+http://192.168.100.98:9900/stream/svp.m3u8
 
 #EXTINF:-1 group-title="Fragman",7.1
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_sUlfui0Kv61tZd8M5TscOikI3Qud3NC2hJC9TdwwlJWpOpHDMRuSzBQwpQJbqO_A_hQJ6wGoaO3afHnnykxoFI5rAauYhffYsOyrV3dTyI7FQiPDIi68LjoXzDIfuVu8RH5lJGvci3Bn-ZbSF28XNuFQMU1TbjWZyCUmXf85TAldJsKL4wUBBfybdKLreunt5VErv79XTb--E4Nb2eM_tJv9LBmHq3Wz7D1_SxlkPT0jgmTAazz8L3zZVJxhIzrK4ye0ePgRXQt2WdV-PP9-dNUlE3xIUNxNm1a5M75LsppldjQHjV7eB/6086b55424bf8/903bda5cccc5eac15201552ca529549da4e54202064be0282df6c8408200a115/1080p/playlist.m3u8
