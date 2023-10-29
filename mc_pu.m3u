@@ -3548,6 +3548,58 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_sUlfui0Kv61tZd8M5TscOikI3Qud3NC
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19Wzv0XO8Yr_E3QdEJB1IoXt0mdQ-n5RgpcVhM1g5-LHF6FJVJW2Ah2jE2SCVMWDw4HJqZQF6CYdIoF3a0pMDPGwepHbJneO_zBlz5HFfQMEkGqtAMySooyhhRMhglZFAiVfcnG589rx0-_Hn06_DuchRMAgMCZiO5_k0X-BRZTs6_HmORzlpmjfSvRoSveFOSdKRwW51E_X1Lb8bs4wxK3Y9OVo1wAqu2OTA7K-M-jtVbk6DPS7Q5mzz1zSMiO2_4NjskybamOiOHKmAToRce9pXCyV8sGPIeEclaKXsQhAeMcDugfhmdB/6086b554889a0/57388cb72b03c44ccf8feb76bd0093ad0582439d3df4f51c8f7133e01ede8413/1080p/playlist.m3u8
 
 
-#EXTINF:-1 group-title="DENEME",+1
+#EXTINF:-1 group-title="DENEME",+0
 https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
+
+#EXTINF:-1 group-title="DENEME",+1
+https://i.mjh.nz/SamsungTVPlus/DEBA3300019EB.m3u8
+#EXTINF:-1 group-title="DENEME",+2
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 group-title="DENEME",+3
+https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+#EXTINF:-1 group-title="DENEME",+4
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 group-title="DENEME",+5
+https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
+#EXTINF:-1 group-title="DENEME",+6
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 group-title="DENEME",+7
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
+#EXTINF:-1 group-title="DENEME",+8
+https://i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8
+
+#EXTINF:-1 group-title="DENEME",WeatherSpy  HAVA
+https://i.mjh.nz/SamsungTVPlus/USAJ3400014LK.m3u8
+
+
+
+#EXTINF:-1 group-title="DENEME",ZenLIFE by Stingray
+https://i.mjh.nz/SamsungTVPlus/USBD3500027DS.m3u8
+
+
+
+#EXTINF:-1 group-title="DENEME",WildEarth
+https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+
+#EXTINF:-1 group-title="DENEME",Samsung Wild Life
+https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
+
+#EXTINF:-1 group-title="DENEME",L NATURE 4K
+https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
+
+#EXTINF:-1 group-title="DENEME",The Jack Hanna Channel
+https://i.mjh.nz/SamsungTVPlus/USBC2100009GT.m3u8
+
+#EXTINF:-1 group-title="DENEME",Rovr Pets
+https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
+
+#EXTINF:-1 group-title="DENEME",Magellan TV Now
+https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
+
+
+
+#EXTINF:-1 group-title="DENEME",VEVO LATINO
+https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
+
 
