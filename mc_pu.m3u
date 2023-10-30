@@ -3489,8 +3489,8 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20169/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Box Sport Cast 5 Live
 http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO +
-rtmp://bintu-play.nanocosmos.de:1935/play/LBTsU-vypRe
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Kartal
+rtmp://bintu-play.nanocosmos.de:1935/play/kEn37-W2Wia
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS2
 rtmp://istanbul.restream.io/live/re_7154673_538a4c39c7c025e7102e.flv
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + 20
