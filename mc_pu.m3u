@@ -3541,6 +3541,26 @@ http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",C.S FHD
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 
+#EXTINF:-1 group-title="TV ÖZEL-2",F.S
+http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60706
+#EXTINF:-1 group-title="TV ÖZEL-2",F.S-2
+http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60707
+#EXTINF:-1 group-title="TV ÖZEL-2",F.S-3
+http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60708
+#EXTINF:-1 group-title="TV ÖZEL-2",F.S-P
+http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60721
+
+#EXTINF:-1 group-title="TV ÖZEL-2",ESPN G.A
+http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60709
+
+#EXTINF:-1 group-title="TV ÖZEL-2",ESPN G.A-2
+http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60707
+
+#EXTINF:-1 group-title="TV ÖZEL-2",ESPN G.A-3
+http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60708
+
+
+
 #EXTINF:-1 group-title="Fragman",Aşktan sonra
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19HgCBt7UINyuqOLBZWPRE-d67grlboyp67vXy1YONLwBqepVAXKC5ziqy2mfL_UHFvLG2d2lFi-wD_LYbhY-v-vlYOZ-L5ioTvTOh3og1jNl7gGJFYK-jmE25ZWGUypwrFgcMhYkkZXe9rcERHRcJA0vOZoMF7FHcxwShoxtcaOK9x-RxmOINFR9GFgcoAHb48YavAulyYtqmb_ESptn21qLC_3w_paKGytYkr2k7lHRrtXLZj3WZSyo2vM2uC-WIL2w-LR4fYEPjD7NRKGSn1JTu0UAjn9j4elm-ucBUq13Rvtbpl6R62/608fc0f0c15d8/9bc78e2cd4f8e65affc7f77a5dc0c658646ce0b650023e68d1783d99d7f3f181/1080p/playlist.m3u8?from=disk&vsid=e20a049d227fd42d751dad38bbe7316b7fa29adfcbe1xWEBx1101x1698642136&source_index=0&t=1698642136496&abd=1
 
