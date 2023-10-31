@@ -440,11 +440,33 @@ http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/5001/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",BiZiM SiBiR-UHD/4K (NAS SIBIRYA)
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/15145/index.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",HDL-FHD
-http://tbs01-edge11.itdc.ge/hdlife/video.m3u8
+#EXTINF:-1 group-title="TV LISTEM",UHD/4K-EXTREME
+http://24ch.iptvsmotri.ru:80/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php?name=f216976e-cbb7-45c2-9c82-63565e05ea83
 
-#EXTINF:-1 group-title="TV LISTEM",TERRA-TV FHD
+#EXTINF:-1 group-title="TV LISTEM",RTG-FHDTV
+http://91.197.104.34:80/RTGHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV
+http://24ch.iptvsmotri.ru:80/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php?name=478ad887-d178-45b4-b348-6a4b52ec4af9
+#EXTINF:-1 group-title="TV LISTEM",HDL-HD1
+http://tbs01-edge11.itdc.ge/hdlife/video.m3u8
+#EXTINF:-1 group-title="TV LISTEM",HDL-HD2
+https://tbs01-edge17.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",TERRA-TV FHD1
 http://dmi3y-tv.ru/hls/okko/CH_NATGEOHD.m3u8
+#EXTINF:-1 group-title="TV LISTEM",TERRA-TV FHD2
+https://ucdn.beetv.kz/btv/live/hls/000008142.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",Vahşi AV-FHDTV (Дикая охота)
+https://ucdn.beetv.kz/btv/live/hls/000004609.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Vahşi Balıkçılık-FHDTV (Дикая рыбалка)
+https://ucdn.beetv.kz/btv/live/hls/000004610.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
+https://ucdn.beetv.kz/btv/live/hls/000005621.m3u8
+
+
 
 #EXTINF:-1 group-title="TV LISTEM",Movies Action 2 HD TR
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6876/index.m3u8
