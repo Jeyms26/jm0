@@ -3112,6 +3112,63 @@ https://ucdn.beetv.kz:443/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Setanta KZ 2 FHD
 https://ucdn.beetv.kz:443/btv/live/hls/000006899.m3u8
 
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD1
+http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/212/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD2
+http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/2413/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD3
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2413/index.m3u
+
+#EXTINF:-1 group-title="TV ÖZEL",Mach Premier TV FHD1
+http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/220/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps4
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5072/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps5
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2407/index.m3u
+
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-2 FHD 50fps3
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2420/index.m3u
+
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 FHD 50fps3
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5071/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 FHD 50fps5
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2408/index.m3u
+
+#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports Ukr HD
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/272/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports Ukr HD2
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5068/index.m3u
+
+#EXTINF:-1 group-title="TV ÖZEL",Setanta Qazaqstan HD
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2399/index.m3u
+
+#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports FHD
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/271/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports FHD2
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5069/index.m3u
+
+#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports 2 FHD
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/270/index.m3u
+
+#EXTINF:-1 group-title="TV ÖZEL",DIGI Sport 1 HD RO
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2523/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",DIGI Sport 2 HD RO
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2522/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",DIGI Sport 3 HD RO
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2524/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 1 HD PT
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2525/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 2 HD PT
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2526/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 3 HD PT
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2527/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 4 PT
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2528/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 5 PT
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2529/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",SPORT TV + PT
+http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2530/index.m3u
 
 #EXTINF:-1 group-title="TV ÖZEL",MACH FHD
 http://91.197.104.34:8080/MatchHD/tracks-a1v1/index.m3u8
@@ -3177,19 +3234,6 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach Planeta
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",FT-FHD
-http://dmi3y-tv.ru/hls/CH_FUTBOLNIYHD.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",FT+1
-http://dmi3y-tv.ru/hls/CH_FUTBOLNIY.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",SP-FHD+1
-http://dmi3y-tv.ru/hls/CH_SPORTIVNYHD.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",SP+2
-http://dmi3y-tv.ru/hls/CH_SPORTIVNY.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",HK-FHD+
-http://dmi3y-tv.ru/hls/CH_HOKKEYNYHD.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL",SPORT (AstraXan)
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Edge Sport
@@ -3231,64 +3275,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",TNT Sports 5 Brezilya
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD1
-http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/212/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD2
-http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/2413/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD3
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2413/index.m3u
-
-#EXTINF:-1 group-title="TV ÖZEL",Mach Premier TV FHD1
-http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/220/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps4
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5072/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps5
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2407/index.m3u
-
-#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-2 FHD 50fps3
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2420/index.m3u
-
-#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 FHD 50fps3
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5071/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 FHD 50fps5
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2408/index.m3u
-
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports Ukr HD
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/272/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports Ukr HD2
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5068/index.m3u
-
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Qazaqstan HD
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2399/index.m3u
-
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports FHD
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/271/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports FHD2
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5069/index.m3u
-
-#EXTINF:-1 group-title="TV ÖZEL",Setanta Sports 2 FHD
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/270/index.m3u
-
-#EXTINF:-1 group-title="TV ÖZEL",DIGI Sport 1 HD RO
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2523/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",DIGI Sport 2 HD RO
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2522/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",DIGI Sport 3 HD RO
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2524/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 1 HD PT
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2525/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 2 HD PT
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2526/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 3 HD PT
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2527/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 4 PT
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2528/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",SPORT TV 5 PT
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2529/index.m3u
-#EXTINF:-1 group-title="TV ÖZEL",SPORT TV + PT
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2530/index.m3u
-
 #EXTINF:-1 group-title="TV ÖZEL",Movistar Formula-1
 http://ru.iptv.monster/play/1121/C94BDA70C92CDB2/video.m3u8
 
@@ -3300,12 +3286,6 @@ http://344118631581165418.of23103.xyz:80/play/Marcos183/68537437/165418.ts
 http://344118631581165419.of23103.xyz:80/play/Marcos183/68537437/165419.ts
 #EXTINF:-1 group-title="TV ÖZEL",DZ F 1 HEVC+
 http://344118631581318564.of23103.xyz:80/play/Marcos183/68537437/318564.ts
-
-#EXTINF:-1 group-title="TV ÖZEL",S+1
-http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20085
-#EXTINF:-1 group-title="TV ÖZEL",S+2
-http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20086
-
 
 
 #EXTINF:-1 group-title="TV ÖZEL",T.K.FUTBOOL (1)
