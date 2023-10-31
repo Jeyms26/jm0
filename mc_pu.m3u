@@ -72,6 +72,8 @@ https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Yansıma Muzik TV Dance HD
 https://ssh101.bozztv.com/ssh101/yansimamuzik/chunks.m3u8
 
+#EXTINF:-1 group-title="TV LISTEM",TeleOn FHDTV
+https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KRAL POP FHD
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="TV LISTEM",KRAL POP HD
