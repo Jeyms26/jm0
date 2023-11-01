@@ -509,7 +509,26 @@ http://178.163.17.115:4022/udp/234.0.0.111:2000
 #EXTINF:-1 group-title="TV LISTEM",GALAXY
 http://178.163.105.211:4022/udp/234.0.0.111:2000
 
+#EXTINF:-1 group-title="TV LISTEM",ZenLIFE by Stingray
+https://i.mjh.nz/SamsungTVPlus/USBD3500027DS.m3u8
 
+#EXTINF:-1 group-title="TV LISTEM",WildEarth
+https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",Wild Life
+https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",The Jack Hanna
+https://i.mjh.nz/SamsungTVPlus/USBC2100009GT.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",Rovr Pets
+https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",Magellan Now
+https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",L.N UHD/4K
+https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
 
 
 
@@ -3023,6 +3042,23 @@ https://cdn-v.pr.trt.com.tr/trttv/website/565afbca-9e69-498e-abdb-03d44fb8d29a/m
 
 
 
+#EXTINF:-1 group-title="TV ÖZEL",CITY
+https://i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",+1
+https://i.mjh.nz/SamsungTVPlus/DEBA3300019EB.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",+2
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",+3
+https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",+4
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",+5
+https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",+6
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",+7
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",QAZ.SPORT FHD
 https://ucdn.beetv.kz:443/btv/live/hls/000003038.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Setanta KZ FHD
@@ -3040,6 +3076,8 @@ https://ucdn.beetv.kz:443/btv/live/hls/000006899.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach TV UHD/4K
 http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV UHD/4K
+http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=a024650819fbec7a200f6b1072e02f16
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD 50
 https://bl.uma.media:443/live/999000/HLS/1_3/2/1/tracks-v2a1/playlist.m3u8
@@ -3477,32 +3515,6 @@ http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
 http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",C.S FHD
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-2",F.S
-http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60706
-#EXTINF:-1 group-title="TV ÖZEL-2",F.S-2
-http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60707
-#EXTINF:-1 group-title="TV ÖZEL-2",F.S-3
-http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60708
-#EXTINF:-1 group-title="TV ÖZEL-2",F.S-P
-http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60721
-
-#EXTINF:-1 group-title="TV ÖZEL-2",ESPN G.A
-http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60709
-
-#EXTINF:-1 group-title="TV ÖZEL-2",ESPN G.A-2
-http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60707
-
-#EXTINF:-1 group-title="TV ÖZEL-2",ESPN G.A-3
-http://xplatinmedia.com:8080/@Ex0meen/cdDwjZvvJUutRMGThaebMVblardd3B/60708
-
-
-
-
-#EXTINF:-1 group-title="MUZ.Deneme",+2
-https://download1648.mediafire.com/bfrqen7e36jggKErKmd9HCiro33ho-cM6bqf-h46i3CsApjd5tSt-luoKxdkwWjBwqz83zqE8un_4k1t7H9bgsgG1stRL-_wugJ24la_qwUEhGA1ZC7wtN9uxOi8SmFTzIqB2UF6U_7OLsuMkCiePcXiecf9EgpyxZIMZmVtgUs/jcd2th0l8ojo1z9/2Alizee+-+Moi+Lolita.mp4
 
 
 
@@ -3515,58 +3527,10 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18zSRupzVD_eFN5jZuSg6yij2BWCMgrny
 #EXTINF:-1 group-title="Fragman",8.2
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19Obj5b2cpY84F44Z1H9Ets_Cd9gKT37k-Rt0Ww_WWSFqf1o3j68UovwISgRLehrahff6luP4m5QGmqW7q7jgTGsjW5CDybZxXxYjZ1oDzfiv_4Dnkkm0Myk6b-cDbeSZ1A4FypjMUOZrL_aFcZLNloIAtezWJIXMP1N2-3nb_-sYSwpK7zvLtsZS1QNZ7tYmOo3NS7sPS-UWkMwfo4vjpVI2spbAwE6kpKjuUFuqqzzNeC1bD-ZFvvZf_eMyX6eh4wFTY1AQOspavzQpbRoDiuBDFo5nbUo2YjNWQi9fcFb7xXtHG8CGAm/608fc00bb59f8/6cdf3c03ccce568428680f91733d92ecfad32431c0ba7fd0741c9b7d7646e4ba/1080p/playlist.m3u8?from=disk&vsid=533c82abd72d5e4ff54554ec1500231e635e96a24093xWEBx1101x1698641985&source_index=0&t=1698641985643&abd=1
 
-
-#EXTINF:-1 group-title="DENEME",+0
-https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
-
-#EXTINF:-1 group-title="DENEME",+1
-https://i.mjh.nz/SamsungTVPlus/DEBA3300019EB.m3u8
-#EXTINF:-1 group-title="DENEME",+2
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1 group-title="DENEME",+3
-https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
-#EXTINF:-1 group-title="DENEME",+4
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 group-title="DENEME",+5
-https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
-#EXTINF:-1 group-title="DENEME",+6
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 group-title="DENEME",+7
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-
-#EXTINF:-1 group-title="DENEME",+8
-https://i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8
-
 #EXTINF:-1 group-title="DENEME",WeatherSpy  HAVA
 https://i.mjh.nz/SamsungTVPlus/USAJ3400014LK.m3u8
-
-
-
-#EXTINF:-1 group-title="DENEME",ZenLIFE by Stingray
-https://i.mjh.nz/SamsungTVPlus/USBD3500027DS.m3u8
-
-
-
-#EXTINF:-1 group-title="DENEME",WildEarth
-https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
-
-#EXTINF:-1 group-title="DENEME",Samsung Wild Life
-https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
-
-#EXTINF:-1 group-title="DENEME",L NATURE 4K
-https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
-
-#EXTINF:-1 group-title="DENEME",The Jack Hanna Channel
-https://i.mjh.nz/SamsungTVPlus/USBC2100009GT.m3u8
-
-#EXTINF:-1 group-title="DENEME",Rovr Pets
-https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
-
-#EXTINF:-1 group-title="DENEME",Magellan TV Now
-https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
 
 #EXTINF:-1 group-title="DENEME",VEVO LATINO
 https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
 
-#EXTINF:-1 group-title="DENEME",mach uhd
-http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=a024650819fbec7a200f6b1072e02f16
+
