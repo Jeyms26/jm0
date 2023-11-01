@@ -460,13 +460,9 @@ http://24ch.iptvsmotri.ru:80/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4
 #EXTINF:-1 group-title="TV LISTEM",RTG-FHDTV
 http://91.197.104.34:80/RTGHD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV
-http://188.113.190.15:80/48/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV
+#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV1
 http://188.113.190.15:80/330/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV
-http://178.162.218.87:8081/andr/nst.stream/chunks.m3u8
-#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV
+#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV2
 http://24ch.iptvsmotri.ru:80/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php?name=478ad887-d178-45b4-b348-6a4b52ec4af9
 
 #EXTINF:-1 group-title="TV LISTEM",HDL-HD1
@@ -501,12 +497,12 @@ http://178.163.105.211:4022/udp/234.0.0.216:2000
 #EXTINF:-1 group-title="TV LISTEM",ZOOPARK
 http://188.113.190.15:80/46/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",OCEAN TV
+#EXTINF:-1 group-title="TV LISTEM",Okyanus TV
 http://188.113.190.15:80/52/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",GALAXY
+#EXTINF:-1 group-title="TV LISTEM",Galaksi
 http://178.163.17.115:4022/udp/234.0.0.111:2000
-#EXTINF:-1 group-title="TV LISTEM",GALAXY
+#EXTINF:-1 group-title="TV LISTEM",Galaksi
 http://178.163.105.211:4022/udp/234.0.0.111:2000
 
 #EXTINF:-1 group-title="TV LISTEM",ZenLIFE by Stingray
