@@ -3023,7 +3023,6 @@ https://cdn-v.pr.trt.com.tr/trttv/website/565afbca-9e69-498e-abdb-03d44fb8d29a/m
 
 
 
-
 #EXTINF:-1 group-title="TV ÖZEL",QAZ.SPORT FHD
 https://ucdn.beetv.kz:443/btv/live/hls/000003038.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Setanta KZ FHD
@@ -3038,6 +3037,15 @@ https://ucdn.beetv.kz:443/btv/live/hls/000006998.m3u8
 https://ucdn.beetv.kz:443/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Setanta KZ 2 FHD
 https://ucdn.beetv.kz:443/btv/live/hls/000006899.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV UHD/4K
+http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD 50
+https://bl.uma.media:443/live/999000/HLS/1_3/2/1/tracks-v2a1/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD
+http://91.197.104.34:80/MatchHD/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD1
 http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/212/index.m3u8
