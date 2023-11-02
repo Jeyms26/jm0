@@ -449,10 +449,13 @@ http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/15088/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/4002/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Insight UHD/4K
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/5000/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Love Nature UHD/4K
+#EXTINF:-1 group-title="TV LISTEM",L.N UHD/4K
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/5001/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",BiZiM SiBiR-UHD/4K (NAS SIBIRYA)
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/15145/index.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",L.N UHD/4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",UHD/4K-EXTREME
 http://24ch.iptvsmotri.ru:80/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php?name=f216976e-cbb7-45c2-9c82-63565e05ea83
