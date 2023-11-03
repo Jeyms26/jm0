@@ -3520,7 +3520,7 @@ http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Fragman",Aşktan sonra
+#EXTINF:-1 group-title="Fragman",A.S
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19HgCBt7UINyuqOLBZWPRE-d67grlboyp67vXy1YONLwBqepVAXKC5ziqy2mfL_UHFvLG2d2lFi-wD_LYbhY-v-vlYOZ-L5ioTvTOh3og1jNl7gGJFYK-jmE25ZWGUypwrFgcMhYkkZXe9rcERHRcJA0vOZoMF7FHcxwShoxtcaOK9x-RxmOINFR9GFgcoAHb48YavAulyYtqmb_ESptn21qLC_3w_paKGytYkr2k7lHRrtXLZj3WZSyo2vM2uC-WIL2w-LR4fYEPjD7NRKGSn1JTu0UAjn9j4elm-ucBUq13Rvtbpl6R62/608fc0f0c15d8/9bc78e2cd4f8e65affc7f77a5dc0c658646ce0b650023e68d1783d99d7f3f181/1080p/playlist.m3u8?from=disk&vsid=e20a049d227fd42d751dad38bbe7316b7fa29adfcbe1xWEBx1101x1698642136&source_index=0&t=1698642136496&abd=1
 
 #EXTINF:-1 group-title="Fragman",8.1
@@ -3528,10 +3528,10 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18zSRupzVD_eFN5jZuSg6yij2BWCMgrny
 #EXTINF:-1 group-title="Fragman",8.2
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19Obj5b2cpY84F44Z1H9Ets_Cd9gKT37k-Rt0Ww_WWSFqf1o3j68UovwISgRLehrahff6luP4m5QGmqW7q7jgTGsjW5CDybZxXxYjZ1oDzfiv_4Dnkkm0Myk6b-cDbeSZ1A4FypjMUOZrL_aFcZLNloIAtezWJIXMP1N2-3nb_-sYSwpK7zvLtsZS1QNZ7tYmOo3NS7sPS-UWkMwfo4vjpVI2spbAwE6kpKjuUFuqqzzNeC1bD-ZFvvZf_eMyX6eh4wFTY1AQOspavzQpbRoDiuBDFo5nbUo2YjNWQi9fcFb7xXtHG8CGAm/608fc00bb59f8/6cdf3c03ccce568428680f91733d92ecfad32431c0ba7fd0741c9b7d7646e4ba/1080p/playlist.m3u8?from=disk&vsid=533c82abd72d5e4ff54554ec1500231e635e96a24093xWEBx1101x1698641985&source_index=0&t=1698641985643&abd=1
 
-#EXTINF:-1 group-title="DENEME",WeatherSpy  HAVA
+#EXTINF:-1 group-title="DENEME",W.S
 https://i.mjh.nz/SamsungTVPlus/USAJ3400014LK.m3u8
 
-#EXTINF:-1 group-title="DENEME",VEVO LATINO
+#EXTINF:-1 group-title="DENEME",V.L
 https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
 
 
