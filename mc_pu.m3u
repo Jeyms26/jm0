@@ -3193,6 +3193,9 @@ https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.
 #EXTINF:-1 group-title="TV ÖZEL",V.Sport
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
+#EXTINF:-1 group-title="TV ÖZEL",D.S FHDTV
+http://ca.ukrainske.tv/315/DAF7E574BE5237A/video.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",M.G-1 FHDTV
 http://ca.ukrainske.tv/317/DAF7E574BE5237A/video.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",M.G-2 FHDTV
