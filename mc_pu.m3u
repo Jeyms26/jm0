@@ -3471,12 +3471,12 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO +
 rtmp://bintu-play.nanocosmos.de:1935/play/wIfHi-GtMxL
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Süper
-rtmp://bintu-play.nanocosmos.de:1935/play/6am5L-btTVW
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS1
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2tRj8XqURWYtvhNzKqjRmTq45a2d.flv
+rtmp://bintu-play.nanocosmos.de:1935/play/6am5L-btTVW
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS2
 rtmp://istanbul.restream.io/live/re_7154673_538a4c39c7c025e7102e.flv
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Süper UHD/4K
+rtmp://origin.cdn.wowza.com:1935/live/0I5p2tRj8XqURWYtvhNzKqjRmTq45a2d.flv
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + 20
 rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
 
