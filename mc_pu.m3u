@@ -3538,18 +3538,3 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_XpoKzL5pqtUjTT6buNWmhLHR8POSPHG
 #EXTINF:-1 group-title="BELGESEL",E.M
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-8fU_MbcVfLv-ZhD-R7kXR4dysFhQMWKbgmjbkMU1eYcbBbKfQPDJC1NBxR3bepRD5SZlUsoe7x4G3FEDyGLhurClImxn29XUEjHz-1_1koZdHwU4_9AALW_U7895Hms3xE1_dbWPhT6aAhtwaaSmfdZlshC4d0ojT9s9x52pbuTFljKgrskSt8ZnGmD9Uqw00f8wJIteUPyX-w8xcn_dLSoYiEom2i8WggnOzQ9uyk38Z6v7wgUjpM2cw1B4TOKlWNxzYM1yNdZNSH62wnazgJAKmSY8YdGzzsst5fTOslKRtyNLNEHXq/609866f204b58/8de1bec3272d5ee8b445453f5557fa595191eea4fb0c02e6121a264b42aaaa24/1080p/playlist.m3u8?from=disk&vsid=d444376cc409d6649c00ea69c862c26bf9c949c3c42axWEBx1101x1699236455&source_index=0&t=1699236455252&abd=1
 
-
-#EXTINF:-1 group-title="TEST",PRO + 1
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.avi
-
-#EXTINF:-1 group-title="TEST",PRO + 2
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.mp4
-
-#EXTINF:-1 group-title="TEST",PRO + 3
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.ts
-
-#EXTINF:-1 group-title="TEST",PRO + 4
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.m3u
-
-#EXTINF:-1 group-title="TEST",PRO + 5
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.m3u8
