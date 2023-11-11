@@ -3471,6 +3471,9 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + Aslan FHD
 rtmp://bintu-play.nanocosmos.de:1935/play/IDNCx-R3j2E
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Aslan-2
+rtmp://origin.cdn.wowza.com:1935/live/0I5p2tRj8XqURWYtvhNzKqjRmTq45a2d.flv
+
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS1
 rtmp://bintu-play.nanocosmos.de:1935/play/6am5L-btTVW
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS2
