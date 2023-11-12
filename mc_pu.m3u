@@ -3469,19 +3469,12 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20169/index.m3u8
 http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
 
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Aslan FHD
-rtmp://bintu-play.nanocosmos.de:1935/play/IDNCx-R3j2E
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Aslan-2
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2tRj8XqURWYtvhNzKqjRmTq45a2d.flv
-
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS1
-rtmp://bintu-play.nanocosmos.de:1935/play/6am5L-btTVW
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + PLUS2
-rtmp://istanbul.restream.io/live/re_7154673_538a4c39c7c025e7102e.flv
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO +
+rtmp://bintu-play.nanocosmos.de:1935/play/IDNCx-u2gYC
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Plus
+rtmp://origin.cdn.wowza.com:1935/live/0I5p2rOUCR9OCQydB55eIim70B4s5661.flv
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + Süper UHD/4K
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2tRj8XqURWYtvhNzKqjRmTq45a2d.flv
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + 20
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2Ryde2XeNvoMwQIeJnBgy3Hg5946.flv
+rtmp://origin.cdn.wowza.com:1935/live/0I5p2bCC9X8npCuJIWMCbaJJEpmc5812.flv
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75) 1+
 http://178.163.19.208:4022/udp/234.0.0.197:2000
