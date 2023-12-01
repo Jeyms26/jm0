@@ -41,7 +41,7 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Agro TV FHD
 https://yayin30.haber100.com/live/agrotv/chunklist_w597872828.m3u8
 #EXTINF:-1 group-title="TV LISTEM",YOL-TV
-https://stream.yol.tv:9443/medialive/yolanayayin.m3u8
+https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Edirne-TV HD
 https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 group-title="TV LISTEM",AFYON TÜRK TV HD
@@ -57,11 +57,7 @@ http://178.163.105.211:4022/udp/234.0.0.184:2000
 http://188.113.190.15:80/94/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV4 TR-RU
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14006/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Dizi-FHDTV5 RU
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xMGVjYTMxOS0wNzA2LTQzN2UtODAwOS04MzAxODEyYjkzM2Ivc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",YANSİNEMA TV
-https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",YANSİNEMA TV HD
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
@@ -107,8 +103,6 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ALVIN-TV AZE
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w173010177.m3u8
-#EXTINF:-1 group-title="TV LISTEM",QEBELE-TV AZE
-https://qebele.tv/live/stream/index.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",NAXCIVAN-TV
 https://str1.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
@@ -140,27 +134,12 @@ https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Al Zahra-TV FHD
 http://live.al-zahratv.com/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",KAZAKH TV FHD
-http://dmi3y-tv.ru/hls/CH_KAZAKHTVHD_RUS.m3u8
-#EXTINF:-1 group-title="TV LISTEM",NEIZVESTNAYA ROSSIYA FHD
-http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",BELARUS-24 FHD
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",ORT-1 (Avrasya)
-http://dmi3y-tv.ru/hls/T2/CH_1TVHD720_KZ.m3u8
-#EXTINF:-1 group-title="TV LISTEM",SiBiRYA.24-FHDTV (Сибирь)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24HD_NSK.m3u8
 #EXTINF:-1 group-title="TV LISTEM",YAKUTIYA.24-FHDTV (reg)
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",ZVEZDA FHDTV
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="TV LISTEM",ZVEZDA FHDTV2
-http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",NTV FHDTV
-http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 group-title="TV LISTEM",MIR FHDTV
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",MIR 24 FHDTV
@@ -205,8 +184,7 @@ http://185.78.112.46:8077/MAYAK_moydag_channel/index.m3u8
 http://185.78.112.46:8077/nnttv_hd/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",İnguşetya-TV
 http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="TV LISTEM",İnguşetya-TV2
-http://dmi3y-tv.ru/hls/region/CH_INGUSHETIYAHD720_ING.m3u8
+
 #EXTINF:-1 group-title="TV LISTEM",TV-SALYAM
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="TV LISTEM",SARATOV 24 FHD
@@ -250,15 +228,9 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:-1 group-title="TV LISTEM",СТВ Belarus HD
 https://edge50.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w711775843.m3u8
-#EXTINF:-1 group-title="TV LISTEM",PERVIY RUSSKIY NACIONALIST (İlk Rus ulusal kanalı)
-http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",TV GUBERNIYA HD
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",3 ANGELA FHD (3 MELEK)
-http://dmi3y-tv.ru/hls/CH_3ANGELAHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",PATNIK TV FHD
-http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",TF1 (Fransa)
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/3000.m3u8
@@ -294,20 +266,9 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w20886035_
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",El Trece (Arjantin)
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Telefe Cordoba (Arjantin)
-https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Telefe Rosario (Arjantin)
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1691420564~acl=%2f*~data=hdntl~hmac=84677c155c21413316b9a68d2896e60046e1a8762e715b9248c82bf3cd35df45/canal5rosario0.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Telefe Salta (Arjantin)
-https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Telemax TV (Arjantin)
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1795617701_b1828000_sleng.m3u8
+
 #EXTINF:-1 group-title="TV LISTEM",Canal 7 Neuquen (Arjantin)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Canal 8 San Juan (Arjantin)
-https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Latina TV (Arjantin)
-https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/chunklist_w1941797776_b1428000_sleng.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Cadena V!VO (Arjantin)
 https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/chunklist_w1169550914.m3u8
 
@@ -329,10 +290,11 @@ http://autopilot.catcast.tv/content/39575/index.m3u8
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",4ever music FHD
 rtmp://93.189.60.202//970
+#EXTINF:-1 group-title="TV LISTEM",4ever music FHD2
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/970/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Super TV FHD
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",4ever music FHD
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/970/index.m3u8
+
 
 #EXTINF:-1 group-title="TV LISTEM",ZEROUNO-TV (Italyan Music)
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w1156278859.m3u8
@@ -340,12 +302,8 @@ https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w1156278859.m
 #EXTINF:-1 group-title="TV LISTEM",COMPANY-TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist_w1316852242_b1428000_slita.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",Clubbing TV
-http://dmi3y-tv.ru/hls/CH_CLUBBINGTVHD720.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="TV LISTEM",XITE HD
-http://dmi3y-tv.ru/hls/CH_XITEHD720.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",TRACE URBAN FHD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -385,8 +343,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",RU-TV HD
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",RU-TV SD 
-http://46.174.83.66/RU_TV/index.m3u8
+
 #EXTINF:-1 group-title="TV LISTEM",STRANA-FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Go-TV HD
@@ -396,8 +353,7 @@ rtmp://93.189.60.202//1054
 
 #EXTINF:-1 group-title="TV LISTEM",SAPFIR HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
-#EXTINF:-1 group-title="TV LISTEM",SAPFIR FHD
-http://dmi3y-tv.ru/hls/okko/CH_FOXLIFEHD.m3u8
+
 #EXTINF:-1 group-title="TV LISTEM",KINO-1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 
@@ -412,8 +368,6 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 http://188.113.190.15:80/323/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",HCT
 http://188.113.190.15:80/48/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",HCT
-http://178.162.218.87:8081/andr/nst.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
 https://ucdn.beetv.kz/btv/live/hls/000005621.m3u8
@@ -421,16 +375,6 @@ https://ucdn.beetv.kz/btv/live/hls/000005621.m3u8
 http://178.163.105.211:4022/udp/234.0.0.3:2000
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
 http://178.163.17.115:4022/udp/234.0.0.3:2000
-
-#EXTINF:-1 group-title="TV LISTEM",MELODRAM FHD (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMYHD.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",A1 FHD
-http://dmi3y-tv.ru/hls/okko/CH_AMEDIAIHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",A2 FHD
-http://dmi3y-tv.ru/hls/okko/CH_AMEDIAIIHD.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Amedia Hit FHD
-http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHITHD.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",MyZen TV UHD/4K
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/5002/index.m3u8
@@ -457,24 +401,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/15145/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",L.N UHD/4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",UHD/4K-EXTREME
-http://24ch.iptvsmotri.ru:80/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php?name=f216976e-cbb7-45c2-9c82-63565e05ea83
-
-#EXTINF:-1 group-title="TV LISTEM",RTG-FHDTV
-http://91.197.104.34:80/RTGHD/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV1
 http://188.113.190.15:80/330/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV2
-http://24ch.iptvsmotri.ru:80/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php?name=478ad887-d178-45b4-b348-6a4b52ec4af9
 
 #EXTINF:-1 group-title="TV LISTEM",HDL-HD1
 http://tbs01-edge11.itdc.ge/hdlife/video.m3u8
 #EXTINF:-1 group-title="TV LISTEM",HDL-HD2
 https://tbs01-edge17.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",TERRA-TV FHD1
-http://dmi3y-tv.ru/hls/okko/CH_NATGEOHD.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TERRA-TV FHD2
 https://ucdn.beetv.kz/btv/live/hls/000008142.m3u8
 
@@ -510,49 +444,32 @@ http://178.163.105.211:4022/udp/234.0.0.111:2000
 
 #EXTINF:-1 group-title="TV LISTEM",ZenLIFE by Stingray
 https://i.mjh.nz/SamsungTVPlus/USBD3500027DS.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",WildEarth
 https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",Wild Life
 https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",The Jack Hanna
 https://i.mjh.nz/SamsungTVPlus/USBC2100009GT.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",Rovr Pets
 https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",Magellan Now
 https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",L.N UHD/4K
 https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
 
 
 
 
-#EXTINF:-1 group-title="TV LISTEM",Movies Action 2 HD TR
+#EXTINF:-1 group-title="TV LISTEM",S.A-2 HD TR
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6876/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Movies Action HD TR
+#EXTINF:-1 group-title="TV LISTEM",M.A HD TR
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6877/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Movies Family HD TR
+#EXTINF:-1 group-title="TV LISTEM",M.F HD TR
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6878/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Movies Premiere 2 HD TR
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6879/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Movies Premiere HD TR
+#EXTINF:-1 group-title="TV LISTEM",M.P HD TR
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6880/index.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",MX 4K
-http://23.146.40.56:8000/sltvmaxdareg/LXF1ZjDXOn6l2hr/902
-#EXTINF:-1 group-title="TV LISTEM",MX FHD
-http://23.146.40.56:8000/sltvmaxdareg/LXF1ZjDXOn6l2hr/786
-#EXTINF:-1 group-title="TV LISTEM",MX GOLD
-http://23.146.40.56:8000/sltvmaxdareg/LXF1ZjDXOn6l2hr/784
-#EXTINF:-1 group-title="TV LISTEM",MX KN CTN
-http://23.146.40.56:8000/sltvmaxdareg/LXF1ZjDXOn6l2hr/785
-#EXTINF:-1 group-title="TV LISTEM",MX
-http://23.146.40.56:8000/sltvmaxdareg/LXF1ZjDXOn6l2hr/788
+#EXTINF:-1 group-title="TV LISTEM",M.P-2 HD TR
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6879/index.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",Sin 1
 https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon1/tracks-v1a1/mono.m3u8
@@ -569,10 +486,8 @@ http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",V+N HDTV
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",FTV UHD/4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",M.GO-FHDTV
 https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 
@@ -3058,6 +2973,11 @@ https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",+7
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 
+#EXTINF:-1 group-title="TV ÖZEL",L'EQUIPE LIVE 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",L'EQUIPE LIVE 2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",QAZ.SPORT FHD
 https://ucdn.beetv.kz:443/btv/live/hls/000003038.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Setanta KZ FHD
@@ -3080,9 +3000,6 @@ http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=a024650819fbec7a200f6b
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD 50
 https://bl.uma.media:443/live/999000/HLS/1_3/2/1/tracks-v2a1/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD
-http://91.197.104.34:80/MatchHD/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD1
 http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/212/index.m3u8
@@ -3142,8 +3059,6 @@ http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2529/index.m3u
 #EXTINF:-1 group-title="TV ÖZEL",SPORT TV + PT
 http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2530/index.m3u
 
-#EXTINF:-1 group-title="TV ÖZEL",MACH FHD
-http://91.197.104.34:8080/MatchHD/tracks-a1v1/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",MACH SD
 http://95.217.196.109:8081/russia/matchtv/playlist.m3u8
 
@@ -3159,30 +3074,12 @@ https://ucdn.beetv.kz/btv/live/hls/000006983.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",LEAGUE FHD
 https://ucdn.beetv.kz/btv/live/hls/000006969.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",HYPERMOTION
-http://344118631581571903.of23103.xyz:80/play/Marcos183/68537437/571903.ts
-#EXTINF:-1 group-title="TV ÖZEL",R. MD
-http://344118631581538767.of23103.xyz:80/play/Marcos183/68537437/538767.ts
-#EXTINF:-1 group-title="TV ÖZEL",DZ 1
-http://344118631581228390.of23103.xyz:80/play/Marcos183/68537437/228390.ts
-#EXTINF:-1 group-title="TV ÖZEL",DZ 2
-http://344118631581228389.of23103.xyz:80/play/Marcos183/68537437/228389.ts
-#EXTINF:-1 group-title="TV ÖZEL",DZ 3
-http://344118631581228392.of23103.xyz:80/play/Marcos183/68537437/228392.ts
-#EXTINF:-1 group-title="TV ÖZEL",DZ 4
-http://344118631581228396.of23103.xyz:80/play/Marcos183/68537437/228396.ts
-#EXTINF:-1 group-title="TV ÖZEL",TELEDEPORTE
-http://344118631581538769.of23103.xyz:80/play/Marcos183/68537437/538769.ts
-
 #EXTINF:-1 group-title="TV ÖZEL",S.Kazakistan FHDTV
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",S.Sports 1 FHDTV
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",S.Sports 2 FHDTV
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",S.Sports 1 FHDTV
-https://tv.movielab.pro/942/video.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",S.Sports FHDTV
 rtmp://93.189.60.202//272
@@ -3200,11 +3097,6 @@ http://ca.ukrainske.tv/315/DAF7E574BE5237A/video.m3u8
 http://ca.ukrainske.tv/317/DAF7E574BE5237A/video.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",M.G-2 FHDTV
 http://ca.ukrainske.tv/318/DAF7E574BE5237A/video.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",BEYAZRUSYA-5 FHDTV
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",BEYAZRUSYA-5 FHDTV (INT)
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach Planeta
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
@@ -3234,10 +3126,6 @@ https://sportsgrid-xumo-us.amagi.tv/playlist1080p.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",SPORT EN FRANCE FHD
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",L'EQUIPE LIVE 1
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",L'EQUIPE LIVE 2
-https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",TNT Sports 1 Brezilya
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -3252,16 +3140,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",Movistar Formula-1
 http://ru.iptv.monster/play/1121/C94BDA70C92CDB2/video.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",DZ F 1
-http://344118631581165257.of23103.xyz:80/play/Marcos183/68537437/165257.ts
-#EXTINF:-1 group-title="TV ÖZEL",DZ F 1+
-http://344118631581165418.of23103.xyz:80/play/Marcos183/68537437/165418.ts
-#EXTINF:-1 group-title="TV ÖZEL",DZ F 1++
-http://344118631581165419.of23103.xyz:80/play/Marcos183/68537437/165419.ts
-#EXTINF:-1 group-title="TV ÖZEL",DZ F 1 HEVC+
-http://344118631581318564.of23103.xyz:80/play/Marcos183/68537437/318564.ts
-
 
 #EXTINF:-1 group-title="TV ÖZEL",T.K.FUTBOOL (1)
 http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/9251/index.m3u8
@@ -3483,18 +3361,10 @@ http://188.113.190.15:80/105/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)1
 http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/19244/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)2
-http://lyh1ygkv.russtv.net/iptv/QEUY4BLCEA34KL/19244/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)3
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19244/index.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75)4
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19244/index.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75)
-http://lyh1ygkv.russtv.net/iptv/QEUY4BLCEA34KL/9251/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)1
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/5050/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)2
 http://7647e6f4.ucomist.net/iptv/Q3DNDZAWXQVWNH/5050/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80)3
