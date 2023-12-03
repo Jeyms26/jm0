@@ -3349,8 +3349,8 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20169/index.m3u8
 http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
 
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO +
-https://streaming.disk.yandex.net/hls/U2FsdGVkX19ZVRdlbf5lyUTu8zJk5l_MA6h1n6b2QVhEfYyjcdj-Nn0exzgNGJTlh-AKz3AiwpiPSiYGna8tVQnHarwVtDnQNl5o3xPiDHISDs2sczg62GQ2L5c8d5h5qiO6XupGMdi7skF07B9QqTwWR6-zX9BMwunKmroU2fKkHxXb08A5sCPHG6C_iToLODlxoRlc7hZLaaVOzfKeQQtRmp6srtv2xb7LAkV4DetpWyeVzrT5tY1rg-xmLRpYf1hawM7Id80FWozeJb1cRh-e4sJOqVn-WetDdS6rNaaiQKjAkPkjc7ucI0bWp-Uv/60bb0a36f7420/59d0313876874f88366ef8dae391138b44af396d3d75c1a68c8eb70a68795db7/1080p/playlist.m3u8?from=disk&vsid=11ba878133e57a6a97bd45038a7e4cbda661c169f824xWEBx1149x1701616744&source_index=0&t=1701616744274&abd=1
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + KARTAL
+rtmp://bintu-play.nanocosmos.de:1935/play/Kqc55-Om0S5
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 1
 http://ru.iptv.monster/play/3920/58A6BB07681962A/video.m3u8
