@@ -7,8 +7,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KANAL-7 FHD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 group-title="TV LISTEM",TV-8 FHD
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ATV HD
 http://gineu9.bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",FOX HD
@@ -24,7 +22,15 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 group-title="TV LISTEM",STAR HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TV-8 FHD
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=5mk56nixffgm&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="TV LISTEM",TV-8,5 FHD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1 group-title="TV LISTEM",İSTANBUL
+https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
+#EXTINF:-1 group-title="TV LISTEM",IBB
+https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",TiViTRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",FTV HD (Fortuna TV)
 https://fortunacdn.socialsmart.tv/ftvturk/bant1/chunks.m3u8
@@ -56,6 +62,8 @@ http://188.113.190.15:80/94/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV4 TR-RU
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14006/index.m3u8
 
+#EXTINF:-1 group-title="TV LISTEM",MiLYON
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TeleOn FHDTV
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KRAL POP FHD
@@ -3426,16 +3434,6 @@ https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4855/stream.m3u8
 
 
 
-#EXTINF:-1 group-title="TEST",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 group-title="TEST",TV 8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-
-#EXTINF:-1 group-title="TEST",MiLYON
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
-#EXTINF:-1 group-title="TEST",TiViTURK
-https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 group-title="TEST",ADA TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
@@ -3493,12 +3491,6 @@ http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
 
 #EXTINF:-1 group-title="TEST",City VIP
 https://pro35.canlitvplayer.com/str.yodacdn.net/vip/mono.m3u8?token=286c88ca9d8d79558092dc8a71d59b9462ad3043-382111e1925fec5a60acd6079492ae67-1702452073-1702441273
-
-#EXTINF:-1 group-title="TEST",IBB
-https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist.m3u8
-
-#EXTINF:-1 group-title="TEST",İSTANBUL
-https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 
 #EXTINF:-1 group-title="TEST",SİLK SPORT GEO
 https://geohd.canlitvplayer.com/silksport1/tracks-v1a1/mono.m3u8?token=muvw_kHkcUWWHGTjaB7P06SI8VW4XwI5DSiIRLggA5hGb8t-5l3vcO89YMJgSgCCnRVGLhDA4hJko9O-pVurO8k2-CEoAo48Fjs5pfod_U7ZFqMLWgFijrlOv6irfPpIZiJZdW8DfJbkn9lC-36Xr7iTOx0WKS72qG8lAWYQtqaKEWb1LXAZ_eSfd6V_tQiNQrlMt9-4jlQf0uaB6jIloR3JrndyM_yC7mqOwvYN_nRWG0Xrg8yIVlrNDQpOXYYWUaOPDzdRphIR-P2pgjn-nA%2A%2A
