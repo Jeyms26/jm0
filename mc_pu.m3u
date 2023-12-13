@@ -49,10 +49,8 @@ https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",Epic Dr FHDTV TR-RU
 http://91.210.251.166:4897/udp/239.0.3.8:4000
-#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV TR-RU
-http://178.163.19.208:4022/udp/234.0.0.184:2000
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV2 TR-RU
-http://178.163.105.211:4022/udp/234.0.0.184:2000
+http://5.153.180.30:8000/play/a09l
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV3 TR-RU
 http://188.113.190.15:80/94/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV4 TR-RU
@@ -366,8 +364,12 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",KORKU FILMLERI
 http://188.113.190.15:80/323/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",HCT
+#EXTINF:-1 group-title="TV LISTEM",HCT (1)
 http://188.113.190.15:80/48/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",HCT (2)
+http://5.153.180.30:8000/play/a03z
+#EXTINF:-1 group-title="TV LISTEM",Korkunç FHD
+http://5.153.180.30:8000/play/a0bh
 
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
 https://ucdn.beetv.kz/btv/live/hls/000005621.m3u8
@@ -376,10 +378,13 @@ http://178.163.105.211:4022/udp/234.0.0.3:2000
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
 http://178.163.17.115:4022/udp/234.0.0.3:2000
 
-#EXTINF:-1 group-title="TV LISTEM",MyZen TV UHD/4K
-http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/5002/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Ultra HD Cinema UHD/4K
+http://5.153.180.30:8000/play/a05x
+
 #EXTINF:-1 group-title="TV LISTEM",Ultra HD Cinema UHD/4K
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/4000/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",MyZen TV UHD/4K
+http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/5002/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KINO UHD/4K
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/5004/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",VF Кино UHD/4K
@@ -403,6 +408,12 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV1
 http://188.113.190.15:80/330/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV2
+http://5.153.180.30:8000/play/a00t
+#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV3
+http://persik.by/stream/4436/49935/10295.m3u8
+#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV4
+https://persik.by/stream/4436/49935/10295.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",HDL-HD1
 http://tbs01-edge11.itdc.ge/hdlife/video.m3u8
@@ -3010,6 +3021,15 @@ http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/2413/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD3
 http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2413/index.m3u
 
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD4
+http://5.153.180.30:8000/play/a035
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD5
+http://persik.by:80/stream/4436/49935/11371.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD6
+https://persik.by/stream/4436/49935/11371.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD7
+https://persik.by:443/stream/4436/49935/11371.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",Mach Premier TV FHD1
 http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/220/index.m3u8
 
@@ -3095,11 +3115,6 @@ https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",D.S FHDTV
 http://ca.ukrainske.tv/315/DAF7E574BE5237A/video.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",M.G-1 FHDTV
-http://ca.ukrainske.tv/317/DAF7E574BE5237A/video.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",M.G-2 FHDTV
-http://ca.ukrainske.tv/318/DAF7E574BE5237A/video.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL",Mach Planeta
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 
@@ -3140,8 +3155,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",TNT Sports 5 Brezilya
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",Movistar Formula-1
-http://ru.iptv.monster/play/1121/C94BDA70C92CDB2/video.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",T.K.FUTBOOL (1)
 http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/9251/index.m3u8
@@ -3382,6 +3395,23 @@ http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/9251/index.m3u8
 http://188.113.190.15:80/105/mono.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 8
 http://persik.by:80/stream/4436/49935/440.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 9
+http://persik.by/stream/4436/49935/440.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 10
+https://persik.by/stream/4436/49935/440.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 11
+https://persik.by:443/stream/4436/49935/440.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 12
+http://5.153.180.30:8000/play/a07a
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
@@ -3419,3 +3449,98 @@ https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4855/stream.m3u8
 https://cdnua03.hls.tv/178/hls/94c90967880ebcdfa084ed6aa4061457/4855/stream.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",3+
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4855/stream.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TEST",BLU PLAY 1
+https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
+#EXTINF:-1 group-title="TEST",BLU PLAY 2
+https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
+#EXTINF:-1 group-title="TEST",TV 8 FHD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="TEST",TV 8.5 FHD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+
+#EXTINF:-1 group-title="TEST",TiViTURK HD
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:-1 group-title="TEST",ADA TV
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+
+#EXTINF:-1 group-title="TEST",DENiZ POSTASI TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
+#EXTINF:-1 group-title="TEST",MiLYON
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+
+#EXTINF:-1 group-title="TEST",ANGARA TV HD
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
+
+#EXTINF:-1 group-title="TEST",ViYANA TV HD
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+
+#EXTINF:-1 group-title="TEST",BURSA ON6 TV
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+
+#EXTINF:-1 group-title="TEST",HUNAT TV KAYSERi
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+
+#EXTINF:-1 group-title="TEST",BİR TV
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TEST",İSTANBUL TV
+https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
+
+#EXTINF:-1 group-title="TEST",VAN GOLU TV
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
+
+#EXTINF:-1 group-title="TEST",LİFE TV HD
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+
+#EXTINF:-1 group-title="TEST",ERCiS TV
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
+
+#EXTINF:-1 group-title="TEST",CEKMEKOY BELEDiYE TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunklist_w1305163043_b1694720.m3u8
+
+#EXTINF:-1 group-title="TEST",ORDU BEL TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+
+#EXTINF:-1 group-title="TEST",MC EU TV HD
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+#EXTINF:-1 group-title="TEST",RV 1
+http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon1/index.m3u8
+#EXTINF:-1 group-title="TEST",RTS 2
+http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/index.m3u8
+#EXTINF:-1 group-title="TEST",RYÇAM
+http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
+#EXTINF:-1 group-title="TEST",YÇAM
+http://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/index.m3u8
+#EXTINF:-1 group-title="TEST",YLÇAM 2
+http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
+#EXTINF:-1 group-title="TEST",NE.N
+http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
+
+#EXTINF:-1 group-title="TEST",SİLK SPORT GEO
+https://geohd.canlitvplayer.com/silksport1/tracks-v1a1/mono.m3u8?token=muvw_kHkcUWWHGTjaB7P06SI8VW4XwI5DSiIRLggA5hGb8t-5l3vcO89YMJgSgCCnRVGLhDA4hJko9O-pVurO8k2-CEoAo48Fjs5pfod_U7ZFqMLWgFijrlOv6irfPpIZiJZdW8DfJbkn9lC-36Xr7iTOx0WKS72qG8lAWYQtqaKEWb1LXAZ_eSfd6V_tQiNQrlMt9-4jlQf0uaB6jIloR3JrndyM_yC7mqOwvYN_nRWG0Xrg8yIVlrNDQpOXYYWUaOPDzdRphIR-P2pgjn-nA%2A%2A
+
+#EXTINF:-1 group-title="TEST",SİLK SPORT-2 GEO
+https://geohd.canlitvplayer.com/silksport2/tracks-v1a1/mono.m3u8?token=61wSYelns9u9oNrSEINka9Y8kIrSWyp8n7ortJvSOCxV2N7IsM3I9wDrAw2QLfuJQxecovsc51zjUQS3W36depNKuX7ggVH8kbQpl_jbpTnKDywkQvkUj1GRTnnO7x1RSAFmlkdIE1iiY6M_aAXW1TbxmcMluxfLxSXm54Oy1xpFaIcNNxV2NqNq37OUpFiYSRZbCRiRX_jaVRcw2V8TPP7bn2M5nm5HbHVG8VHGPPAsBTS2tKTWq-IzmqQY0MWQirtu0Vxy0IJB2Hh6Wp707g%2A%2A
+
+#EXTINF:-1 group-title="TEST",SİLK SPORT-3 GEO
+https://geohd.canlitvplayer.com/silksport3/tracks-v1a1/mono.m3u8?token=G7gh8OERQFsp0Luduu5cvO17oAIoLY07EQFh_-ryCTprzGoNdSnufHu5wWP553aMnBtFM9ykNKyjJnMbd4s0uQtODfga_cA6vaXWgqaEoNPo-_JB-335FdpdCLOn_QyF2vxtD286F-T5TYcUzRUQ6447Hezb46NyEWwH2nSOuhkzGD02yNHxZnbFKo9ln0Wv-rkrW8ouCEGn0Jwxc-5iTHyGcNfcqqmIoNlHD6lr142WT5DbA5z4qL5_-ecA_SVyEedIVWYX84fl1FzofqDbMg%2A%2A
+
+#EXTINF:-1 group-title="TEST",SİLK SPORT-4 GEO
+https://geohd.canlitvplayer.com/silk_sport4/tracks-v1a1/mono.m3u8?token=EH8lUsVcWVU5jP2BdI7wfGzxSEEoF2O1B5mbYdb_bbgqul4oMG1GBeDKiqwUIlW2XiqRjfkeOHnacshtkaD44xfZ6nPbazRXKn-2XFO3e7K0LPYXJZ_jgbPMBCbJOJJz8wcpSpwLFOC96rB9dAr0i2GydHwIl8_dKeJ9ff6LrYqq1qQYGeWeq_E6F-vck-KRwUEcdQof-o_Bm5H_dHzbqkW5ezkvXUgs8LvyTH9BGLVINnVIDEOVn6KaRcx9iXxKS0fMWBKIImWOTBWwpZlfBQ%2A%2A
+
+#EXTINF:-1 group-title="TEST",City VIP
+https://pro35.canlitvplayer.com/str.yodacdn.net/vip/mono.m3u8?token=286c88ca9d8d79558092dc8a71d59b9462ad3043-382111e1925fec5a60acd6079492ae67-1702452073-1702441273
+
+#EXTINF:-1 group-title="TEST",IBB
+https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist.m3u8
+
+#EXTINF:-1 group-title="TEST",ASLAN TV
+https://starkurd.ozelip.com:3459/stream/play.m3u8
+
