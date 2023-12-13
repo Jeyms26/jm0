@@ -3426,15 +3426,13 @@ https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4855/stream.m3u8
 
 
 
-
-#EXTINF:-1 group-title="TEST",BLU-PLAY 1
-https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
-#EXTINF:-1 group-title="TEST",BLU-PLAY 2
-https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
 #EXTINF:-1 group-title="TEST",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 group-title="TEST",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+
+#EXTINF:-1 group-title="TEST",MiLYON
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 
 #EXTINF:-1 group-title="TEST",TiViTURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
@@ -3442,11 +3440,11 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="TEST",ADA TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
+#EXTINF:-1 group-title="TEST",ASLAN TV
+https://starkurd.ozelip.com:3459/stream/play.m3u8
+
 #EXTINF:-1 group-title="TEST",DENiZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",MiLYON
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 
 #EXTINF:-1 group-title="TEST",ANGARA TV HD
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
@@ -3459,9 +3457,6 @@ https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 
 #EXTINF:-1 group-title="TEST",BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",İSTANBUL
-https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 
 #EXTINF:-1 group-title="TEST",VAN GOLU TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
@@ -3496,6 +3491,15 @@ http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
 #EXTINF:-1 group-title="TEST",NE.N
 http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
 
+#EXTINF:-1 group-title="TEST",City VIP
+https://pro35.canlitvplayer.com/str.yodacdn.net/vip/mono.m3u8?token=286c88ca9d8d79558092dc8a71d59b9462ad3043-382111e1925fec5a60acd6079492ae67-1702452073-1702441273
+
+#EXTINF:-1 group-title="TEST",IBB
+https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist.m3u8
+
+#EXTINF:-1 group-title="TEST",İSTANBUL
+https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
+
 #EXTINF:-1 group-title="TEST",SİLK SPORT GEO
 https://geohd.canlitvplayer.com/silksport1/tracks-v1a1/mono.m3u8?token=muvw_kHkcUWWHGTjaB7P06SI8VW4XwI5DSiIRLggA5hGb8t-5l3vcO89YMJgSgCCnRVGLhDA4hJko9O-pVurO8k2-CEoAo48Fjs5pfod_U7ZFqMLWgFijrlOv6irfPpIZiJZdW8DfJbkn9lC-36Xr7iTOx0WKS72qG8lAWYQtqaKEWb1LXAZ_eSfd6V_tQiNQrlMt9-4jlQf0uaB6jIloR3JrndyM_yC7mqOwvYN_nRWG0Xrg8yIVlrNDQpOXYYWUaOPDzdRphIR-P2pgjn-nA%2A%2A
 
@@ -3507,13 +3511,3 @@ https://geohd.canlitvplayer.com/silksport3/tracks-v1a1/mono.m3u8?token=G7gh8OERQ
 
 #EXTINF:-1 group-title="TEST",SİLK SPORT-4 GEO
 https://geohd.canlitvplayer.com/silk_sport4/tracks-v1a1/mono.m3u8?token=EH8lUsVcWVU5jP2BdI7wfGzxSEEoF2O1B5mbYdb_bbgqul4oMG1GBeDKiqwUIlW2XiqRjfkeOHnacshtkaD44xfZ6nPbazRXKn-2XFO3e7K0LPYXJZ_jgbPMBCbJOJJz8wcpSpwLFOC96rB9dAr0i2GydHwIl8_dKeJ9ff6LrYqq1qQYGeWeq_E6F-vck-KRwUEcdQof-o_Bm5H_dHzbqkW5ezkvXUgs8LvyTH9BGLVINnVIDEOVn6KaRcx9iXxKS0fMWBKIImWOTBWwpZlfBQ%2A%2A
-
-#EXTINF:-1 group-title="TEST",City VIP
-https://pro35.canlitvplayer.com/str.yodacdn.net/vip/mono.m3u8?token=286c88ca9d8d79558092dc8a71d59b9462ad3043-382111e1925fec5a60acd6079492ae67-1702452073-1702441273
-
-#EXTINF:-1 group-title="TEST",IBB
-https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist.m3u8
-
-#EXTINF:-1 group-title="TEST",ASLAN TV
-https://starkurd.ozelip.com:3459/stream/play.m3u8
-
