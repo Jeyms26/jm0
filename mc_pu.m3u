@@ -340,17 +340,16 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350
 rtmp://93.189.60.202//1054
 
 #EXTINF:-1 group-title="TV LISTEM",SAPFIR HD
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
+http://5.153.180.30:8000/play/a010
+#EXTINF:-1 group-title="TV LISTEM",KINEKO FHD
+http://5.153.180.30:8000/play/a00p
 
 #EXTINF:-1 group-title="TV LISTEM",KINO-1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",BACKUS-TV Orginal FHD
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",BACKUS-TV DARK FHD (Korku)
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",KINEKO FHD
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",KORKU FILMLERI
 http://188.113.190.15:80/323/playlist.m3u8
@@ -363,8 +362,6 @@ http://5.153.180.30:8000/play/a0bh
 
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
 https://ucdn.beetv.kz/btv/live/hls/000005621.m3u8
-#EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
-http://178.163.105.211:4022/udp/234.0.0.3:2000
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
 http://178.163.17.115:4022/udp/234.0.0.3:2000
 
@@ -421,19 +418,13 @@ https://ucdn.beetv.kz/btv/live/hls/000004609.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004610.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",Hayvan dünyasında
-http://178.163.105.211:4022/udp/234.0.0.97:2000
-#EXTINF:-1 group-title="TV LISTEM",Hayvan dünyasında
 http://178.163.17.115:4022/udp/234.0.0.97:2000
 
 #EXTINF:-1 group-title="TV LISTEM",Kırsal yaşam
 http://178.163.17.115:4022/udp/234.0.0.115:2000
-#EXTINF:-1 group-title="TV LISTEM",Kırsal yaşam
-http://178.163.105.211:4022/udp/234.0.0.115:2000
 
 #EXTINF:-1 group-title="TV LISTEM",ZOOPARK
 http://178.163.17.115:4022/udp/234.0.0.216:2000
-#EXTINF:-1 group-title="TV LISTEM",ZOOPARK
-http://178.163.105.211:4022/udp/234.0.0.216:2000
 #EXTINF:-1 group-title="TV LISTEM",ZOOPARK
 http://188.113.190.15:80/46/playlist.m3u8
 
@@ -442,8 +433,6 @@ http://188.113.190.15:80/52/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",Galaksi
 http://178.163.17.115:4022/udp/234.0.0.111:2000
-#EXTINF:-1 group-title="TV LISTEM",Galaksi
-http://178.163.105.211:4022/udp/234.0.0.111:2000
 
 #EXTINF:-1 group-title="TV LISTEM",ZenLIFE by Stingray
 https://i.mjh.nz/SamsungTVPlus/USBD3500027DS.m3u8
@@ -459,9 +448,6 @@ https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
 https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
 #EXTINF:-1 group-title="TV LISTEM",L.N UHD/4K
 https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
-
-
-
 
 #EXTINF:-1 group-title="TV LISTEM",S.A-2 HD TR
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6876/index.m3u8
@@ -3363,8 +3349,6 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19244/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75) 1+
 http://178.163.19.208:4022/udp/234.0.0.197:2000
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75) 2+
-http://178.163.105.211:4022/udp/234.0.0.197:2000
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75) 3+
 http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
 
