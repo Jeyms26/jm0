@@ -3443,22 +3443,22 @@ https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4855/stream.m3u8
 
 
 
-#EXTINF:-1 group-title="TEST",BLU PLAY 1
+#EXTINF:-1 group-title="TEST",BLU-PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
-#EXTINF:-1 group-title="TEST",BLU PLAY 2
+#EXTINF:-1 group-title="TEST",BLU-PLAY 2
 https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
-#EXTINF:-1 group-title="TEST",TV 8 FHD
+#EXTINF:-1 group-title="TEST",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 group-title="TEST",TV 8.5 FHD
+#EXTINF:-1 group-title="TEST",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 
-#EXTINF:-1 group-title="TEST",TiViTURK HD
+#EXTINF:-1 group-title="TEST",TiViTURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 group-title="TEST",ADA TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
-#EXTINF:-1 group-title="TEST",DENiZ POSTASI TV
+#EXTINF:-1 group-title="TEST",DENiZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
 #EXTINF:-1 group-title="TEST",MiLYON
@@ -3467,25 +3467,22 @@ https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 group-title="TEST",ANGARA TV HD
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
 
-#EXTINF:-1 group-title="TEST",ViYANA TV HD
-http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",BURSA ON6 TV
+#EXTINF:-1 group-title="TEST",BURSA ON6
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 
-#EXTINF:-1 group-title="TEST",HUNAT TV KAYSERi
+#EXTINF:-1 group-title="TEST",HUNAT TV KS
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 
 #EXTINF:-1 group-title="TEST",BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
-#EXTINF:-1 group-title="TEST",İSTANBUL TV
+#EXTINF:-1 group-title="TEST",İSTANBUL
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 
 #EXTINF:-1 group-title="TEST",VAN GOLU TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 
-#EXTINF:-1 group-title="TEST",LİFE TV HD
+#EXTINF:-1 group-title="TEST",LİFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 
 #EXTINF:-1 group-title="TEST",ERCiS TV
@@ -3497,7 +3494,9 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunkli
 #EXTINF:-1 group-title="TEST",ORDU BEL TV
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 
-#EXTINF:-1 group-title="TEST",MC EU TV HD
+#EXTINF:-1 group-title="TEST",ViYANA
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="TEST",MC
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 group-title="TEST",RV 1
