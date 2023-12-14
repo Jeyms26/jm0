@@ -3348,6 +3348,8 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO +
 rtmp://bintu-play.nanocosmos.de:1935/play/G7GyT-aAd3D
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Super
+rtmp://bintu-play.nanocosmos.de:1935/play/vDCDB-zNHO0
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 1
 http://ru.iptv.monster/play/3920/58A6BB07681962A/video.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 2
