@@ -113,13 +113,8 @@ http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
 https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Ictimai-TV AZE1
 https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=2699929
-#EXTINF:-1 group-title="TV LISTEM",Ictimai-TV AZE2
-http://node01.nntv.az:8162/ch1/ch1.hi.m3u8?st=d4WyQub2T1dRf2VWiiXSWw&e
 #EXTINF:-1 group-title="TV LISTEM",REAL-TV AZE
 https://str.yodacdn.net/real/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",ARB 24 FHD AZE1
-http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ARB 24 FHD AZE2
 http://213.172.73.132:8081/nimble_live/ARB_24/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ATV AZERBAYCAN FHD
@@ -135,7 +130,6 @@ https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",ZVEZDA FHDTV
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",MIR FHDTV
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",MIR 24 FHDTV
@@ -147,10 +141,8 @@ https://rushdtv.canlitvplayer.com/perec/tracks-v1a1/mono.m3u8
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",SELKOVSKOE-TV
 http://stream0.tv41.ru/live.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",IZVESTIYA HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ENISEY FHD
@@ -199,8 +191,6 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 http://185.186.142.16/rs/1080/s.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TV1 KG BISKEK FHD
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",OPLOT-TV HD
-http://31.133.57.158/hls/1234.m3u8
 #EXTINF:-1 group-title="TV LISTEM",SAMARA QIS HD
 http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ВТК-41 ARGUST (VORONEJ)
@@ -294,10 +284,6 @@ http://iptv.supertv.ro:8000/play/a001/index.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",ZEROUNO-TV (Italyan Music)
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w1156278859.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",COMPANY-TV
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist_w1316852242_b1428000_slita.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
