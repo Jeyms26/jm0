@@ -3494,4 +3494,5 @@ https://geohd.canlitvplayer.com/silk_sport4/tracks-v1a1/mono.m3u8?token=EH8lUsVc
 rtmp://origin.cdn.wowza.com:1935/live/0I5p2NFocoYgNdAbpqrDls3RgaqX5a23.flv
 #EXTINF:-1 group-title="TEST-2",2 FHD
 rtmp://amsterdam.restream.io/live/re_7154673_538a4c39c7c025e7102e.flv
-
+#EXTINF:-1 group-title="TEST-2",3 FHD
+rtmp://amsterdam.restream.io:1935/live/re_7154673_538a4c39c7c025e7102e.flv
