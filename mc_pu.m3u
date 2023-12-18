@@ -2988,8 +2988,8 @@ https://bl.uma.media:443/live/999000/HLS/1_3/2/1/tracks-v2a1/playlist.m3u8
 http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/212/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD2
 http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/2413/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD3
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/2413/index.m3u
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV HD3
+https://bl.uma.media:443/live/999000/HLS/1_3/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD4
 http://5.153.180.30:8000/play/a035
