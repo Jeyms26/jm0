@@ -281,8 +281,7 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/970/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Super TV FHD
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 
-
-#EXTINF:-1 group-title="TV LISTEM",ZEROUNO-TV (Italyan Music)
+#EXTINF:-1 group-title="TV LISTEM",ZEROUNO-TV (Italyan)
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w1156278859.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
@@ -302,8 +301,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Vibee TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",BACKUS-TV MUSIC FHD
-https://playlist.wasd.tv/live/1722180/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",OneBY FHD (1-Music)
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="TV LISTEM",OneBY FHD (1-Music RU)
@@ -333,17 +330,12 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350
 #EXTINF:-1 group-title="TV LISTEM",VOSTOK-TV HD
 rtmp://93.189.60.202//1054
 
-#EXTINF:-1 group-title="TV LISTEM",SAPFIR HD
-http://5.153.180.30:8000/play/a010
-#EXTINF:-1 group-title="TV LISTEM",KINEKO FHD
-http://5.153.180.30:8000/play/a00p
-
-#EXTINF:-1 group-title="TV LISTEM",KINO-1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",BACKUS-TV Orginal FHD
-http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",BACKUS-TV MUSIC FHD
+http://dmi3y-tv.ru/hls/CH_BACKUSTVMUSICHD.m3u8
+#EXTINF:-1 group-title="TV LISTEM",BACKUS-TV Orjinal FHD
+http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
 #EXTINF:-1 group-title="TV LISTEM",BACKUS-TV DARK FHD (Korku)
-http://stream.backustv.ru/live/btv2/index.m3u8
+http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",KORKU FILMLERI
 http://188.113.190.15:80/323/playlist.m3u8
@@ -358,6 +350,13 @@ http://5.153.180.30:8000/play/a0bh
 https://ucdn.beetv.kz/btv/live/hls/000005621.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
 http://178.163.17.115:4022/udp/234.0.0.3:2000
+
+#EXTINF:-1 group-title="TV LISTEM",SAPFIR HD
+http://5.153.180.30:8000/play/a010
+#EXTINF:-1 group-title="TV LISTEM",KINEKO FHD
+http://5.153.180.30:8000/play/a00p
+#EXTINF:-1 group-title="TV LISTEM",KINO-1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",Ultra HD Cinema UHD/4K
 http://5.153.180.30:8000/play/a05x
@@ -3292,6 +3291,8 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",.....
 https://tinyurl.com/161651605481
+#EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5 FHD
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 1
 http://ru.iptv.monster/play/3920/58A6BB07681962A/video.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 2
@@ -3301,18 +3302,12 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19244/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75) 1+
 http://178.163.19.208:4022/udp/234.0.0.197:2000
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75) 3+
-http://n2jyqemq.akciatv.ru/iptv/RXK5EZAP8F3NG6/5050/index.m3u
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 1+
 http://188.113.190.15:80/105/mono.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 2+
 http://188.113.190.15:80/105/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 3
-http://7647e6f4.ucomist.net/iptv/Q3DNDZAWXQVWNH/5050/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 4
-http://7647e6f4.ucomist.net/iptv/Q3DNDZAWXQVWNH/9251/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 5
 http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/5050/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 6
@@ -3527,5 +3522,3 @@ https://geohd.canlitvplayer.com/silksport3/tracks-v1a1/mono.m3u8?token=G7gh8OERQ
 #EXTINF:-1 group-title="TEST",SİLK SPORT-4 GEO
 https://geohd.canlitvplayer.com/silk_sport4/tracks-v1a1/mono.m3u8?token=EH8lUsVcWVU5jP2BdI7wfGzxSEEoF2O1B5mbYdb_bbgqul4oMG1GBeDKiqwUIlW2XiqRjfkeOHnacshtkaD44xfZ6nPbazRXKn-2XFO3e7K0LPYXJZ_jgbPMBCbJOJJz8wcpSpwLFOC96rB9dAr0i2GydHwIl8_dKeJ9ff6LrYqq1qQYGeWeq_E6F-vck-KRwUEcdQof-o_Bm5H_dHzbqkW5ezkvXUgs8LvyTH9BGLVINnVIDEOVn6KaRcx9iXxKS0fMWBKIImWOTBWwpZlfBQ%2A%2A
 
-#EXTINF:-1 group-title="TEST-2",1 FHD test
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2NFocoYgNdAbpqrDls3RgaqX5a23.flv
