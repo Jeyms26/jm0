@@ -25,6 +25,8 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TV-8/5 FHD
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1 group-title="TV LISTEM",TV4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",İSTANBUL
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",IBB
@@ -164,6 +166,8 @@ http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",К16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 
+#EXTINF:-1 group-title="TV LISTEM",DAGISTAN-TV FHD
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",DAGISTAN-TV
 http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="TV LISTEM",MOY DAGISTAN TV
@@ -360,6 +364,15 @@ http://5.153.180.30:8000/play/a00p
 #EXTINF:-1 group-title="TV LISTEM",KINO-1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 
+#EXTINF:-1 group-title="TV LISTEM",KINO.MIX FHD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title="TV LISTEM",KINO.HIT FHD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Sinema Tarihi FHD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Aile Filmi FHD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+
 #EXTINF:-1 group-title="TV LISTEM",Ultra HD Cinema UHD/4K
 http://5.153.180.30:8000/play/a05x
 
@@ -439,6 +452,20 @@ https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
 https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
 #EXTINF:-1 group-title="TV LISTEM",L.N UHD/4K
 https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",XploreTV
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Nature
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="TV LISTEM",Nature 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="TV LISTEM",PL Animals
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="TV LISTEM",PL Animals-2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="TV LISTEM",PL OYUN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 group-title="TV LISTEM",S.A-2 HD TR
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6876/index.m3u8
