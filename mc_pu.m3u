@@ -29,8 +29,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",İSTANBUL
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
-#EXTINF:-1 group-title="TV LISTEM",IBB
-https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TiViTRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
@@ -57,8 +55,10 @@ https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",Epic Dr FHDTV TR-RU
 http://91.210.251.166:4897/udp/239.0.3.8:4000
+#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV TR-RU
+http://178.163.17.115:4022/udp/234.0.0.184:2000
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV2 TR-RU
-http://5.153.180.30:8000/play/a09l
+http://178.163.105.211:4022/udp/234.0.0.184:2000
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV3 TR-RU
 http://188.113.190.15:80/94/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV4 TR-RU
@@ -67,7 +67,7 @@ http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14006/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",MiLYON
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TeleOn FHDTV
-https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
+https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KRAL POP FHD
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="TV LISTEM",KRAL POP HD
@@ -101,9 +101,6 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ALVIN-TV AZE
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w173010177.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",NAXCIVAN-TV
-https://str1.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Ümid-TV AZE
 https://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/chunklist_w771332885_b1696000.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Könül-TV AZE
@@ -129,7 +126,6 @@ http://live.al-zahratv.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",YAKUTIYA.24-FHDTV (reg)
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",ZVEZDA FHDTV
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="TV LISTEM",MIR FHDTV
