@@ -2649,10 +2649,6 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20159/index.m3u8
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/20211/index.m3u8
 
 
-#EXTINF:-1 group-title="RADYO",RADYO YANSIMA 1
-https://radyoyansima.ozelip.com/8012/stream
-#EXTINF:-1 group-title="RADYO",RADYO YANSIMA 2
-http://95.173.162.181:9912/;
 #EXTINF:-1 group-title="RADYO",KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 group-title="RADYO",Nostaljinin Sesi
@@ -3009,16 +3005,6 @@ http://5.153.180.30:8000/play/a03h
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 FHD 50fps
 http://5.153.180.30:8000/play/a03j
 
-#EXTINF:-1 group-title="TV ÖZEL",MACH SD
-http://95.217.196.109:8081/russia/matchtv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",MACH FT-1
-http://95.217.196.109:8081/russia/match_futbol_1/playlist.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",MACH FT-2
-http://95.217.196.109:8081/russia/match_futbol_2/playlist.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",MACH FT-3
-http://95.217.196.109:8081/russia/match_futbol_3/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL",IN SPORT FHD
 https://ucdn.beetv.kz/btv/live/hls/000006983.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",LEAGUE FHD
@@ -3036,15 +3022,6 @@ rtmp://93.189.60.202//272
 
 #EXTINF:-1 group-title="TV ÖZEL",S.Sport IT
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",V.Sport
-https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",D.S FHDTV
-http://ca.ukrainske.tv/315/DAF7E574BE5237A/video.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL",Mach Planeta
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",SPORT (AstraXan)
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
@@ -3328,15 +3305,6 @@ http://5.153.180.30:8000/play/a07a
 #EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-2",SY1
-http://103.61.73.139:8600/play/a0ke
-#EXTINF:-1 group-title="TV ÖZEL-2",SY2
-http://103.61.73.139:8600/play/a0i8
-#EXTINF:-1 group-title="TV ÖZEL-2",SY3
-http://103.61.73.139:8600/play/a0kr
-#EXTINF:-1 group-title="TV ÖZEL-2",SY5
-http://103.61.73.139:8600/play/a0kf
-
 #EXTINF:-1 group-title="TV ÖZEL-2",1+
 https://cdnua03.hls.tv/178/hls/fed308b75fc76c8e0a8ca9fd3574d7f9/4853/stream.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",1+
@@ -3397,18 +3365,14 @@ http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2193/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-3",IDMAN
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6840/index.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-3",BEYAZ RUSYA 5
+#EXTINF:-1 group-title="TV ÖZEL-3",BEYAZRUSYA 5
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2177/index.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL-3",BT Sport 1 UK FHD
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2506/index.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL-3",SKY SPORTS FOOTBALL UK
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/7336/index.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL-3",SKY SPORTS PREMIER LEAGUE UK
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/7335/index.m3u8
-
 
 #EXTINF:-1 group-title="TV ÖZEL-3",SPORT 1 YD
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2353/index.m3u8
