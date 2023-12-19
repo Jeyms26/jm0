@@ -329,6 +329,8 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350942.m3u8
 #EXTINF:-1 group-title="TV LISTEM",VOSTOK-TV HD
 rtmp://93.189.60.202//1054
+#EXTINF:-1 group-title="TV LISTEM",M.GO-FHDTV
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",BACKUS-TV MUSIC FHD
 http://dmi3y-tv.ru/hls/CH_BACKUSTVMUSICHD.m3u8
@@ -343,7 +345,7 @@ http://188.113.190.15:80/323/playlist.m3u8
 http://188.113.190.15:80/48/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",HCT (2)
 http://5.153.180.30:8000/play/a03z
-#EXTINF:-1 group-title="TV LISTEM",Korkunç FHD
+#EXTINF:-1 group-title="TV LISTEM",Korkutuçu FHD
 http://5.153.180.30:8000/play/a0bh
 
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
@@ -387,9 +389,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/15145/index.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV1
-http://188.113.190.15:80/330/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV2
 http://5.153.180.30:8000/play/a00t
+#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV2
+http://188.113.190.15:80/330/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV3
 http://persik.by/stream/4436/49935/10295.m3u8
 #EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV4
@@ -412,18 +414,14 @@ https://ucdn.beetv.kz/btv/live/hls/000004610.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",Hayvan dünyasında
 http://178.163.17.115:4022/udp/234.0.0.97:2000
-
 #EXTINF:-1 group-title="TV LISTEM",Kırsal yaşam
 http://178.163.17.115:4022/udp/234.0.0.115:2000
-
 #EXTINF:-1 group-title="TV LISTEM",ZOOPARK
 http://178.163.17.115:4022/udp/234.0.0.216:2000
 #EXTINF:-1 group-title="TV LISTEM",ZOOPARK
 http://188.113.190.15:80/46/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",Okyanus TV
 http://188.113.190.15:80/52/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",Galaksi
 http://178.163.17.115:4022/udp/234.0.0.111:2000
 
@@ -466,13 +464,12 @@ https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Ycam 3
 http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",V+N HDTV
-https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",FTV UHD/4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",M.GO-FHDTV
-https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
-
+#EXTINF:-1 group-title="TV ÖZEL-3",LN FHD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6864/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",YABAN FHD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6868/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",F.box FHD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6746/index.m3u8
 
 
 
@@ -2965,7 +2962,6 @@ https://ucdn.beetv.kz:443/btv/live/hls/000002649.m3u8
 https://ucdn.beetv.kz:443/btv/live/hls/000004498.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Setanta KZ 1 FHD
 https://ucdn.beetv.kz:443/btv/live/hls/000006998.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL",Setanta KZ 2 FHD
 https://ucdn.beetv.kz:443/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Setanta KZ 2 FHD
@@ -3361,7 +3357,6 @@ http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/9251/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-3",CBC S
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2193/index.m3u8
-
 #EXTINF:-1 group-title="TV ÖZEL-3",IDMAN
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6840/index.m3u8
 
@@ -3432,13 +3427,6 @@ http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6818/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-3",B2
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6819/index.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-3",LN TR
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6864/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",YABAN
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6868/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",Fiberbox HD TR
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6746/index.m3u8
 
 
 
