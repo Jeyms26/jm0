@@ -3358,6 +3358,33 @@ https://cdnua03.hls.tv/178/hls/94c90967880ebcdfa084ed6aa4061457/4855/stream.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",3+
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4855/stream.m3u8
 
+#EXTINF:-1 group-title="TV ÖZEL-2",+1
+http://gamsgo.cyou:8080/umer.zia660/e7388412/1735
+#EXTINF:-1 group-title="TV ÖZEL-2",+2
+http://gamsgo.cyou:8080/umer.zia660/e7388412/1737
+#EXTINF:-1 group-title="TV ÖZEL-2",+3
+http://gamsgo.cyou:8080/umer.zia660/e7388412/1739
+#EXTINF:-1 group-title="TV ÖZEL-2",+4
+http://gamsgo.cyou:8080/umer.zia660/e7388412/7450
+#EXTINF:-1 group-title="TV ÖZEL-2",+5
+http://gamsgo.cyou:8080/umer.zia660/e7388412/300982
+
+#EXTINF:-1 group-title="TV ÖZEL-2",T+1
+http://gamsgo.cyou:8080/umer.zia660/e7388412/299705
+#EXTINF:-1 group-title="TV ÖZEL-2",T+2
+http://gamsgo.cyou:8080/umer.zia660/e7388412/1748
+#EXTINF:-1 group-title="TV ÖZEL-2",T+3
+http://gamsgo.cyou:8080/umer.zia660/e7388412/1749
+#EXTINF:-1 group-title="TV ÖZEL-2",T+3
+http://gamsgo.cyou:8080/umer.zia660/e7388412/286778
+
+#EXTINF:-1 group-title="TV ÖZEL-2",S+1
+http://gamsgo.cyou:8080/umer.zia660/e7388412/1753
+#EXTINF:-1 group-title="TV ÖZEL-2",S+2
+http://gamsgo.cyou:8080/umer.zia660/e7388412/10167
+
+
+
 
 #EXTINF:-1 group-title="TV ÖZEL-3",T.K.F
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/5050/index.m3u8
@@ -3381,6 +3408,7 @@ http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/7336/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-3",SKY SPORTS PREMIER LEAGUE UK
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/7335/index.m3u8
+
 
 #EXTINF:-1 group-title="TV ÖZEL-3",SPORT 1 YD
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2353/index.m3u8
@@ -3417,31 +3445,27 @@ http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2508/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-3",Star Sports 2 IN
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2507/index.m3u8
 
-
 #EXTINF:-1 group-title="TV ÖZEL-3",Sportsnet ONE ABD
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6438/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-3",Sportsnet Ontario ABD
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6439/index.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-3",DIGI Sport 1
+#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 1
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2523/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",DIGI Sport 2
+#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 2
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2522/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",DIGI Sport 3
+#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 3
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2524/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",DIGI Sport 4
+#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 4
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2538/index.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-3",Fiberbox HD TR
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6746/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",BS1
+#EXTINF:-1 group-title="TV ÖZEL-3",B1
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6781/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",BS1
+#EXTINF:-1 group-title="TV ÖZEL-3",B1
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6817/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",BS2
+#EXTINF:-1 group-title="TV ÖZEL-3",B2
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6818/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",BS2
+#EXTINF:-1 group-title="TV ÖZEL-3",B2
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6819/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-3",LN TR
@@ -3449,7 +3473,8 @@ http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6864/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-3",YABAN
 http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6868/index.m3u8
 
-
+#EXTINF:-1 group-title="TV ÖZEL-3",Fiberbox HD TR
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6746/index.m3u8
 
 
 
@@ -3532,43 +3557,43 @@ http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/5596
 #EXTINF:-1 group-title="TEST",Sport Klub 4
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/5597
 
-#EXTINF:-1 group-title="TEST",Sport Klub 1 HR
+#EXTINF:-1 group-title="TEST",S.Klub 1 HR
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3473
-#EXTINF:-1 group-title="TEST",Sport Klub 2 HR
+#EXTINF:-1 group-title="TEST",S.Klub 2 HR
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/279841
-#EXTINF:-1 group-title="TEST",Sport Klub 3 HR
+#EXTINF:-1 group-title="TEST",S.Klub 3 HR
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/279840
-#EXTINF:-1 group-title="TEST",Sport Klub 4 HR
+#EXTINF:-1 group-title="TEST",S.Klub 4 HR
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/279839
-#EXTINF:-1 group-title="TEST",Sport Klub 5 HR
+#EXTINF:-1 group-title="TEST",S.Klub 5 HR
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/26662
 
-#EXTINF:-1 group-title="TEST",SPORT TV + portekiz
+#EXTINF:-1 group-title="TEST",SPORT + portekiz
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1481
-#EXTINF:-1 group-title="TEST",SPORT TV 1 portekiz
+#EXTINF:-1 group-title="TEST",SPORT 1 portekiz
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1483
-#EXTINF:-1 group-title="TEST",SPORT TV 2 portekiz
+#EXTINF:-1 group-title="TEST",SPORT 2 portekiz
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1486
-#EXTINF:-1 group-title="TEST",SPORT TV 3 portekiz
+#EXTINF:-1 group-title="TEST",SPORT 3 portekiz
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1489
-#EXTINF:-1 group-title="TEST",SPORT TV 4 portekiz
+#EXTINF:-1 group-title="TEST",SPORT 4 portekiz
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1492
-#EXTINF:-1 group-title="TEST",SPORT TV 5 portekiz
+#EXTINF:-1 group-title="TEST",SPORT 5 portekiz
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1495
-#EXTINF:-1 group-title="TEST",SPORT TV 6 portekiz
+#EXTINF:-1 group-title="TEST",SPORT 6 portekiz
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/281487
 
-#EXTINF:-1 group-title="TEST",ELEVEN SPORTS 1
+#EXTINF:-1 group-title="TEST",ELEVEN S 1
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1499
-#EXTINF:-1 group-title="TEST",ELEVEN SPORTS 2
+#EXTINF:-1 group-title="TEST",ELEVEN S 2
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1503
-#EXTINF:-1 group-title="TEST",ELEVEN SPORTS 3
+#EXTINF:-1 group-title="TEST",ELEVEN S 3
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1506
-#EXTINF:-1 group-title="TEST",ELEVEN SPORTS 4
+#EXTINF:-1 group-title="TEST",ELEVEN S 4
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1509
-#EXTINF:-1 group-title="TEST",ELEVEN SPORTS 5
+#EXTINF:-1 group-title="TEST",ELEVEN S 5
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1512
-#EXTINF:-1 group-title="TEST",ELEVEN SPORTS 6
+#EXTINF:-1 group-title="TEST",ELEVEN S 6
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1515
 
 #EXTINF:-1 group-title="TEST",Tring S 1
