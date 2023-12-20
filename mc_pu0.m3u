@@ -178,3 +178,81 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/7062/index.m3u8
 #EXTINF:0 tvg-rec="3",Eleven Sports 6 PT
 #EXTGRP:Португалия | Portugal
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/7064/index.m3u8
+
+
+#EXTINF:-1 group-title="TV ÖZEL-3",CBC S
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2193/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",IDMAN
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6840/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-3",BEYAZRUSYA 5
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2177/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",BT Sport 1 UK FHD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2506/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SKY SPORTS FOOTBALL UK
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/7336/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SKY SPORTS PREMIER LEAGUE UK
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/7335/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 1 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2353/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 1 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12249/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 2 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2352/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 2 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12250/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 3 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2388/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 3 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12251/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 4 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2389/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 4 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12252/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 5 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2391/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 5 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12254/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 5 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12255/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 5 YD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12256/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-3",ONE 1 HD IL
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12230/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",ONE 2 HD IL
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12231/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-3",Star Sports 1 IN
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2508/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",Star Sports 2 IN
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2507/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-3",Sportsnet ONE ABD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6438/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",Sportsnet Ontario ABD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6439/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 1
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2523/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 2
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2522/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 3
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2524/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 4
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2538/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-3",B1
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6781/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",B1
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6817/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",B2
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6818/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",B2
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6819/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL-3",T.K.F
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/5050/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-3",T.K.F
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/9251/index.m3u8
