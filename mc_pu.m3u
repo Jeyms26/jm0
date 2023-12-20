@@ -52,18 +52,56 @@ https://stream.yol.tv:9443/medialive/yol.m3u8
 https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 group-title="TV LISTEM",AFYON TÜRK TV HD
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
+#EXTINF:-1 group-title="TV LISTEM",RV 1
+http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon1/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",RTS 2
+http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",RYÇAM
+http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",YÇAM
+http://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",YLÇAM 2
+http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",NE.N
+http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",LİFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:-1 group-title="TV LISTEM",ADA
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="TV LISTEM",ASLAN
+https://starkurd.ozelip.com:3459/stream/play.m3u8
+#EXTINF:-1 group-title="TV LISTEM",DENiZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",ANGARA TV HD
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
+#EXTINF:-1 group-title="TV LISTEM",ON6 BSA
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",HUNAT KS
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",BİR
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",VAN GOLU
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",ERCiS TV
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",CEKMEKOY BELEDiYE TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunklist_w1305163043_b1694720.m3u8
+#EXTINF:-1 group-title="TV LISTEM",ORDU BEL TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",ViYANA
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="TV LISTEM",..
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",Epic Dr FHDTV TR-RU
 http://91.210.251.166:4897/udp/239.0.3.8:4000
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV TR-RU
 http://178.163.17.115:4022/udp/234.0.0.184:2000
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV2 TR-RU
-http://178.163.105.211:4022/udp/234.0.0.184:2000
-#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV3 TR-RU
 http://188.113.190.15:80/94/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV4 TR-RU
+#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV3 TR-RU
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14006/index.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",MiLYON
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TeleOn FHDTV
@@ -344,33 +382,35 @@ http://188.113.190.15:80/323/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",HCT (1)
 http://188.113.190.15:80/48/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",HCT (2)
-http://5.153.180.30:8000/play/a03z
-#EXTINF:-1 group-title="TV LISTEM",Korkutuçu FHD
-http://5.153.180.30:8000/play/a0bh
+http://188.113.190.15:80/48/mono.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
 https://ucdn.beetv.kz/btv/live/hls/000005621.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TRASH-FHDTV
 http://178.163.17.115:4022/udp/234.0.0.3:2000
 
-#EXTINF:-1 group-title="TV LISTEM",SAPFIR HD
-http://5.153.180.30:8000/play/a010
-#EXTINF:-1 group-title="TV LISTEM",KINEKO FHD
-http://5.153.180.30:8000/play/a00p
 #EXTINF:-1 group-title="TV LISTEM",KINO-1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="TV LISTEM",SAPFIR HD
+http://188.113.190.15:80/182/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",KINEKO FHD
+http://188.113.190.15:80/156/mono.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",KINO.MIX FHD
-http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+http://188.113.190.15:80/335/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KINO.HIT FHD
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="TV LISTEM",KINO.HIT SD
+http://188.113.190.15:80/313/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Sinema Tarihi FHD
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Sinema Tarihi SD
+http://188.113.190.15:80/310/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Aile Filmi FHD
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Aile Filmi SD
+http://188.113.190.15:80/311/mono.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",Ultra HD Cinema UHD/4K
-http://5.153.180.30:8000/play/a05x
 
 #EXTINF:-1 group-title="TV LISTEM",Ultra HD Cinema UHD/4K
 http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/4000/index.m3u8
@@ -397,8 +437,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/RFPEEUQNURN7MN/15145/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",L.N UHD/4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV1
-http://5.153.180.30:8000/play/a00t
 #EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV2
 http://188.113.190.15:80/330/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",HDL-FHDTV3
@@ -3006,24 +3044,41 @@ http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/2413/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL",Mach TV HD3
 https://bl.uma.media:443/live/999000/HLS/1_3/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD4
-http://5.153.180.30:8000/play/a035
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD5
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV SD4
+http://188.113.190.15:80/6/mono.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD5+
 http://persik.by:80/stream/4436/49935/11371.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD6
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD6+
 https://persik.by/stream/4436/49935/11371.m3u8
-#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD7
+#EXTINF:-1 group-title="TV ÖZEL",Mach TV FHD7+
 https://persik.by:443/stream/4436/49935/11371.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach Premier TV FHD1
 http://gqe84rhf.klaipedalt.xyz/iptv/P6YNFVEPBCGPRM/220/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps
-http://5.153.180.30:8000/play/a03f
+http://185.235.187.10:8888/play/match_futbol_1HD/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 FHD 50fps
+http://persik.by/stream/4436/49935/10266.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-2 FHD 50fps
-http://5.153.180.30:8000/play/a03h
+http://185.235.187.10:8888/play/match_futbol2_HD/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-2 FHD 50fps
+http://persik.by/stream/4436/49935/10267.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 FHD 50fps
-http://5.153.180.30:8000/play/a03j
+http://185.235.187.10:8888/play/match_futbol3_HD/index.m3u8
+
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-1 SD
+http://188.113.190.15:80/175/mono.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-2 SD
+http://188.113.190.15:80/176/mono.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-2 SD
+http://185.235.187.10:8888/play/match_futbol2/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 SD
+http://188.113.190.15:80/177/mono.m3u8
+#EXTINF:-1 group-title="TV ÖZEL",Mach FUTBOL-3 SD
+http://185.235.187.10:8888/play/match_futbol3/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL",IN SPORT FHD
 https://ucdn.beetv.kz/btv/live/hls/000006983.m3u8
@@ -3292,6 +3347,8 @@ https://tinyurl.com/161651605481
 rtmp://bintu-play.nanocosmos.de:1935/play/vDCDB-zNHO0
 #EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5 FHD
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5 FHD
+http://persik.by:80/stream/4436/49935/10408.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 1
 http://ru.iptv.monster/play/3920/58A6BB07681962A/video.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 2
@@ -3321,7 +3378,7 @@ http://persik.by/stream/4436/49935/440.m3u8
 https://persik.by/stream/4436/49935/440.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 11
 https://persik.by:443/stream/4436/49935/440.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 12
+#EXTINF:-1 group-title="TV ÖZEL-2",SD (36) 12
 http://5.153.180.30:8000/play/a07a
 
 #EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
@@ -3348,167 +3405,6 @@ https://cdnua03.hls.tv/178/hls/94c90967880ebcdfa084ed6aa4061457/4855/stream.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",3+
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4855/stream.m3u8
 
-#EXTINF:-1 group-title="TV ÖZEL-2",+1
-http://gamsgo.cyou:8080/umer.zia660/e7388412/1735
-#EXTINF:-1 group-title="TV ÖZEL-2",+2
-http://gamsgo.cyou:8080/umer.zia660/e7388412/1737
-#EXTINF:-1 group-title="TV ÖZEL-2",+3
-http://gamsgo.cyou:8080/umer.zia660/e7388412/1739
-#EXTINF:-1 group-title="TV ÖZEL-2",+4
-http://gamsgo.cyou:8080/umer.zia660/e7388412/7450
-#EXTINF:-1 group-title="TV ÖZEL-2",+5
-http://gamsgo.cyou:8080/umer.zia660/e7388412/300982
-
-#EXTINF:-1 group-title="TV ÖZEL-2",T+1
-http://gamsgo.cyou:8080/umer.zia660/e7388412/299705
-#EXTINF:-1 group-title="TV ÖZEL-2",T+2
-http://gamsgo.cyou:8080/umer.zia660/e7388412/1748
-#EXTINF:-1 group-title="TV ÖZEL-2",T+3
-http://gamsgo.cyou:8080/umer.zia660/e7388412/1749
-#EXTINF:-1 group-title="TV ÖZEL-2",T+3
-http://gamsgo.cyou:8080/umer.zia660/e7388412/286778
-
-#EXTINF:-1 group-title="TV ÖZEL-2",S+1
-http://gamsgo.cyou:8080/umer.zia660/e7388412/1753
-#EXTINF:-1 group-title="TV ÖZEL-2",S+2
-http://gamsgo.cyou:8080/umer.zia660/e7388412/10167
-
-
-
-
-#EXTINF:-1 group-title="TV ÖZEL-3",T.K.F
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/5050/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",T.K.F
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/9251/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",CBC S
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2193/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",IDMAN
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6840/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",BEYAZRUSYA 5
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2177/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",BT Sport 1 UK FHD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2506/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SKY SPORTS FOOTBALL UK
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/7336/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SKY SPORTS PREMIER LEAGUE UK
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/7335/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 1 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2353/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 1 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12249/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 2 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2352/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 2 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12250/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 3 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2388/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 3 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12251/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 4 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2389/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 4 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12252/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 5 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2391/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 5 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12254/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 5 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12255/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",SPORT 5 YD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12256/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",ONE 1 HD IL
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12230/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",ONE 2 HD IL
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/12231/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",Star Sports 1 IN
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2508/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",Star Sports 2 IN
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2507/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",Sportsnet ONE ABD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6438/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",Sportsnet Ontario ABD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6439/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 1
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2523/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 2
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2522/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 3
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2524/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",DIGI S 4
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/2538/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-3",B1
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6781/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",B1
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6817/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",B2
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6818/index.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-3",B2
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6819/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="TEST",ADA TV
-https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
-
-#EXTINF:-1 group-title="TEST",ASLAN TV
-https://starkurd.ozelip.com:3459/stream/play.m3u8
-
-#EXTINF:-1 group-title="TEST",DENiZ POSTASI
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",ANGARA TV HD
-https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
-
-#EXTINF:-1 group-title="TEST",BURSA ON6
-https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",HUNAT TV KS
-https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",BİR TV
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",VAN GOLU TV
-https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",LİFE TV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-
-#EXTINF:-1 group-title="TEST",ERCiS TV
-https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
-
-#EXTINF:-1 group-title="TEST",CEKMEKOY BELEDiYE TV
-https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunklist_w1305163043_b1694720.m3u8
-
-#EXTINF:-1 group-title="TEST",ORDU BEL TV
-https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",ViYANA
-http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-#EXTINF:-1 group-title="TEST",MC
-https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
-
-#EXTINF:-1 group-title="TEST",RV 1
-http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon1/index.m3u8
-#EXTINF:-1 group-title="TEST",RTS 2
-http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/index.m3u8
-#EXTINF:-1 group-title="TEST",RYÇAM
-http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
-#EXTINF:-1 group-title="TEST",YÇAM
-http://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/index.m3u8
-#EXTINF:-1 group-title="TEST",YLÇAM 2
-http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
-#EXTINF:-1 group-title="TEST",NE.N
-http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
 
 #EXTINF:-1 group-title="TEST",City VIP
 https://pro35.canlitvplayer.com/str.yodacdn.net/vip/mono.m3u8?token=286c88ca9d8d79558092dc8a71d59b9462ad3043-382111e1925fec5a60acd6079492ae67-1702452073-1702441273
@@ -3524,99 +3420,13 @@ https://geohd.canlitvplayer.com/silk_sport4/tracks-v1a1/mono.m3u8?token=EH8lUsVc
 
 #EXTINF:-1 group-title="TEST",DirecTV Arjantin
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/298357
-#EXTINF:-1 group-title="TEST",Sport Klub HD
+#EXTINF:-1 group-title="TEST",SK
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/267913
-#EXTINF:-1 group-title="TEST",Sport Klub 1
+#EXTINF:-1 group-title="TEST",SK1
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3467
-#EXTINF:-1 group-title="TEST",Sport Klub 2
+#EXTINF:-1 group-title="TEST",SK2
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/5595
-#EXTINF:-1 group-title="TEST",Sport Klub 3
+#EXTINF:-1 group-title="TEST",SK3
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/5596
-#EXTINF:-1 group-title="TEST",Sport Klub 4
+#EXTINF:-1 group-title="TEST",SK4
 http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/5597
-
-#EXTINF:-1 group-title="TEST",S.Klub 1 HR
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3473
-#EXTINF:-1 group-title="TEST",S.Klub 2 HR
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/279841
-#EXTINF:-1 group-title="TEST",S.Klub 3 HR
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/279840
-#EXTINF:-1 group-title="TEST",S.Klub 4 HR
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/279839
-#EXTINF:-1 group-title="TEST",S.Klub 5 HR
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/26662
-
-#EXTINF:-1 group-title="TEST",SPORT + portekiz
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1481
-#EXTINF:-1 group-title="TEST",SPORT 1 portekiz
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1483
-#EXTINF:-1 group-title="TEST",SPORT 2 portekiz
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1486
-#EXTINF:-1 group-title="TEST",SPORT 3 portekiz
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1489
-#EXTINF:-1 group-title="TEST",SPORT 4 portekiz
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1492
-#EXTINF:-1 group-title="TEST",SPORT 5 portekiz
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1495
-#EXTINF:-1 group-title="TEST",SPORT 6 portekiz
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/281487
-
-#EXTINF:-1 group-title="TEST",ELEVEN S 1
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1499
-#EXTINF:-1 group-title="TEST",ELEVEN S 2
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1503
-#EXTINF:-1 group-title="TEST",ELEVEN S 3
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1506
-#EXTINF:-1 group-title="TEST",ELEVEN S 4
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1509
-#EXTINF:-1 group-title="TEST",ELEVEN S 5
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1512
-#EXTINF:-1 group-title="TEST",ELEVEN S 6
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1515
-
-#EXTINF:-1 group-title="TEST",Tring S 1
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1306
-#EXTINF:-1 group-title="TEST",Tring S 2
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1305
-#EXTINF:-1 group-title="TEST",Tring S 3
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1304
-#EXTINF:-1 group-title="TEST",Tring S 4
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1862
-
-#EXTINF:-1 group-title="TEST",SuperS 1
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1316
-#EXTINF:-1 group-title="TEST",SuperS 2
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1312
-#EXTINF:-1 group-title="TEST",SuperS 3
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1319
-#EXTINF:-1 group-title="TEST",SuperS 4
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1318
-#EXTINF:-1 group-title="TEST",SuperS 5
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1860
-#EXTINF:-1 group-title="TEST",SuperS 6
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3638
-#EXTINF:-1 group-title="TEST",SuperS 7
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/174441
-
-#EXTINF:-1 group-title="TEST",K.Sport 1
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1863
-#EXTINF:-1 group-title="TEST",K.Sport 2
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1864
-#EXTINF:-1 group-title="TEST",K.Sport 3
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1865
-#EXTINF:-1 group-title="TEST",K.Sport 4
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1866
-
-#EXTINF:-1 group-title="TEST",ART S 1
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/23143
-#EXTINF:-1 group-title="TEST",ART S 2
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/23146
-#EXTINF:-1 group-title="TEST",ART S 3
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/40061
-#EXTINF:-1 group-title="TEST",ART S 4
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/295216
-#EXTINF:-1 group-title="TEST",ART S 5
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/295215
-#EXTINF:-1 group-title="TEST",ART S 6
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/295217
-
