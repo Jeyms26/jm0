@@ -67,8 +67,6 @@ http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",LİFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:-1 group-title="TV LISTEM",ADA
-https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ASLAN
 https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1 group-title="TV LISTEM",DENiZ POSTASI
