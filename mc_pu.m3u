@@ -2803,6 +2803,18 @@ http://radio.domiplay.net:2002/stream/1/
 
 
 
+
+#EXTINF:-1 group-title="VOD DIZI",Sen Çal Kapımı 1.Bölüm
+https://foxtv-vod.ercdn.net/Sen-Cal-Kapimi/bolumler/1/PDT1SENCALKAPIMI1HD.smil/hlssubplaylist-ovbnGvek_oacn4Z7.m3u8?e=1703535371&st=51UyxTRfeQ15ijipQQvF3w
+#EXTINF:-1 group-title="VOD DIZI",Sen Çal Kapımı 2.Bölüm
+https://foxtv-vod.ercdn.net/Sen-Cal-Kapimi/bolumler/2/PDT1SENCALKAPIMI2HDYENI.smil/hlssubplaylist-ovbnGvek_oacnSV7.m3u8?e=1703535243&st=d5ROaicF9uXtpDMGQ7KGxw
+#EXTINF:-1 group-title="VOD DIZI",Sen Çal Kapımı 3.Bölüm
+https://foxtv-vod.ercdn.net/Sen-Cal-Kapimi/bolumler/3/PDT1SENCALKAPIMI3HD.smil/hlssubplaylist-ovbnGvek_oacn6e8.m3u8?e=1703538332&st=Lk3BhGs1XCBlx7jNNUfKnw
+#EXTINF:-1 group-title="VOD DIZI",Sen Çal Kapımı 4.Bölüm
+https://foxtv-vod.ercdn.net/Sen-Cal-Kapimi/bolumler/4/PDTSENCALKAPIMI4HDYENI.smil/hlssubplaylist-ovbnGvek_oacneg8.m3u8?e=1703538451&st=vAz0fD4PcvJVfdzXxlGBUw
+#EXTINF:-1 group-title="VOD DIZI",Sen Çal Kapımı 5.Bölüm
+https://foxtv-vod.ercdn.net/Sen-Cal-Kapimi/bolumler/5/PD1TSENCALKAPIMI5HDRKLM.smil/hlssubplaylist-ovbnGvek_oacnEe8.m3u8?e=1703535536&st=zyp3ZqL71c2UWP_jJ3R36Q
+
 #EXTINF:-1 group-title="VOD DIZI",7-Numara 1.Bölüm
 https://cdn-v.pr.trt.com.tr/trttv/website/521bd83c-ee59-4218-9a9e-bc5a36e93631/master1080p.m3u8
 #EXTINF:-1 group-title="VOD DIZI",7-Numara 2.Bölüm
