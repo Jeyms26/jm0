@@ -3352,23 +3352,15 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",.....
 https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/chunklist_w572207981.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Plus 2
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2JypN7W5cDCv7ejMSVlsMDGE5811.flv
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Plus 3
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2AkG2cSTAuuubhICE2CObJwH580e.flv
 #EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5 FHD
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5 FHD
 http://persik.by:80/stream/4436/49935/10408.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 1
-http://ru.iptv.monster/play/3920/58A6BB07681962A/video.m3u8
+
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 2
 http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/19244/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 3
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19244/index.m3u8
-
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (75) 1+
-http://178.163.19.208:4022/udp/234.0.0.197:2000
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 1+
 http://188.113.190.15:80/105/mono.m3u8
@@ -3381,16 +3373,6 @@ http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/5050/index.m3u8
 http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/9251/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 7
 http://188.113.190.15:80/105/mono.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 8
-http://persik.by:80/stream/4436/49935/440.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 9
-http://persik.by/stream/4436/49935/440.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 10
-https://persik.by/stream/4436/49935/440.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 11
-https://persik.by:443/stream/4436/49935/440.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",SD (36) 12
-http://5.153.180.30:8000/play/a07a
 
 #EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
@@ -3416,10 +3398,6 @@ https://cdnua03.hls.tv/178/hls/94c90967880ebcdfa084ed6aa4061457/4855/stream.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",3+
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4855/stream.m3u8
 
-
-#EXTINF:-1 group-title="TEST",City VIP
-https://pro35.canlitvplayer.com/str.yodacdn.net/vip/mono.m3u8?token=286c88ca9d8d79558092dc8a71d59b9462ad3043-382111e1925fec5a60acd6079492ae67-1702452073-1702441273
-
 #EXTINF:-1 group-title="TEST",SİLK SPORT
 https://geohd.canlitvplayer.com/silksport1/tracks-v1a1/mono.m3u8?token=muvw_kHkcUWWHGTjaB7P06SI8VW4XwI5DSiIRLggA5hGb8t-5l3vcO89YMJgSgCCnRVGLhDA4hJko9O-pVurO8k2-CEoAo48Fjs5pfod_U7ZFqMLWgFijrlOv6irfPpIZiJZdW8DfJbkn9lC-36Xr7iTOx0WKS72qG8lAWYQtqaKEWb1LXAZ_eSfd6V_tQiNQrlMt9-4jlQf0uaB6jIloR3JrndyM_yC7mqOwvYN_nRWG0Xrg8yIVlrNDQpOXYYWUaOPDzdRphIR-P2pgjn-nA%2A%2A
 #EXTINF:-1 group-title="TEST",SİLK SPORT-2
@@ -3429,19 +3407,6 @@ https://geohd.canlitvplayer.com/silksport3/tracks-v1a1/mono.m3u8?token=G7gh8OERQ
 #EXTINF:-1 group-title="TEST",SİLK SPORT-4
 https://geohd.canlitvplayer.com/silk_sport4/tracks-v1a1/mono.m3u8?token=EH8lUsVcWVU5jP2BdI7wfGzxSEEoF2O1B5mbYdb_bbgqul4oMG1GBeDKiqwUIlW2XiqRjfkeOHnacshtkaD44xfZ6nPbazRXKn-2XFO3e7K0LPYXJZ_jgbPMBCbJOJJz8wcpSpwLFOC96rB9dAr0i2GydHwIl8_dKeJ9ff6LrYqq1qQYGeWeq_E6F-vck-KRwUEcdQof-o_Bm5H_dHzbqkW5ezkvXUgs8LvyTH9BGLVINnVIDEOVn6KaRcx9iXxKS0fMWBKIImWOTBWwpZlfBQ%2A%2A
 
-#EXTINF:-1 group-title="TEST",SK
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/267913
-#EXTINF:-1 group-title="TEST",SK1
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3467
-#EXTINF:-1 group-title="TEST",SK2
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/5595
-#EXTINF:-1 group-title="TEST",SK3
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/5596
-#EXTINF:-1 group-title="TEST",SK4
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/5597
-#EXTINF:-1 group-title="TEST",DirecTV Arjantin
-http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/298357
-
 #EXTINF:-1 group-title="TEST",B.S.1
 http://sansat.net:88/9BBGF5FHMZ/YFQXITJNIQ/99222
 #EXTINF:-1 group-title="TEST",B.S.2
@@ -3450,84 +3415,3 @@ http://sansat.net:88/9BBGF5FHMZ/YFQXITJNIQ/99223
 http://sansat.net:88/9BBGF5FHMZ/YFQXITJNIQ/99224
 #EXTINF:-1 group-title="TEST",B.S.4
 http://sansat.net:88/9BBGF5FHMZ/YFQXITJNIQ/99225
-
-#EXTINF:-1 group-title="TEST",B.S.1+
-http://aflaxtv.xyz:8080/b9368f8a/87cf6ddc4f/1735
-#EXTINF:-1 group-title="TEST",B.S.2+
-http://aflaxtv.xyz:8080/b9368f8a/87cf6ddc4f/1737
-#EXTINF:-1 group-title="TEST",B.S.3+
-http://aflaxtv.xyz:8080/b9368f8a/87cf6ddc4f/1739
-#EXTINF:-1 group-title="TEST",B.S.4+
-http://aflaxtv.xyz:8080/b9368f8a/87cf6ddc4f/7450
-#EXTINF:-1 group-title="TEST",B.S.5+
-http://aflaxtv.xyz:8080/b9368f8a/87cf6ddc4f/300982
-
-#EXTINF:-1 group-title="TEST",SS1+
-http://aflaxtv.xyz:8080/b9368f8a/87cf6ddc4f/1753
-#EXTINF:-1 group-title="TEST",SS2+
-http://aflaxtv.xyz:8080/b9368f8a/87cf6ddc4f/10167
-
-
-#EXTINF:-1 group-title="TEST",B.S.1
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/1735
-#EXTINF:-1 group-title="TEST",B.S.2
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/1737
-#EXTINF:-1 group-title="TEST",B.S.3
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/1739
-#EXTINF:-1 group-title="TEST",B.S.4
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/7450
-
-#EXTINF:-1 group-title="TEST",TS1
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/299705
-#EXTINF:-1 group-title="TEST",TS2
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/1748
-#EXTINF:-1 group-title="TEST",TS3
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/1749
-#EXTINF:-1 group-title="TEST",TS4
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/286778
-
-#EXTINF:-1 group-title="TEST",SS1
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/1753
-#EXTINF:-1 group-title="TEST",SS2
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/10167
-
-#EXTINF:-1 group-title="TEST",Bl.S.1
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/2815
-#EXTINF:-1 group-title="TEST",Bl.S.2
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/6187
-
-
-
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",0+.Daima Seninleyim
-https://streaming.disk.yandex.net/hls/U2FsdGVkX19uF9ig7gPI5ot0GZARfCn-bbe1_WHBXslX9bIKTV-cG9EpblJGUUbju8uuVnoXAL3w9-YDn1k1vHkjdg1ly7nzx-7S9gVz7KqrUdd5QAZ4vYKO56K5kpNcrWEXh2czwL31UpV3fov8YkQwiZXh9cOw9OUzLfEdXyTayi_KZhdnspZ2l6-D0HduzSeqI6m33sKGTaJ7NDX3lRFIUFOM2LCIU28suivXmXvhBoMwTnztuLiG0yirl0WKcvCAuiX-uXG5bMs5AZ8e0eFdEZkU7lD1d98-7YQjIa6Jma5y7yZi-VSx6TKfxfAf/60d508cafd3f0/d3dfa08cd707f1d86f08e419f2959b90fed05ffd753649a1bda97b57286b407d/1080p/playlist.m3u8?from=disk&vsid=02cdc27d81793f4c41787b8b9f76a5fea734e04c70fbxWEBx1223x1703403069&source_index=0&t=1703403069293&abd=1
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",1+.Sen beni güzel hatırla
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_tUhdow4SxZkGLUy3xmXOP0QjEkFIlLjbo15AB_Dok9S4zZI4Bet1tULXa9rbod4YPydEvAiOfuUln2DhKaRvS5U0Nc5Em0hgv0Ybrk-YerG-tI5L_lNn8bSf5uDpBGcQ_WPxlY7FQ-RM2UJ3-9H3R262EezviHlprZzbysny4_vQpM_EvRXzkLzpnleQc_pLzc2VzRydiVB8GqJNmiSc8L75FB7v17N4b5AtU9Nk7tz_bi2cwonylqB4oLDBMG67Y-1HMfOheycY-YjFy3wkK9vX1eKOiAhkX5uV8ng29O34nCpzsvSs9/60d508cafc068/72744f7e443448ccdb12635ef9de38ac85a5c266103e888425d61711b24e1548/1080p/playlist.m3u8?from=disk&vsid=d7105979f4f6a50209e41cc043012f50857312c66e08xWEBx1223x1703403316&source_index=0&t=1703403316661&abd=1
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",1.Sonsuza kadar benimle kal
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_cbhs94DtJ1V_z3a9PAP5cKF4s3S36YPbmbwn4MmXY0Ncyr1JnLSmtyeCi1J00gBj0WUi6ERroItiacYYqL4PSMFxBRPdHtS5DocgH2dHy_dFya11GsUPGaaouxGLXt9WfHFeEnshQDTBErDZz1dxaUUn9OB6zxzl28qn0kZ80j6ctOvaGxa2poXc15l2ZqfFNzIgYUPjPi-nfiaczmsxacprSzhGUhFfs-jvBvCr75Zt0eEtrZl6Lfu0p0fehmoG7DTl4Gqbc0sBAUjwEE_wYGzKh_IsCcVrwXPoyFxvUUpunvH7ICN6z/60d508cafb4b0/6c31e2234eb7347fff93df944f1890bc8643b41e0761da259fd04f47fe06632d/1080p/playlist.m3u8?from=disk&vsid=9d6eb39dd6bd8b1b9d797f72ab691125ec98b1d30ba7xWEBx1223x1703403343&source_index=0&t=1703403343840&abd=1
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",2.Sonsuza kadar benimle kal+SUB
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-8tfvj6mdootpXoDTENw-0ts2qwFKDafNTLeVxGC1UsPbJ72kqGlpHmsa2GP2P6Ucec3bGhmqMLL9Oi9RJOUCqOKoVk0C5vx3ztmQuyrDY8m6OnKTdZtb2z-gtGVCYNEkiYdlnOcRkNEKTQ30kTpbC-qtSPMsdclhaeqOElw6Ol37dkor3QHUerTPgfY1KSAoZe4hAuUInvuX5M-SrqY7XsfziC1TAM0v-q8HOEq0x18x1HjmxvjYIM2340GxhMGnTYfD7HYzQCDway3XjRyIiwFFBS40G144Qub1oqdTQvbK8A8w9rS_p/60d509b76e8b0/972094d9fafb9e7409744895cbb97d3dcc22c834900d969e20eea69732459fe1/1080p/playlist.m3u8?from=disk&vsid=f9b91ed1ba715421aedfb92ceb25b7b0340cdf964925xWEBx1223x1703403383&source_index=0&session_data=1&preview=1&t=1703403383753
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",3.Aşkımızı kaybediyoruz
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_7g_hdwPeq8CMKcaW6TaP1eica1_9gwtmut4hmpCdO_3w77ah7xxT6aFWQOwpH4fLo_fN62894MgUIcupmri2ARad446uWQJjglwBDc4L_Sb5efNi2Frk7_vjRupdGZ1cjF_ccz4_1a0ZJEqprMxHFkmcOj2Woy78sw5sCXXzK_Okbdtsz91aB5o3xyT4f68jv-ljnzZu7HH1RPkpyNZ830V-CNBs0xsEo7w0w3ZOVyFE93L1CdpNiqH3fsYbi2snjyrNCb6tHmKUYBaTp3Gi2_xk2l3aVjVJV8Vyasr-1wn5VRbDbR4lV/60d509d165c28/3518de150fdf68d57acde21c66a73dd5566d03d0298fabff7814321521f64d22/1080p/playlist.m3u8?from=disk&vsid=e36d8d937e2d374c9ecbe65c2970c1f7d9051ee0179axWEBx1223x1703403409&source_index=0&t=1703403409333&abd=1
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",4.Benimle kal
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_g6S6Q5BlAZHLdDt9Vv-kWpzJ-S2f7z9UIxfnfMM0uYzmSWy6W8DRvODZjyTI5xFgkrEqoO0mU6cJc2hUuPd-rM-jhB3YHUFapfcBCcl_8a-JKarDsxxhDDfps_p5J1Xd_AHv1sSxHJA2d-hZDDjA-xFHO_oBogTG2T_nFWcEcWQXixVLywHU2C5Yy67vW4KR2U_wxB8DYq2vRDzp9JWuVzRbC0WxTnrtkMYkjlcJ5mAuONAT6UcOSeIZVyF217fVilfuPTckkpmnP6_SVnTvrO4amATT7OeNTNgGPHazpCN4W4bfC1pvi/60d509f76e938/dd73c31a5133958297d6f2ea925056297e1ee6a3bbe93402f8e3327ee89c4743/1080p/playlist.m3u8?from=disk&vsid=7f0961aa39fef478819193aefc1ea630d4fc61f70e2dxWEBx1223x1703403602&source_index=0&t=1703403602253&abd=1
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",5.Bırakma Beni
-https://streaming.disk.yandex.net/hls/U2FsdGVkX18n08FjMGCCoKQ-qvRnIQ-73FtkwaxRBL3J7rTikXd7pJTnn3GYuNYXORDTmF6RHOWVsD4C4f7m3Z2WH4R6qF4CTWKJXsAdJL3t15hClt34uGLETqA3C0J9-p6tNXs8Z416xRuLVUiAtKRr7TlpwmjrBekmmmUJZv2GSEQoiZaPfEPD936zNH6z3rx3SbxFTkhOkzbvlcnmh_l9ELCKSs3oLM_vB9SCJ9Yo9eB8EwPUsn2hU2fcFhk6NRCXBTqZbWsWhJKzOANMAkKaysvCWeJIEU4-uyWzcySJaXENIP4sQXPeOXbm_HFM/60d50a0fd9108/597208f6cfcbf4148a2c2cc70bda81a5f5d88c0b6dd5415c6f57512cdd17380f/1080p/playlist.m3u8?from=disk&vsid=41796aac1b77fa2f237194f08cecaba14ace1783cc4exWEBx1223x1703403694&source_index=0&t=1703403694708&abd=1
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",6.Hayatımı vereceğim
-https://streaming.disk.yandex.net/hls/U2FsdGVkX18BKq6KBICdlwdpBVxP4zMWyQsKXTeBM-INr3J9-CRuTdFEVKpnIpp358cmr8X01iyvdMUikDqegQTlDlYd2xW-pgMohlGLVXuAwwtv2Fr-i_Wt5_6j-xeStmZ8KNQqs1gLWwbkssHW_x7de_JwMnNCwslRd7ZBKlLgaN0apwru98oOdYiYPkPWCBg20UNVLEcj2NrUecMAuTBo2nSyLexVXx5SGDK3zORcdjGLqkH1XwEHQrW67ZOn7NmVwfnTbYQ1DtFEmjJJ-oxmabERSM-Bbp_WaiepvHZItV4UW9KwG2mCzCG_DaX3/60d50ac7cdd68/b27d983792aec919e2a3923ac120beb32ef7fbc7e33c7ba4fcacd36c36ba0ea7/1080p/playlist.m3u8?from=disk&vsid=4a9640a20971860d1fd951b1b21ee5de32460c513dd3xWEBx1223x1703403719&source_index=0&t=1703403719827&abd=1
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",7.Yarım
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_7-xctXKsmPJSz7GVYFPepYiTBLV1SCkDeEtGo8gOsaEdBb_U_iigEZr96BOkcOaPpK0qszXp6EcJOlufk_MTz77VxuoG8pLj1NlAQ5WI-uUCF_O1LieG-blT99bP1tmZryIbB2ZHrID-Up0dH5UL960T7xLYf07T-MWbS6BG8w-KOyTy7vKNZfQn2-3RWpTwL4biRf19wGIIdzGLp7m4czW4IegvanC2TJ5gPvUYN563p0Fnu1-lnQjpkAvICAIsYaC_JpzlebbXjQMHSPAHixLWDEzrXNp9USR7sCShTraKfCiUGOZjB/60d50b2002290/bb8f6c4371d4c8e08fc97f49724732039a0bcb4b7aac86be7c2eda4524488189/1080p/playlist.m3u8?from=disk&vsid=17ff2018ade801a1cb673c842563f82cf7ead0a9e9a2xWEBx1223x1703403738&source_index=0&t=1703403738399&abd=1
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",8.Kimi seviyorsun - Who do you Love
-https://streaming.disk.yandex.net/hls/U2FsdGVkX19atXj9oQSZsH5lLpV1gMsyjzfRgAFe6Ih0vB5QxR0pnwarkG--GvbT_TD7jVN5TQs0Xo4LYCerfxzU0CvbNQFPrVs6ZpNAmXBgvniWWBbx65_K1XWbx9GAhMTwfZ49Z-RJyeMjX--X6yYhfWdHiuQtY6kGn5lcp0DVfLLU3sH6sSDeN9vvxxEjLiEIemU7hb0crDiXGUQslrH9858ebeNWzm-aHb2DImA93UK0CGnT0YYOqeJVKzktchff3xMZovubXyDH9WQnGOxV0ExEUCnGJaJ5ovZ3uueY_YsD80W8k3vD_qIaO-rc/60d50b37ff848/675cb7fb835e3c7d7264b67b3917786294e994387466f592176294bad161c1c7/1080p/playlist.m3u8?from=disk&vsid=dfacc83deeb60eeae76f4866b12cb5000021b848af79xWEBx1223x1703403761&source_index=0&t=1703403761394&abd=1
-
-#EXTINF:-1 group-title="**KENDI LISTEM+24**",9.1 - 52
-https://streaming.disk.yandex.net/hls/U2FsdGVkX19Jx4B2m-uxkWslv2U9RbBlB0jkuTb9MdKfS8-xkZ448gMZ1JTxS0E5inAa-XW1nD_nPld6KfkK5e3lgRZX9YCNZLPR2VdAgsczQWYJsymMuAG3vCThRrkxTdXCL7f8DicCWM2Gdks8RQB25XiMlJwzgA5RGxhmMAC6kbVWIIMgLRlL4eZBHUQvIJjqslf4HHns90oKhlB42DgFaMc3NU73utdVErvHaYvdhN8k3Hs2uZPz136yjarUKvcqNXJ0NaVQoOLQpWZ32sU5iXi4FHAnc-McqQ_SgUDIu3RAyW3G_xICpLrzGYnG/60d50b49ae210/f183e292677d3f3dfdb58a1e51e457c6c23e9defa1423ddf6af0ebfe69f2a8d9/1080p/playlist.m3u8?from=disk&vsid=90b9fc53de9ad210659bc20bdf90ec64b329f557632exWEBx1223x1703404011&source_index=0&t=1703404012008&abd=1
