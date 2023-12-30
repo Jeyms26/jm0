@@ -537,6 +537,7 @@ http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
 
 
 
+
 #EXTINF:0 tvg-rec="0",Fox HD
 #EXTGRP:Кино
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19216/index.m3u8
@@ -3415,3 +3416,83 @@ http://sansat.net:88/9BBGF5FHMZ/YFQXITJNIQ/99223
 http://sansat.net:88/9BBGF5FHMZ/YFQXITJNIQ/99224
 #EXTINF:-1 group-title="TEST",B.S.4
 http://sansat.net:88/9BBGF5FHMZ/YFQXITJNIQ/99225
+
+#EXTINF:-1 group-title="TEST30",BMA2
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53580
+#EXTINF:-1 group-title="TEST30",BMA2
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53581
+#EXTINF:-1 group-title="TEST30",BMF
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53582
+#EXTINF:-1 group-title="TEST30",BMF
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53583
+#EXTINF:-1 group-title="TEST30",BMP2
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53584
+#EXTINF:-1 group-title="TEST30",BMP2
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53585
+#EXTINF:-1 group-title="TEST30",BMS2
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53586
+#EXTINF:-1 group-title="TEST30",BMS
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53587
+#EXTINF:-1 group-title="TEST30",BMT
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53588
+#EXTINF:-1 group-title="TEST30",BSC
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53589
+#EXTINF:-1 group-title="TEST30",BSC
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53590
+#EXTINF:-1 group-title="TEST30",BSD
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53591
+#EXTINF:-1 group-title="TEST30",BSC
+http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53592
+
+
+#EXTINF:-1 group-title="TEST30",1
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3965
+#EXTINF:-1 group-title="TEST30",2
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3966
+#EXTINF:-1 group-title="TEST30",3
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3967
+#EXTINF:-1 group-title="TEST30",BO
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3968
+#EXTINF:-1 group-title="TEST30",BF
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3969
+#EXTINF:-1 group-title="TEST30",BP1
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3970
+#EXTINF:-1 group-title="TEST30",BP2
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3971
+#EXTINF:-1 group-title="TEST30",BS
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3972
+
+#EXTINF:-1 group-title="TEST30",ENO ANiMASYON TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4064
+#EXTINF:-1 group-title="TEST30",ENO TURK TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4065
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 1 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4066
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 2 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4067
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 3 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4068
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 4 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4069
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 5 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4070
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 6 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4071
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 7 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4072
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 8 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4073
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 9 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4074
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 10 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4075
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 11 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4076
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 12 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4077
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 14 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4078
+#EXTINF:-1 group-title="TEST30",ENO ViZYON 15 TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4079
+#EXTINF:-1 group-title="TEST30",ENO WESTERN TR
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4080
