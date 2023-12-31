@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 group-title="TV",LN FHD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6864/index.m3u8
+#EXTINF:-1 group-title="TV",YABAN FHD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6868/index.m3u8
+#EXTINF:-1 group-title="TV",F.box FHD
+http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6746/index.m3u8
+
+#EXTINF:-1 group-title="TV",S.A-2 HD TR
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6876/index.m3u8
+#EXTINF:-1 group-title="TV",M.A HD TR
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6877/index.m3u8
+#EXTINF:-1 group-title="TV",M.F HD TR
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6878/index.m3u8
+#EXTINF:-1 group-title="TV",M.P HD TR
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6880/index.m3u8
+#EXTINF:-1 group-title="TV",M.P-2 HD TR
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6879/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ESPN HD BR
 #EXTGRP:Бразилия | Brasil
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19056/index.m3u8
