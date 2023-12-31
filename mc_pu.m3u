@@ -497,24 +497,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d
 #EXTINF:-1 group-title="TV LISTEM",PL OYUN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="TV LISTEM",LN FHD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6864/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",YABAN FHD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6868/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",F.box FHD
-http://stmrwaxq.russtv.net/iptv/VNDB5BVD3QMHDB/6746/index.m3u8
-
-#EXTINF:-1 group-title="TV LISTEM",S.A-2 HD TR
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6876/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",M.A HD TR
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6877/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",M.F HD TR
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6878/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",M.P HD TR
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6880/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",M.P-2 HD TR
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/6879/index.m3u8
-
 #EXTINF:-1 group-title="TV LISTEM",Sin 1
 https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Sin 2
