@@ -11,7 +11,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 http://gineu9.bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",FOX HD
 http://gineu9.bozztv.com/gin-36bay2/gin-turkfoxtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",TRT Belgesel
+#EXTINF:-1 group-title="TV LISTEM",TRT Belgesel HD
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TV-NET HD
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
@@ -52,18 +52,31 @@ https://stream.yol.tv:9443/medialive/yol.m3u8
 https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1 group-title="TV LISTEM",AFYON TÜRK TV HD
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-#EXTINF:-1 group-title="TV LISTEM",RV 1
+#EXTINF:-1 group-title="TV LISTEM",FLM 1
 http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon1/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",RTS 2
+#EXTINF:-1 group-title="TV LISTEM",FLM 2
 http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",RYÇAM
+#EXTINF:-1 group-title="TV LISTEM",FLM 3
 http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv2/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",YÇAM
+#EXTINF:-1 group-title="TV LISTEM",FLM 4
 http://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",YLÇAM 2
+#EXTINF:-1 group-title="TV LISTEM",FLM 5
 http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/index.m3u8
-#EXTINF:-1 group-title="TV LISTEM",NE.N
+#EXTINF:-1 group-title="TV LISTEM",FLM 6
 http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/index.m3u8
+
+#EXTINF:-1 group-title="TV LISTEM",Sin 1
+https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Sin 2
+https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Sin 3
+https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Ycam 1
+https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Ycam 2
+https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV LISTEM",Ycam 3
+http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",LİFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
@@ -497,18 +510,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d
 #EXTINF:-1 group-title="TV LISTEM",PL OYUN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="TV LISTEM",Sin 1
-https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Sin 2
-https://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Sin 3
-https://gineu9.bozztv.com/gin-36bay3/gt-sinevizyon3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Ycam 1
-https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Ycam 2
-https://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TV LISTEM",Ycam 3
-http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
 
 
 
