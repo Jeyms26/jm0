@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV LISTEM",TRT-1 FHD
-https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
+#EXTINF:-1 group-title="TV LISTEM",TeleOn FHDTV
+https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KANAL-D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",SHOW-TV FHD
@@ -13,7 +13,7 @@ http://gineu9.bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
 http://gineu9.bozztv.com/gin-36bay2/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TV LISTEM",TV-NET
+#EXTINF:-1 group-title="TV LISTEM",TV-NET HD
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",TEVE-2 FHD
 https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=5jf4zuxa73an&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=2
@@ -27,9 +27,9 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 group-title="TV LISTEM",TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 group-title="TV LISTEM",İSTANBUL
+#EXTINF:-1 group-title="TV LISTEM",İSTANBUL HD
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
-#EXTINF:-1 group-title="TV LISTEM",TiViTRK
+#EXTINF:-1 group-title="TV LISTEM",TiViTRK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 group-title="TV LISTEM",FTV HD (Fortuna TV)
@@ -71,9 +71,9 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1 group-title="TV LISTEM",DENiZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",ANGARA TV HD
+#EXTINF:-1 group-title="TV LISTEM",ANGARA TV FHD
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
-#EXTINF:-1 group-title="TV LISTEM",ON6 BSA
+#EXTINF:-1 group-title="TV LISTEM",ON6 BSA FHD
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",HUNAT KS
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
@@ -83,7 +83,7 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ERCiS TV
 https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
-#EXTINF:-1 group-title="TV LISTEM",CEKMEKOY BELEDiYE TV
+#EXTINF:-1 group-title="TV LISTEM",CEKMEKOY B.TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunklist_w1305163043_b1694720.m3u8
 #EXTINF:-1 group-title="TV LISTEM",ORDU BEL TV
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
@@ -92,18 +92,16 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="TV LISTEM",..
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
-#EXTINF:-1 group-title="TV LISTEM",Epic Dr FHDTV TR-RU
-http://91.210.251.166:4897/udp/239.0.3.8:4000
-#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV TR-RU
-http://178.163.17.115:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="TV LISTEM",Epic Dr FHDTV
+rtmp://93.189.60.202//1048
+#EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV1 RU
+http://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV2 TR-RU
 http://188.113.190.15:80/94/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV3 TR-RU
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14006/index.m3u8
 #EXTINF:-1 group-title="TV LISTEM",MiLYON
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:-1 group-title="TV LISTEM",TeleOn FHDTV
-https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KRAL POP FHD
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="TV LISTEM",KRAL POP HD
@@ -3343,10 +3341,11 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",.....
 http://tinyurl.com/161651605481
-#EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5 FHD
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
-#EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5 FHD
-http://persik.by:80/stream/4436/49935/10408.m3u8
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 3
+http://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5
+http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 2
 http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/19244/index.m3u8
@@ -3364,6 +3363,8 @@ http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/5050/index.m3u8
 http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/9251/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 7
 http://188.113.190.15:80/105/mono.m3u8
+#EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-SD (80) 8
+http://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 
 #EXTINF:-1 group-title="TV ÖZEL-2",NTV.S
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
@@ -3486,3 +3487,29 @@ http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4078
 http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4079
 #EXTINF:-1 group-title="TEST30",ENO WESTERN TR
 http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4080
+
+
+#EXTINF:-1 group-title="Guncellemede",TRT-1 FHD 
+https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
+
+#EXTINF:-1 group-title="Guncellemede",FT1
+http://pl01.spr24.net/6661/mpegts?token=KktyRT6kNrWqXm
+#EXTINF:-1 group-title="Guncellemede",FT2
+http://pl01.spr24.net/6662/mpegts?token=KktyRT6kNrWqXm
+#EXTINF:-1 group-title="Guncellemede",FT3
+http://pl01.spr24.net/6724/mpegts?token=KktyRT6kNrWqXm
+
+#EXTINF:-1 group-title="Guncellemede",AP1
+http://185.6.22.6:8000/play/a03n
+#EXTINF:-1 group-title="Guncellemede",AP2
+http://185.6.22.6:8000/play/a04l
+#EXTINF:-1 group-title="Guncellemede",AP3
+http://185.6.22.6:8000/play/a04m
+
+#EXTINF:-1 group-title="Guncellemede",SK1
+http://185.6.22.6:8000/play/a040
+#EXTINF:-1 group-title="Guncellemede",SK2
+http://185.6.22.6:8000/play/a042
+#EXTINF:-1 group-title="Guncellemede",SK3
+http://185.6.22.6:8000/play/a041
+
