@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV LISTEM",4K (1)
-https://eu01.spr24.net/23430/mpegts?token=DW3LYSRyqAbHdd
-#EXTINF:-1 group-title="TV LISTEM",4K (2)
-https://eu01.spr24.net/17445/mpegts?token=DW3LYSRyqAbHdd
-#EXTINF:-1 group-title="TV LISTEM",4K (3)
-https://eu01.spr24.net/20863/mpegts?token=DW3LYSRyqAbHdd
-#EXTINF:-1 group-title="TV LISTEM",4K Gamefilm
-https://eu01.spr24.net/20918/mpegts?token=DW3LYSRyqAbHdd
-#EXTINF:-1 group-title="TV LISTEM",4K Relax
-https://eu01.spr24.net/20920/mpegts?token=DW3LYSRyqAbHdd
-#EXTINF:-1 group-title="TV LISTEM",4K Korean music
-https://eu01.spr24.net/20916/mpegts?token=DW3LYSRyqAbHdd
-#EXTINF:-1 group-title="TV LISTEM",Premiere Ultra 4K
-https://eu01.spr24.net/20848/mpegts?token=DW3LYSRyqAbHdd
-#EXTINF:-1 group-title="TV LISTEM",Ultra 4K
-https://eu01.spr24.net/20835/mpegts?token=DW3LYSRyqAbHdd
 #EXTINF:-1 group-title="TV LISTEM",TeleOn FHDTV
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KANAL-D FHD
@@ -3511,4 +3495,22 @@ http://185.6.22.6:8000/play/a040
 http://185.6.22.6:8000/play/a042
 #EXTINF:-1 group-title="Guncellemede",SK3
 http://185.6.22.6:8000/play/a041
+
+
+#EXTINF:-1 group-title="UHD",4K (1)
+https://eu01.spr24.net/23430/mpegts?token=DW3LYSRyqAbHdd
+#EXTINF:-1 group-title="UHD",4K (2)
+https://eu01.spr24.net/17445/mpegts?token=DW3LYSRyqAbHdd
+#EXTINF:-1 group-title="UHD",4K (3)
+https://eu01.spr24.net/20863/mpegts?token=DW3LYSRyqAbHdd
+#EXTINF:-1 group-title="UHD",4K Gamefilm
+https://eu01.spr24.net/20918/mpegts?token=DW3LYSRyqAbHdd
+#EXTINF:-1 group-title="UHD",4K Relax
+https://eu01.spr24.net/20920/mpegts?token=DW3LYSRyqAbHdd
+#EXTINF:-1 group-title="UHD",4K Korean music
+https://eu01.spr24.net/20916/mpegts?token=DW3LYSRyqAbHdd
+#EXTINF:-1 group-title="UHD",Premiere Ultra 4K
+https://eu01.spr24.net/20848/mpegts?token=DW3LYSRyqAbHdd
+#EXTINF:-1 group-title="UHD",Ultra 4K
+https://eu01.spr24.net/20835/mpegts?token=DW3LYSRyqAbHdd
 
