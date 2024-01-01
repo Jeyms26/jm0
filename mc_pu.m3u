@@ -3496,6 +3496,31 @@ http://185.6.22.6:8000/play/a042
 #EXTINF:-1 group-title="Guncellemede",SK3
 http://185.6.22.6:8000/play/a041
 
+#EXTINF:-1 group-title="Guncellemede",B1
+http://143951.iptvone.eu/ufukhalis/ndl62532144/77238
+#EXTINF:-1 group-title="Guncellemede",B2
+http://143951.iptvone.eu/ufukhalis/ndl62532144/87
+#EXTINF:-1 group-title="Guncellemede",B3
+http://143951.iptvone.eu/ufukhalis/ndl62532144/31407
+#EXTINF:-1 group-title="Guncellemede",B4
+http://143951.iptvone.eu/ufukhalis/ndl62532144/85
+#EXTINF:-1 group-title="Guncellemede",B5
+http://143951.iptvone.eu/ufukhalis/ndl62532144/172690
+
+#EXTINF:-1 group-title="Guncellemede",SS1
+http://143951.iptvone.eu/ufukhalis/ndl62532144/32058
+#EXTINF:-1 group-title="Guncellemede",SS2
+http://143951.iptvone.eu/ufukhalis/ndl62532144/15169
+
+#EXTINF:-1 group-title="Guncellemede",TS1
+http://143951.iptvone.eu/ufukhalis/ndl62532144/75
+#EXTINF:-1 group-title="Guncellemede",TS2
+http://143951.iptvone.eu/ufukhalis/ndl62532144/74
+#EXTINF:-1 group-title="Guncellemede",TS3
+http://143951.iptvone.eu/ufukhalis/ndl62532144/73
+#EXTINF:-1 group-title="Guncellemede",TS4
+http://143951.iptvone.eu/ufukhalis/ndl62532144/96999
+
 
 #EXTINF:-1 group-title="UHD",4K (1)
 https://eu01.spr24.net/23430/mpegts?token=DW3LYSRyqAbHdd
