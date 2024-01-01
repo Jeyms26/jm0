@@ -113,6 +113,7 @@ http://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_be
 http://188.113.190.15:80/94/mono.m3u8
 #EXTINF:-1 group-title="TV LISTEM",Dizi-SDTV3 TR-RU
 http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/14006/index.m3u8
+
 #EXTINF:-1 group-title="TV LISTEM",MiLYON
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KRAL POP FHD
@@ -3337,3 +3338,5 @@ http://143951.iptvone.eu/ufukhalis/ndl62532144/73
 #EXTINF:-1 group-title="Guncellemede",TS4
 http://143951.iptvone.eu/ufukhalis/ndl62532144/96999
 
+#EXTINF:-1 group-title="Guncellemede",+++
+https://corsproxy.org/?https://cakal.click/yayin1.m3u8
