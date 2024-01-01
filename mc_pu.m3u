@@ -3192,6 +3192,12 @@ https://cdnua03.hls.tv/178/hls/94c90967880ebcdfa084ed6aa4061457/4855/stream.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",3+
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4855/stream.m3u8
 
+#EXTINF:-1 group-title="TEST",GS
+https://proxy.canlitvplayer.com/canlitvulusal2.xyz/live/gstv/index.m3u8
+#EXTINF:-1 group-title="TEST",FB
+https://proxy.canlitvplayer.com/gineu8.bozztv.com/gin-36bay2/gin-fbtv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST",TS
+https://proxy.canlitvplayer.com/trtspordvr.blutv.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TEST",SİLK SPORT
 https://geohd.canlitvplayer.com/silksport1/tracks-v1a1/mono.m3u8?token=muvw_kHkcUWWHGTjaB7P06SI8VW4XwI5DSiIRLggA5hGb8t-5l3vcO89YMJgSgCCnRVGLhDA4hJko9O-pVurO8k2-CEoAo48Fjs5pfod_U7ZFqMLWgFijrlOv6irfPpIZiJZdW8DfJbkn9lC-36Xr7iTOx0WKS72qG8lAWYQtqaKEWb1LXAZ_eSfd6V_tQiNQrlMt9-4jlQf0uaB6jIloR3JrndyM_yC7mqOwvYN_nRWG0Xrg8yIVlrNDQpOXYYWUaOPDzdRphIR-P2pgjn-nA%2A%2A
 #EXTINF:-1 group-title="TEST",SİLK SPORT-2
@@ -3242,12 +3248,6 @@ http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53592
 
 
 
-#EXTINF:-1 group-title="Guncellemede",FT1
-http://pl01.spr24.net/6661/mpegts?token=KktyRT6kNrWqXm
-#EXTINF:-1 group-title="Guncellemede",FT2
-http://pl01.spr24.net/6662/mpegts?token=KktyRT6kNrWqXm
-#EXTINF:-1 group-title="Guncellemede",FT3
-http://pl01.spr24.net/6724/mpegts?token=KktyRT6kNrWqXm
 
 #EXTINF:-1 group-title="Guncellemede",AP1
 http://185.6.22.6:8000/play/a03n
