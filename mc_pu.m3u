@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV LISTEM",TeleOn FHDTV
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
+#EXTINF:-1 group-title="Guncellemede",TRT-1 FHD 
+https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 #EXTINF:-1 group-title="TV LISTEM",KANAL-D FHD
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 group-title="TV LISTEM",SHOW-TV FHD
@@ -3236,61 +3238,9 @@ http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53591
 http://ott1.one:8080/GENIPTV300CONX43/HDRDDFGCDFUING5/53592
 
 
-#EXTINF:-1 group-title="TEST30",1
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3965
-#EXTINF:-1 group-title="TEST30",2
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3966
-#EXTINF:-1 group-title="TEST30",3
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3967
-#EXTINF:-1 group-title="TEST30",BO
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3968
-#EXTINF:-1 group-title="TEST30",BF
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3969
-#EXTINF:-1 group-title="TEST30",BP1
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3970
-#EXTINF:-1 group-title="TEST30",BP2
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3971
-#EXTINF:-1 group-title="TEST30",BS
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/3972
-
-#EXTINF:-1 group-title="TEST30",ENO ANiMASYON TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4064
-#EXTINF:-1 group-title="TEST30",ENO TURK TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4065
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 1 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4066
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 2 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4067
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 3 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4068
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 4 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4069
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 5 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4070
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 6 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4071
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 7 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4072
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 8 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4073
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 9 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4074
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 10 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4075
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 11 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4076
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 12 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4077
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 14 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4078
-#EXTINF:-1 group-title="TEST30",ENO ViZYON 15 TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4079
-#EXTINF:-1 group-title="TEST30",ENO WESTERN TR
-http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/4080
 
 
-#EXTINF:-1 group-title="Guncellemede",TRT-1 FHD 
-https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
+
 
 #EXTINF:-1 group-title="Guncellemede",FT1
 http://pl01.spr24.net/6661/mpegts?token=KktyRT6kNrWqXm
