@@ -3145,9 +3145,7 @@ http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/20170/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",.....
 http://tinyurl.com/161651605481
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + Plus
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2ZQ26wL2rj0RLBC9fzAigU4I570c.flv
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + Plus2
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2ZQ26wL2rj0RLBC9fzAigU4I570c
+rtmp://origin.cdn.wowza.com:1935/live/0I5p2zPaMGIwsAG1ucmMRFvbBqR25859.flv
 #EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 3
 http://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5
