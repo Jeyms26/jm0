@@ -3149,9 +3149,9 @@ http://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",BEYAZ.RUSYA 5
 http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",PRO + Plus
-rtmp://origin.cdn.wowza.com:1935/live/0I5p2UImIWFGlTsZ4uhpaC9Z5M3w581e.flv
-#EXTINF:-1 group-title="TV ÖZEL-2",PRO + 
-https://543db5cfc5d0.entrypoint.cloud.wowza.com/app-7fGmfM32/ngrp:e5b9be39_all/playlist.m3u8
+rtmp://origin.cdn.wowza.com:1935/live/0I5p2zPaMGIwsAG1ucmMRFvbBqR25859.flv
+#EXTINF:-1 group-title="TV ÖZEL-2",PRO + 2
+https://005633ccd4ae.entrypoint.cloud.wowza.com/app-7t0t601z/ngrp:7476d87b_all/playlist.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 2
 http://23deb70c.ucomist.net/iptv/XP37Y4PDDQK7TN/19244/index.m3u8
 #EXTINF:-1 group-title="TV ÖZEL-2",T.K.F-FHD (75) 3
